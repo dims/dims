@@ -1,11 +1,14 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dims&show_icons=true&hide_border=true" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dims&hide=html,ruby&hide_border=true&layout=compact" />
-</p>
+<a href="https://twitter.com/dims/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dims&show_icons=true" />
+</a>
+<a href="https://twitter.com/dims/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dims&hide=html,ruby" />
+</a>
+
+<br clear="left" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dims&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=dims" />
 </p>
 
 ---
