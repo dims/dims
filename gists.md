@@ -1,12 +1,12 @@
-# Gists
+# 📝 Gists
 
-> **265 public gists** &nbsp;·&nbsp; last refreshed 2026-04-24 12:23 UTC
+> 🗂️ **265 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-04-24 12:33 UTC
 
 
-## 2026
+## 📅 2026
 
-| Gist | Files | Created | Updated |
-|------|-------|---------|---------|
+| 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
+|--------|---------|-----------|-----------|
 | [Kubernetes dependency security analysis 2026-04-23 (43 packages)](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +1 | 2026-04-24 | today |
 | [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | today |
 | [k8s.io staging module dependency graph (radial, api at center)](https://gist.github.com/dims/bde02986ddcad94b5514e7eb4e9ebff6) | `2026-04-23-k8s-staging-deps-radial.svg` | 2026-04-23 | today |
@@ -15,7 +15,7 @@
 | [CI Coverage Map — sigs.k8s.io/dra-driver-nvidia-gpu (Lambda/GCP-nvkind/mock-nvml providers, BATS suites, TestGrid tabs, GPU_TYPE= resolution, gap analysis)](https://gist.github.com/dims/f7c17059cff4549bde78d253971033f1) | `dra-driver-nvidia-gpu-ci-coverage.md` | 2026-04-21 | 2d ago |
 | [Mock NVML GB200 Emulation: Deep-dive, BATS Test Analysis, and Test Results](https://gist.github.com/dims/68186323b335f1fcfd25a9927150bcb9) | `mock-nvml-bats-test-analysis.md` +2 | 2026-04-15 | 7d ago |
 | [TOC Member Qualifications & Criteria](https://gist.github.com/dims/4e8cf76f96876972eb335f04fdc6fdb4) | `toc.md` | 2026-04-11 | 8d ago |
-| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 9d ago |
+| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 10d ago |
 | [Lambda Cloud GPU Test Coverage: What's Next (v2 roadmap)](https://gist.github.com/dims/1923a2dd44b05b7cf2f9fd595dbf3459) | `2026-04-12-lambda-gpu-test-roadmap-v2.md` | 2026-04-12 | 11d ago |
 | [Lambda Cloud GPU Test Coverage Roadmap for dra-driver-nvidia-gpu - comprehensive analysis of testable features, QA plan comparison, and implementation phases](https://gist.github.com/dims/f0cfdd3d8c63051872ce6e24a88b9dbd) | `2026-04-11-lambda-gpu-test-coverage-roadmap.md` | 2026-04-11 | 11d ago |
 | [Running DRA GPU Tests on Lambda Cloud (without Prow) - step by step guide](https://gist.github.com/dims/6e26165d4762a76b58e5cda6acfee388) | `lambda-gpu-testing-guide.md` | 2026-04-11 | 13d ago |
@@ -44,10 +44,10 @@
 | [CNS (Cloud Native Stack) CLI UX Analysis](https://gist.github.com/dims/ca6d524c510add583a1d0b28e27a6154) | `cns-ux-analysis-v4.md` | 2026-01-15 | 3mo ago |
 | [Running Kubernetes e2e_node tests locally with Lima VM](https://gist.github.com/dims/74b665fa814acd423c6096501a77366e) | `README.md` +4 | 2026-01-10 | 3mo ago |
 | [Device Manager Race Condition Analysis](https://gist.github.com/dims/5355758b86012c0654be9d2f6502b472) | `TestNewManagerImplStartProbeMode.md` | 2026-01-09 | 3mo ago |
-## 2025
+## 📅 2025
 
-| Gist | Files | Created | Updated |
-|------|-------|---------|---------|
+| 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
+|--------|---------|-----------|-----------|
 | [Feature Gates in Kubernetes master branch on Nov 9, 2025](https://gist.github.com/dims/a0ecf5de51235968e12b9d6b62ac3a83) | `features.md` +1 | 2025-01-11 | 4mo ago |
 | [containerd-missing-blobs-analysis.md](https://gist.github.com/dims/527daa6f5cb3a3278362983ab33f56a5) | `containerd-missing-blobs-analysis.md` | 2025-12-08 | 4mo ago |
 | [Lima based Ubuntu with Containerd startup](https://gist.github.com/dims/a23f4404ad5ab299a5528d6f7969d1f8) | `README.md` +2 | 2025-12-04 | 4mo ago |
@@ -68,10 +68,10 @@
 | [Deploy deepseek-ai distill models](https://gist.github.com/dims/0ec2a44aeebf744d2175ca2c1428d701) | `README.md` +2 | 2025-02-01 | 1y 2mo ago |
 | [Using pprof to find memory leaks for golang binaries](https://gist.github.com/dims/458b49e11f6790c30a8255f48efb952c) | `README.md` +1 | 2025-01-14 | 1y 3mo ago |
 | [EKS add-on version to Kubernetes version matrix](https://gist.github.com/dims/612e512976a3bcde7185a115a5f73bbf) | `eks-add-on-to-k8s-version.sh` +1 | 2025-01-08 | 1y 3mo ago |
-## 2024
+## 📅 2024
 
-| Gist | Files | Created | Updated |
-|------|-------|---------|---------|
+| 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
+|--------|---------|-----------|-----------|
 | [BlueSky \| Unfollow All](https://gist.github.com/dims/be58d270dc5923a67ad5699d6598f2da) | `unfollow.js` | 2024-11-15 | 1y 5mo ago |
 | [bluesky-notes.md](https://gist.github.com/dims/ca85222a3d25eb1b3a4df8b7fafa51b5) | `bluesky-notes.md` | 2024-11-13 | 1y 5mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/f71271782f8840cf5c9973d7213a505c) | `gistfile1.txt` | 2024-11-07 | 1y 5mo ago |
@@ -100,10 +100,10 @@
 | [EKS cluster with a single node using specific AMI](https://gist.github.com/dims/d052a9d7bb5f1fe0807b08bed6c5e13e) | `README.md` +1 | 2024-01-22 | 2y 3mo ago |
 | [Test latest containerd version using kind](https://gist.github.com/dims/712c5696ac0b430f3b509f15359275ea) | `README.md` | 2024-01-11 | 2y 3mo ago |
 | [bulk triage on k/k PRs](https://gist.github.com/dims/2b737cc5f81392eff61a5f85ad2123e1) | `bulk.sh` | 2022-12-12 | 2y 3mo ago |
-## 2023
+## 📅 2023
 
-| Gist | Files | Created | Updated |
-|------|-------|---------|---------|
+| 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
+|--------|---------|-----------|-----------|
 | [build al2023](https://gist.github.com/dims/59330c38174c3c4320ae2f041a5fb444) | `build-and-run-al2023.sh` | 2023-11-23 | 2y 4mo ago |
 | [Running the AWS sig-node tests and conformance tests in provider-aws-test-infra repo](https://gist.github.com/dims/eace914fc47209a9f9f8a2cafed586c9) | `gistfile1.txt` | 2023-11-17 | 2y 5mo ago |
 | [gh-search-prs.txt](https://gist.github.com/dims/5d2351fe78922f8c84ee410b33ea0b17) | `gh-search-prs.txt` | 2023-10-25 | 2y 6mo ago |
@@ -120,10 +120,10 @@
 | [update-cla-for-k8s.sh](https://gist.github.com/dims/b4337c51e65e6e3e9f27c5aa610ae938) | `update-cla-for-k8s.sh` | 2021-02-19 | 3y 1mo ago |
 | [big query sql](https://gist.github.com/dims/f1fd6d6801e533f520d4d06659d601d4) | `bigquery.sql` | 2023-02-28 | 3y 1mo ago |
 | [local-docker-registry.sh](https://gist.github.com/dims/4d6b7894b1f29f43a25e72f0931c8d6b) | `local-docker-registry.sh` | 2018-09-12 | 3y 2mo ago |
-## 2022
+## 📅 2022
 
-| Gist | Files | Created | Updated |
-|------|-------|---------|---------|
+| 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
+|--------|---------|-----------|-----------|
 | [Use](https://gist.github.com/dims/9fe24682dc92a9f9f057ec44ec64bfbd) | `migrate-jobs.sh` | 2022-12-06 | 3y 4mo ago |
 | [Map of Dependencies - README.md](https://gist.github.com/dims/7eb66bbed03f349f092b31dabd1bdd47) | `Map of Dependencies - README.md` +1 | 2022-11-26 | 3y 4mo ago |
 | [README.md](https://gist.github.com/dims/3a416e0d83741cf8f31943f99cf1c7ee) | `README.md` +2 | 2021-03-17 | 3y 7mo ago |
@@ -135,10 +135,10 @@
 | [Experiment with Kubernetes with a custom Docker Image](https://gist.github.com/dims/aafc4b23c6653402f056d5c185fd6cf9) | `Dockerfile` +2 | 2016-04-14 | 3y 11mo ago |
 | [verify-licenses.sh](https://gist.github.com/dims/44dde0e640adbb553fd9f5d7fde3181b) | `verify-licenses.sh` | 2022-04-08 | 4y ago |
 | [Scripts to do a audit for tags created by publishing-bot](https://gist.github.com/dims/c53716ab4272a4b87da99b2f174923f5) | `download.sh` +1 | 2022-03-19 | 4y 1mo ago |
-## 2021
+## 📅 2021
 
-| Gist | Files | Created | Updated |
-|------|-------|---------|---------|
+| 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
+|--------|---------|-----------|-----------|
 | [Forward Docker unix socket](https://gist.github.com/dims/ca0ac30f7106e1af15a8) | `gistfile1.txt` | 2014-10-15 | 4y 4mo ago |
 | [TCE proposal template](https://gist.github.com/dims/b9cd0c191c785292a8efad34030faf48) | `YYYYMMDD-template.md` | 2021-12-14 | 4y 4mo ago |
 | [devstats yearly contribution to kubernetes](https://gist.github.com/dims/64288b86f443eeb583f35996750b33d3) | `gistfile1.txt` | 2021-11-15 | 4y 5mo ago |
@@ -149,10 +149,10 @@
 | [jsonpath.md](https://gist.github.com/dims/902d4f4f8f894b40e2971f7696119d2a) | `jsonpath.md` | 2021-05-26 | 4y 11mo ago |
 | [deflaking.md](https://gist.github.com/dims/286caf7b1bdd2f52d5f231561ced5ba6) | `deflaking.md` +1 | 2021-04-30 | 4y 12mo ago |
 | [Test Kubernetes with a local build of containerd and runc](https://gist.github.com/dims/4fac086aee0358c4b3b9c05c7fbf2491) | `README.md` +1 | 2021-04-21 | 5y ago |
-## 2020
+## 📅 2020
 
-| Gist | Files | Created | Updated |
-|------|-------|---------|---------|
+| 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
+|--------|---------|-----------|-----------|
 | [hostpath-pvc-example.yaml](https://gist.github.com/dims/916fd6c76b7b2869cfe62242fe4890c2) | `hostpath-pvc-example.yaml` | 2016-06-21 | 5y 7mo ago |
 | [asyncpreemptoff.go](https://gist.github.com/dims/a2a3f51804cce919a5cdd7fcb3f4fd1e) | `asyncpreemptoff.go` | 2020-06-26 | 5y 9mo ago |
 | [git_version](https://gist.github.com/dims/cb4964ae5e1c2d6f983f3f71844fbb9a) | `git_version` +3 | 2020-06-24 | 5y 10mo ago |
@@ -165,10 +165,10 @@
 | [gistfile1.txt](https://gist.github.com/dims/2887a832fbbd4f6e0acfdfa2c4453b66) | `gistfile1.txt` | 2020-04-13 | 6y ago |
 | [Expect script for logging into VPN using Anyconnect client (works on osx and linux)](https://gist.github.com/dims/59be0c075f29e7ec26a8) | `gistfile1.txt` | 2014-06-02 | 6y 2mo ago |
 | [Find folks who are overloaded](https://gist.github.com/dims/2ca0f0031ee195a0cb750bdeb3b3a710) | `README.txt` +2 | 2020-01-24 | 6y 3mo ago |
-## 2019
+## 📅 2019
 
-| Gist | Files | Created | Updated |
-|------|-------|---------|---------|
+| 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
+|--------|---------|-----------|-----------|
 | [cluster-api-provider-gcp cheat sheet](https://gist.github.com/dims/4c989521f2f0941df42d9f69da93e94a) | `gcp.sh` | 2019-09-17 | 6y 4mo ago |
 | [restart-aws.sh](https://gist.github.com/dims/1fc2c84c5d1d53237270c56952477b01) | `restart-aws.sh` | 2019-11-01 | 6y 5mo ago |
 | [Mesos-Marathon-Quick-Start.md](https://gist.github.com/dims/7ad86fb2ec12c91a4672) | `Mesos-Marathon-Quick-Start.md` | 2016-03-25 | 6y 10mo ago |
@@ -183,10 +183,10 @@
 | [prune_git_history.sh](https://gist.github.com/dims/bed84653c771446f372c67e836488aa1) | `prune_git_history.sh` | 2019-01-24 | 7y 3mo ago |
 | [filter_git_history.sh](https://gist.github.com/dims/e00c8fa8d6847064db62cbf2780706c5) | `filter_git_history.sh` | 2019-01-24 | 7y 3mo ago |
 | [http_handler_timeout.go](https://gist.github.com/dims/9f01e3d07057c09faf16b6bd6aa5362a) | `http_handler_timeout.go` | 2019-01-10 | 7y 3mo ago |
-## 2018
+## 📅 2018
 
-| Gist | Files | Created | Updated |
-|------|-------|---------|---------|
+| 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
+|--------|---------|-----------|-----------|
 | [oslo.config + oslo.log sample](https://gist.github.com/dims/19cb6ee280c3177fbf52) | `app.py` +1 | 2015-03-17 | 7y 3mo ago |
 | [Use existing in-tree cinder provider with openstack external cloud provider](https://gist.github.com/dims/3a9507a5be59a446d2d76c7b9ca84a49) | `external-cloud-provider-cinder-integration.md` | 2018-12-19 | 7y 4mo ago |
 | [kubeadm.txt](https://gist.github.com/dims/3914bdfb0ebde52ea0118a237a4d90b9) | `kubeadm.txt` | 2017-11-29 | 7y 6mo ago |
@@ -207,10 +207,10 @@
 | [local.conf](https://gist.github.com/dims/43488ea7420c4275654d8e364d5bb464) | `local.conf` | 2018-02-07 | 8y 2mo ago |
 | [flush-iptables.sh](https://gist.github.com/dims/1772d4996c2e3935faab2ec70ced0559) | `flush-iptables.sh` | 2018-02-04 | 8y 2mo ago |
 | [cloud-controller-manager.sh](https://gist.github.com/dims/28b78c368eac7b8feff28105584b2129) | `cloud-controller-manager.sh` | 2018-01-02 | 8y 3mo ago |
-## 2017
+## 📅 2017
 
-| Gist | Files | Created | Updated |
-|------|-------|---------|---------|
+| 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
+|--------|---------|-----------|-----------|
 | [gistfile1.txt](https://gist.github.com/dims/35b249bf106bcabc900e9dfd6d5cfdb2) | `gistfile1.txt` | 2017-12-29 | 8y 3mo ago |
 | [config.json](https://gist.github.com/dims/5b9b8b6a11dbf6a96f787775f40a4746) | `config.json` | 2017-12-12 | 8y 4mo ago |
 | [nginx-cinder-all.yaml](https://gist.github.com/dims/ba202b11806d2e99004ac4ddc0c79e04) | `nginx-cinder-all.yaml` | 2017-11-27 | 8y 5mo ago |
@@ -240,10 +240,10 @@
 | [zuulfailures.py](https://gist.github.com/dims/54b391bd5964d3d208113b16766ea85e) | `zuulfailures.py` | 2017-01-31 | 9y 2mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/05fced10d374a04bb366c0536481dfa5) | `gistfile1.txt` | 2017-01-15 | 9y 3mo ago |
 | [zuulfailures.py](https://gist.github.com/dims/7286bf3db9d6b4c0f73994db46aa3681) | `zuulfailures.py` | 2017-01-12 | 9y 3mo ago |
-## 2016
+## 📅 2016
 
-| Gist | Files | Created | Updated |
-|------|-------|---------|---------|
+| 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
+|--------|---------|-----------|-----------|
 | [gistfile1.txt](https://gist.github.com/dims/c0c2fb8030f62266a34f2b05318f182a) | `gistfile1.txt` | 2016-12-15 | 9y 4mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/85cf89856beea7a566d21a28357a48eb) | `gistfile1.txt` | 2016-12-15 | 9y 4mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/9492a27046bf3f02c2f3e8b882e69d25) | `gistfile1.txt` | 2016-12-14 | 9y 4mo ago |
@@ -275,10 +275,10 @@
 | [Bugs marked "In Progress" but no reviews](https://gist.github.com/dims/3de20e400b11af56fff7) | `parked_bugs.py` | 2016-03-04 | 10y ago |
 | [Kolla - /etc/kolla/globals.yml](https://gist.github.com/dims/04a046e7286f73a87274f2a7af37f752) | `globals.yml` | 2016-03-31 | 10y ago |
 | [gistfile1.txt](https://gist.github.com/dims/495a7f092fce52693d28) | `gistfile1.txt` | 2016-03-08 | 10y 1mo ago |
-## 2015
+## 📅 2015
 
-| Gist | Files | Created | Updated |
-|------|-------|---------|---------|
+| 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
+|--------|---------|-----------|-----------|
 | [test.py](https://gist.github.com/dims/226218dd289857f6c933) | `test.py` | 2015-12-22 | 10y 4mo ago |
 | [diff2list](https://gist.github.com/dims/bd4144ab1d0f92f6fa50) | `diff2list` | 2015-10-19 | 10y 6mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/1238498) | `gistfile1.txt` | 2011-09-23 | 10y 7mo ago |
@@ -318,4 +318,4 @@
 | [cf-173-openstack.yml](https://gist.github.com/dims/588bac454e732f91a640) | `cf-173-openstack.yml` | 2014-06-26 | 10y 8mo ago |
 
 ---
-*Auto-generated every 6 hours by [update-gists](.github/workflows/update-gists.yml)*
+*🤖 Auto-generated every 6 hours by [update-gists](.github/workflows/update-gists.yml)*
