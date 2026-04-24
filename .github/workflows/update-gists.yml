@@ -82,8 +82,8 @@ jobs:
           now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
           lines = []
-          lines.append("# Gists\n")
-          lines.append(f"> **{len(gists)} public gists** &nbsp;·&nbsp; last refreshed {now_str}\n")
+          lines.append("# 📝 Gists\n")
+          lines.append(f"> 🗂️ **{len(gists)} public gists** &nbsp;·&nbsp; 🕐 last refreshed {now_str}\n")
           lines.append("")
 
           current_year = None
@@ -91,9 +91,9 @@ jobs:
               year = g["updated_at"][:4]
               if year != current_year:
                   current_year = year
-                  lines.append(f"## {year}\n")
-                  lines.append("| Gist | Files | Created | Updated |")
-                  lines.append("|------|-------|---------|---------|")
+                  lines.append(f"## 📅 {year}\n")
+                  lines.append("| 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |")
+                  lines.append("|--------|---------|-----------|-----------|")
 
               desc = (g.get("description") or "").strip()
               files = list(g["files"].keys())
@@ -118,7 +118,7 @@ jobs:
 
           lines.append("")
           lines.append("---")
-          lines.append(f"*Auto-generated every 6 hours by [update-gists](.github/workflows/update-gists.yml)*")
+          lines.append(f"*🤖 Auto-generated every 6 hours by [update-gists](.github/workflows/update-gists.yml)*")
           lines.append("")
 
           with open("gists.md", "w") as f:
