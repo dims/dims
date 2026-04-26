@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **266 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-04-26 00:12 UTC
+> 🗂️ **266 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-04-26 06:33 UTC
 
 
 ## 📅 2026
@@ -9,11 +9,11 @@
 |--------|---------|-----------|-----------|
 | [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | today |
 | [Kubernetes Dependency Analysis (v1.36.0-alpha) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | yesterday |
-| [Kubernetes dependency security analysis 2026-04-23 (43 packages)](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +1 | 2026-04-24 | yesterday |
+| [Kubernetes dependency security analysis 2026-04-23 (43 packages)](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +1 | 2026-04-24 | 2d ago |
 | [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 2d ago |
 | [k8s.io staging module dependency graph (radial, api at center)](https://gist.github.com/dims/bde02986ddcad94b5514e7eb4e9ebff6) | `2026-04-23-k8s-staging-deps-radial.svg` | 2026-04-23 | 2d ago |
 | [Kubernetes Dependency Reduction Assessment (Apr 23, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 2d ago |
-| [staging-module-dependency-analysis.md](https://gist.github.com/dims/d12d8097a424943de8ff2853330c549a) | `staging-module-dependency-analysis.md` +1 | 2025-12-03 | 2d ago |
+| [staging-module-dependency-analysis.md](https://gist.github.com/dims/d12d8097a424943de8ff2853330c549a) | `staging-module-dependency-analysis.md` +1 | 2025-12-03 | 3d ago |
 | [CI Coverage Map — sigs.k8s.io/dra-driver-nvidia-gpu (Lambda/GCP-nvkind/mock-nvml providers, BATS suites, TestGrid tabs, GPU_TYPE= resolution, gap analysis)](https://gist.github.com/dims/f7c17059cff4549bde78d253971033f1) | `dra-driver-nvidia-gpu-ci-coverage.md` | 2026-04-21 | 4d ago |
 | [Mock NVML GB200 Emulation: Deep-dive, BATS Test Analysis, and Test Results](https://gist.github.com/dims/68186323b335f1fcfd25a9927150bcb9) | `mock-nvml-bats-test-analysis.md` +2 | 2026-04-15 | 9d ago |
 | [TOC Member Qualifications & Criteria](https://gist.github.com/dims/4e8cf76f96876972eb335f04fdc6fdb4) | `toc.md` | 2026-04-11 | 10d ago |
@@ -21,8 +21,8 @@
 | [Lambda Cloud GPU Test Coverage: What's Next (v2 roadmap)](https://gist.github.com/dims/1923a2dd44b05b7cf2f9fd595dbf3459) | `2026-04-12-lambda-gpu-test-roadmap-v2.md` | 2026-04-12 | 13d ago |
 | [Lambda Cloud GPU Test Coverage Roadmap for dra-driver-nvidia-gpu - comprehensive analysis of testable features, QA plan comparison, and implementation phases](https://gist.github.com/dims/f0cfdd3d8c63051872ce6e24a88b9dbd) | `2026-04-11-lambda-gpu-test-coverage-roadmap.md` | 2026-04-11 | 13d ago |
 | [Running DRA GPU Tests on Lambda Cloud (without Prow) - step by step guide](https://gist.github.com/dims/6e26165d4762a76b58e5cda6acfee388) | `lambda-gpu-testing-guide.md` | 2026-04-11 | 14d ago |
-| [CNCF TOC Members Timeline](https://gist.github.com/dims/f98a5ab28f2be0c7a0b2c6a3698bc6fb) | `toc-members-timeline.svg` | 2026-04-09 | 16d ago |
-| [Running Kubernetes GPU e2e Tests on Lambda Cloud](https://gist.github.com/dims/b033e62eab37b0a13807d1ef05304bee) | `k8s-e2e-node-lambda-cloud.md` | 2026-04-02 | 23d ago |
+| [CNCF TOC Members Timeline](https://gist.github.com/dims/f98a5ab28f2be0c7a0b2c6a3698bc6fb) | `toc-members-timeline.svg` | 2026-04-09 | 17d ago |
+| [Running Kubernetes GPU e2e Tests on Lambda Cloud](https://gist.github.com/dims/b033e62eab37b0a13807d1ef05304bee) | `k8s-e2e-node-lambda-cloud.md` | 2026-04-02 | 24d ago |
 | [run-node-e2e-tests-with-containerd.sh](https://gist.github.com/dims/29b734404b94715373759f25c18e555e) | `run-node-e2e-tests-with-containerd.sh` | 2025-04-28 | 27d ago |
 | [CNCF K8s AI Conformance Analysis - 2026-03-16 (SHA: 223d15f)](https://gist.github.com/dims/db188beb19c8b3c2904017e4f269105c) | `2026-03-16-k8s-ai-conformance-analysis.md` +1 | 2026-03-16 | 1mo ago |
 | [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` | 2026-03-02 | 1mo ago |
@@ -164,7 +164,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/ec84055b6354f2b2beea2196e28770d5) | `gistfile1.txt` | 2020-04-09 | 6y ago |
 | [gistfile1.txt](https://gist.github.com/dims/bab84dfeaf682237c17683f95be006e7) | `gistfile1.txt` | 2020-04-17 | 6y ago |
 | [gistfile1.txt](https://gist.github.com/dims/2887a832fbbd4f6e0acfdfa2c4453b66) | `gistfile1.txt` | 2020-04-13 | 6y ago |
-| [Expect script for logging into VPN using Anyconnect client (works on osx and linux)](https://gist.github.com/dims/59be0c075f29e7ec26a8) | `gistfile1.txt` | 2014-06-02 | 6y 2mo ago |
+| [Expect script for logging into VPN using Anyconnect client (works on osx and linux)](https://gist.github.com/dims/59be0c075f29e7ec26a8) | `gistfile1.txt` | 2014-06-02 | 6y 3mo ago |
 | [Find folks who are overloaded](https://gist.github.com/dims/2ca0f0031ee195a0cb750bdeb3b3a710) | `README.txt` +2 | 2020-01-24 | 6y 3mo ago |
 ## 📅 2019
 
@@ -188,7 +188,7 @@
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [oslo.config + oslo.log sample](https://gist.github.com/dims/19cb6ee280c3177fbf52) | `app.py` +1 | 2015-03-17 | 7y 3mo ago |
+| [oslo.config + oslo.log sample](https://gist.github.com/dims/19cb6ee280c3177fbf52) | `app.py` +1 | 2015-03-17 | 7y 4mo ago |
 | [Use existing in-tree cinder provider with openstack external cloud provider](https://gist.github.com/dims/3a9507a5be59a446d2d76c7b9ca84a49) | `external-cloud-provider-cinder-integration.md` | 2018-12-19 | 7y 4mo ago |
 | [kubeadm.txt](https://gist.github.com/dims/3914bdfb0ebde52ea0118a237a4d90b9) | `kubeadm.txt` | 2017-11-29 | 7y 6mo ago |
 | [cloudlab.txt](https://gist.github.com/dims/a5081982e7b6efa273af95593c110cc8) | `cloudlab.txt` | 2017-11-29 | 7y 6mo ago |
@@ -212,7 +212,7 @@
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [gistfile1.txt](https://gist.github.com/dims/35b249bf106bcabc900e9dfd6d5cfdb2) | `gistfile1.txt` | 2017-12-29 | 8y 3mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/35b249bf106bcabc900e9dfd6d5cfdb2) | `gistfile1.txt` | 2017-12-29 | 8y 4mo ago |
 | [config.json](https://gist.github.com/dims/5b9b8b6a11dbf6a96f787775f40a4746) | `config.json` | 2017-12-12 | 8y 4mo ago |
 | [nginx-cinder-all.yaml](https://gist.github.com/dims/ba202b11806d2e99004ac4ddc0c79e04) | `nginx-cinder-all.yaml` | 2017-11-27 | 8y 5mo ago |
 | [kubeadm.sh](https://gist.github.com/dims/3eeef40cb513d363bd84c5a63ce2f9ff) | `kubeadm.sh` | 2017-11-25 | 8y 5mo ago |
