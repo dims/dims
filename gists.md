@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **267 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-04-27 06:46 UTC
+> 🗂️ **267 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-04-27 12:25 UTC
 
 
 ## 📅 2026
@@ -8,12 +8,12 @@
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
 | [Kubernetes unwanted vendor dependencies status — April 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-04.md` | 2026-04-26 | today |
-| [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | yesterday |
+| [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | 2d ago |
 | [Kubernetes Dependency Analysis (v1.36.0-alpha) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 2d ago |
 | [Kubernetes dependency security analysis 2026-04-23 (43 packages)](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +1 | 2026-04-24 | 3d ago |
 | [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 3d ago |
 | [k8s.io staging module dependency graph (radial, api at center)](https://gist.github.com/dims/bde02986ddcad94b5514e7eb4e9ebff6) | `2026-04-23-k8s-staging-deps-radial.svg` | 2026-04-23 | 3d ago |
-| [Kubernetes Dependency Reduction Assessment (Apr 23, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 3d ago |
+| [Kubernetes Dependency Reduction Assessment (Apr 23, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 4d ago |
 | [staging-module-dependency-analysis.md](https://gist.github.com/dims/d12d8097a424943de8ff2853330c549a) | `staging-module-dependency-analysis.md` +1 | 2025-12-03 | 4d ago |
 | [CI Coverage Map — sigs.k8s.io/dra-driver-nvidia-gpu (Lambda/GCP-nvkind/mock-nvml providers, BATS suites, TestGrid tabs, GPU_TYPE= resolution, gap analysis)](https://gist.github.com/dims/f7c17059cff4549bde78d253971033f1) | `dra-driver-nvidia-gpu-ci-coverage.md` | 2026-04-21 | 5d ago |
 | [Mock NVML GB200 Emulation: Deep-dive, BATS Test Analysis, and Test Results](https://gist.github.com/dims/68186323b335f1fcfd25a9927150bcb9) | `mock-nvml-bats-test-analysis.md` +2 | 2026-04-15 | 10d ago |
@@ -21,14 +21,14 @@
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 12d ago |
 | [Lambda Cloud GPU Test Coverage: What's Next (v2 roadmap)](https://gist.github.com/dims/1923a2dd44b05b7cf2f9fd595dbf3459) | `2026-04-12-lambda-gpu-test-roadmap-v2.md` | 2026-04-12 | 14d ago |
 | [Lambda Cloud GPU Test Coverage Roadmap for dra-driver-nvidia-gpu - comprehensive analysis of testable features, QA plan comparison, and implementation phases](https://gist.github.com/dims/f0cfdd3d8c63051872ce6e24a88b9dbd) | `2026-04-11-lambda-gpu-test-coverage-roadmap.md` | 2026-04-11 | 14d ago |
-| [Running DRA GPU Tests on Lambda Cloud (without Prow) - step by step guide](https://gist.github.com/dims/6e26165d4762a76b58e5cda6acfee388) | `lambda-gpu-testing-guide.md` | 2026-04-11 | 15d ago |
+| [Running DRA GPU Tests on Lambda Cloud (without Prow) - step by step guide](https://gist.github.com/dims/6e26165d4762a76b58e5cda6acfee388) | `lambda-gpu-testing-guide.md` | 2026-04-11 | 16d ago |
 | [CNCF TOC Members Timeline](https://gist.github.com/dims/f98a5ab28f2be0c7a0b2c6a3698bc6fb) | `toc-members-timeline.svg` | 2026-04-09 | 18d ago |
 | [Running Kubernetes GPU e2e Tests on Lambda Cloud](https://gist.github.com/dims/b033e62eab37b0a13807d1ef05304bee) | `k8s-e2e-node-lambda-cloud.md` | 2026-04-02 | 25d ago |
 | [run-node-e2e-tests-with-containerd.sh](https://gist.github.com/dims/29b734404b94715373759f25c18e555e) | `run-node-e2e-tests-with-containerd.sh` | 2025-04-28 | 28d ago |
 | [CNCF K8s AI Conformance Analysis - 2026-03-16 (SHA: 223d15f)](https://gist.github.com/dims/db188beb19c8b3c2904017e4f269105c) | `2026-03-16-k8s-ai-conformance-analysis.md` +1 | 2026-03-16 | 1mo ago |
 | [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` | 2026-03-02 | 1mo ago |
-| [Brev CLI: GPU Provisioning — Developer Experience Report](https://gist.github.com/dims/b3b0b73c0b5951b44c749e55cbf61769) | `brev-cli-dx-report.md` | 2026-02-26 | 1mo ago |
-| [Running Qwen3-Coder-Next-FP8 with Claude Code on Brev H100](https://gist.github.com/dims/4aa2fb68ae83bbb81fd21159c51d04c5) | `qwen-claude-setup.md` | 2026-02-26 | 1mo ago |
+| [Brev CLI: GPU Provisioning — Developer Experience Report](https://gist.github.com/dims/b3b0b73c0b5951b44c749e55cbf61769) | `brev-cli-dx-report.md` | 2026-02-26 | 2mo ago |
+| [Running Qwen3-Coder-Next-FP8 with Claude Code on Brev H100](https://gist.github.com/dims/4aa2fb68ae83bbb81fd21159c51d04c5) | `qwen-claude-setup.md` | 2026-02-26 | 2mo ago |
 | [Containerd Dependency Analysis (v2.2.1) -- depstat](https://gist.github.com/dims/be341508bb077b30cfb38b6e45a7eac9) | `containerd-dep-analysis.md` +8 | 2026-02-08 | 2mo ago |
 | [etcd Dependency Analysis Report (depstat)](https://gist.github.com/dims/20fa8ab4fb1bbeef470d96228753677f) | `etcd-core-graph.svg` +10 | 2026-02-08 | 2mo ago |
 | [Super-Prompt: Comprehensive Dependency Analysis (Any Open Source Project)](https://gist.github.com/dims/e2d48230baea55251c6087ecd75f2986) | `depstat-superprompt.md` | 2026-02-11 | 2mo ago |
@@ -176,7 +176,7 @@
 | [Mesos-Marathon-Quick-Start.md](https://gist.github.com/dims/7ad86fb2ec12c91a4672) | `Mesos-Marathon-Quick-Start.md` | 2016-03-25 | 6y 10mo ago |
 | [get-goimport.sh](https://gist.github.com/dims/cd418158f4f0e47ab2be527a6d2fbad0) | `get-goimport.sh` +1 | 2019-05-20 | 6y 11mo ago |
 | [keybase.md](https://gist.github.com/dims/a9db787f80d14525cf402cdf6ce44a51) | `keybase.md` | 2019-05-06 | 6y 11mo ago |
-| [release-cloud-provider-openstack.md](https://gist.github.com/dims/cefbdcfbacf867c315c119d7a2491c05) | `release-cloud-provider-openstack.md` | 2018-05-17 | 6y 12mo ago |
+| [release-cloud-provider-openstack.md](https://gist.github.com/dims/cefbdcfbacf867c315c119d7a2491c05) | `release-cloud-provider-openstack.md` | 2018-05-17 | 7y ago |
 | [Use the Developer Activity Counts by Repository Group dashboard to find stale reviewers and approvers](https://gist.github.com/dims/3261edf075660ad1bf5c338b8794c21b) | `detect-inactive-folks-in-owners-files.sh` | 2019-04-08 | 7y ago |
 | [gistfile1.txt](https://gist.github.com/dims/710677270d9cfba747322e1bcc02e43d) | `gistfile1.txt` | 2019-04-04 | 7y ago |
 | [deps.py](https://gist.github.com/dims/dcd1880aef24db6e85d733f3708af890) | `deps.py` +1 | 2018-10-13 | 7y 2mo ago |
