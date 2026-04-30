@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **268 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-04-29 18:25 UTC
+> 🗂️ **268 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-04-30 00:18 UTC
 
 
 ## 📅 2026
@@ -12,7 +12,7 @@
 | [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | 4d ago |
 | [Kubernetes Dependency Analysis (v1.36.0-alpha) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 5d ago |
 | [Kubernetes dependency security analysis 2026-04-23 (43 packages)](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +1 | 2026-04-24 | 5d ago |
-| [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 5d ago |
+| [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 6d ago |
 | [k8s.io staging module dependency graph (radial, api at center)](https://gist.github.com/dims/bde02986ddcad94b5514e7eb4e9ebff6) | `2026-04-23-k8s-staging-deps-radial.svg` | 2026-04-23 | 6d ago |
 | [Kubernetes Dependency Reduction Assessment (Apr 23, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 6d ago |
 | [staging-module-dependency-analysis.md](https://gist.github.com/dims/d12d8097a424943de8ff2853330c549a) | `staging-module-dependency-analysis.md` +1 | 2025-12-03 | 6d ago |
@@ -20,8 +20,8 @@
 | [Mock NVML GB200 Emulation: Deep-dive, BATS Test Analysis, and Test Results](https://gist.github.com/dims/68186323b335f1fcfd25a9927150bcb9) | `mock-nvml-bats-test-analysis.md` +2 | 2026-04-15 | 13d ago |
 | [TOC Member Qualifications & Criteria](https://gist.github.com/dims/4e8cf76f96876972eb335f04fdc6fdb4) | `toc.md` | 2026-04-11 | 14d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 15d ago |
-| [Lambda Cloud GPU Test Coverage: What's Next (v2 roadmap)](https://gist.github.com/dims/1923a2dd44b05b7cf2f9fd595dbf3459) | `2026-04-12-lambda-gpu-test-roadmap-v2.md` | 2026-04-12 | 16d ago |
-| [Lambda Cloud GPU Test Coverage Roadmap for dra-driver-nvidia-gpu - comprehensive analysis of testable features, QA plan comparison, and implementation phases](https://gist.github.com/dims/f0cfdd3d8c63051872ce6e24a88b9dbd) | `2026-04-11-lambda-gpu-test-coverage-roadmap.md` | 2026-04-11 | 16d ago |
+| [Lambda Cloud GPU Test Coverage: What's Next (v2 roadmap)](https://gist.github.com/dims/1923a2dd44b05b7cf2f9fd595dbf3459) | `2026-04-12-lambda-gpu-test-roadmap-v2.md` | 2026-04-12 | 17d ago |
+| [Lambda Cloud GPU Test Coverage Roadmap for dra-driver-nvidia-gpu - comprehensive analysis of testable features, QA plan comparison, and implementation phases](https://gist.github.com/dims/f0cfdd3d8c63051872ce6e24a88b9dbd) | `2026-04-11-lambda-gpu-test-coverage-roadmap.md` | 2026-04-11 | 17d ago |
 | [Running DRA GPU Tests on Lambda Cloud (without Prow) - step by step guide](https://gist.github.com/dims/6e26165d4762a76b58e5cda6acfee388) | `lambda-gpu-testing-guide.md` | 2026-04-11 | 18d ago |
 | [CNCF TOC Members Timeline](https://gist.github.com/dims/f98a5ab28f2be0c7a0b2c6a3698bc6fb) | `toc-members-timeline.svg` | 2026-04-09 | 20d ago |
 | [Running Kubernetes GPU e2e Tests on Lambda Cloud](https://gist.github.com/dims/b033e62eab37b0a13807d1ef05304bee) | `k8s-e2e-node-lambda-cloud.md` | 2026-04-02 | 27d ago |
@@ -39,7 +39,7 @@
 | [Review: Update go-openapi dependencies (jsonpointer, jsonreference, swag) - k8s PR #136819](https://gist.github.com/dims/31e0b95374981a8adf0d62b4c328d048) | `k8s-go-openapi-dep-update-review.md` | 2026-02-10 | 2mo ago |
 | [verify-unwanted-deps-classification.sh](https://gist.github.com/dims/41e381da9d88158bc0975a6913903ec5) | `verify-unwanted-deps-classification.sh` | 2026-02-05 | 2mo ago |
 | [CNCF_New_Contributors_FAQ.md](https://gist.github.com/dims/d59332d36089040be17834dc2febb67f) | `CNCF_New_Contributors_FAQ.md` | 2025-12-06 | 2mo ago |
-| [Kubernetes AI Conformance Implementation Analysis](https://gist.github.com/dims/ff683f5db74dd843040c377f2d263606) | `k8s-ai-conformance-analysis.md` | 2026-01-29 | 2mo ago |
+| [Kubernetes AI Conformance Implementation Analysis](https://gist.github.com/dims/ff683f5db74dd843040c377f2d263606) | `k8s-ai-conformance-analysis.md` | 2026-01-29 | 3mo ago |
 | [CI Jobs Fixed, Created, or Deleted - January 2026](https://gist.github.com/dims/2274c8cb64ab8de1321d280053ea0aca) | `dims-ci-jobs-fixed-jan-2026.md` | 2026-01-29 | 3mo ago |
 | [kops-failure-patterns-analysis.md](https://gist.github.com/dims/361585c46ef0211f375ffa6738f85eb8) | `kops-failure-patterns-analysis.md` | 2026-01-23 | 3mo ago |
 | [Kops CI Jobs Failing with KOPS_STATE_STORE Errors](https://gist.github.com/dims/0b018d889a9161e24e1c32d410a64228) | `kops.md` | 2026-01-23 | 3mo ago |
@@ -63,7 +63,7 @@
 | [validate the nginx configuration in k8s.io/apps/k8s-io](https://gist.github.com/dims/80e556414989f30b9a500957460a7855) | `out.log` +1 | 2025-09-21 | 7mo ago |
 | [[DEPRECATED] Python script to compute updates to the Kubernetes go.mod to see how far we are behind latest in vendored repos (please look in artifacts generated in this job - https://testgrid.k8s.io/sig-arch-code-organization#unit-master-dependencies&width=20)](https://gist.github.com/dims/c0857b86441442b15852a4c2355db130) | `differences.md` +2 | 2019-05-20 | 7mo ago |
 | [Extract Endpoint information from audit logs](https://gist.github.com/dims/1fc254d0e4d043ef18bbc84596785de2) | `README.md` +1 | 2025-08-19 | 8mo ago |
-| [lima configuration for a local environment to test things on macos](https://gist.github.com/dims/20a824aff15a9ceaa8b7190124ff3d3b) | `README.md` +2 | 2025-07-03 | 9mo ago |
+| [lima configuration for a local environment to test things on macos](https://gist.github.com/dims/20a824aff15a9ceaa8b7190124ff3d3b) | `README.md` +2 | 2025-07-03 | 10mo ago |
 | [imports analysis](https://gist.github.com/dims/f9adba9ec5f92b72c269c6a4ddcd93d8) | `import_analyzer.go` +1 | 2025-06-19 | 10mo ago |
 | [test-containerd-using-crictl.sh](https://gist.github.com/dims/936f5ddd85e94ea588781f1570860c2d) | `test-containerd-using-crictl.sh` | 2025-05-10 | 11mo ago |
 | [SOCI w/ k8s](https://gist.github.com/dims/829e3890282602202e116694ff626de8) | `README.md` +8 | 2024-01-13 | 11mo ago |
@@ -91,7 +91,7 @@
 | [tune-kindnet.yaml](https://gist.github.com/dims/62a2eb5c1cf6e3473d2d7f54d3e33415) | `tune-kindnet.yaml` | 2024-07-22 | 1y 9mo ago |
 | [kubetest2-quick.sh](https://gist.github.com/dims/cbbcb80cf2ff21a1c6bea44380cd10f0) | `kubetest2-quick.sh` | 2024-07-18 | 1y 9mo ago |
 | [build-and-run-stress-tests.sh](https://gist.github.com/dims/89ef5a75dabd3d36c58cc9d4a1b9e188) | `build-and-run-stress-tests.sh` | 2024-07-05 | 1y 9mo ago |
-| [Run `eksdemo` / `kubetest2 ec2` and end to end tests](https://gist.github.com/dims/4bba3a390af3c553721b766f736efc07) | `run.sh` | 2024-07-03 | 1y 9mo ago |
+| [Run `eksdemo` / `kubetest2 ec2` and end to end tests](https://gist.github.com/dims/4bba3a390af3c553721b766f736efc07) | `run.sh` | 2024-07-03 | 1y 10mo ago |
 | [skip github action stale build checks](https://gist.github.com/dims/28d4be593eb4727d2089eff80e86a31e) | `skip.sh` | 2024-06-19 | 1y 10mo ago |
 | [verify-repos.sh](https://gist.github.com/dims/9aeeacb7619865eb4bbb68a86165881d) | `verify-repos.sh` +1 | 2024-04-04 | 2y ago |
 | [gistfile1.txt](https://gist.github.com/dims/c59aa91dad40b0fa5679d58a1ac523d1) | `gistfile1.txt` | 2019-04-02 | 2y 1mo ago |
@@ -269,7 +269,7 @@
 | [echo.yaml](https://gist.github.com/dims/43e8fef096f332b41458ab43150b2214) | `echo.yaml` | 2016-06-10 | 9y 10mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/ffb0faa1614285c3ef4080867af5ade4) | `gistfile1.txt` | 2016-06-07 | 9y 10mo ago |
 | [pod-with-readiness.yml](https://gist.github.com/dims/5c0a67b229f10a5bec7d0c32f27fb81d) | `pod-with-readiness.yml` | 2016-06-06 | 9y 10mo ago |
-| [trystack.sh](https://gist.github.com/dims/f97b04b8c54182624468d4988bb5091e) | `trystack.sh` | 2016-05-06 | 9y 11mo ago |
+| [trystack.sh](https://gist.github.com/dims/f97b04b8c54182624468d4988bb5091e) | `trystack.sh` | 2016-05-06 | 9y 12mo ago |
 | [clean-kolla](https://gist.github.com/dims/f83ae173bcd20be6e172b52f95b17c5f) | `clean-kolla` | 2016-05-03 | 9y 12mo ago |
 | [Quick start Kubernetes in an OpenStack Environment](https://gist.github.com/dims/c39bdd07a471d72bac0abdf6f07409b6) | `kube-init.sh` +1 | 2016-04-21 | 10y ago |
 | [gistfile1.txt](https://gist.github.com/dims/3f0d83cb6d2f0cd6751b9f92896b4fea) | `gistfile1.txt` | 2016-04-11 | 10y ago |
