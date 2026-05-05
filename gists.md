@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **268 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-05 00:18 UTC
+> 🗂️ **268 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-05 06:39 UTC
 
 
 ## 📅 2026
@@ -11,11 +11,11 @@
 | [Kubernetes unwanted vendor dependencies status — April 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-04.md` | 2026-04-26 | 8d ago |
 | [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | 9d ago |
 | [Kubernetes Dependency Analysis (v1.36.0-alpha) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 10d ago |
-| [Kubernetes dependency security analysis 2026-04-23 (43 packages)](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +1 | 2026-04-24 | 10d ago |
+| [Kubernetes dependency security analysis 2026-04-23 (43 packages)](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +1 | 2026-04-24 | 11d ago |
 | [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 11d ago |
 | [k8s.io staging module dependency graph (radial, api at center)](https://gist.github.com/dims/bde02986ddcad94b5514e7eb4e9ebff6) | `2026-04-23-k8s-staging-deps-radial.svg` | 2026-04-23 | 11d ago |
 | [Kubernetes Dependency Reduction Assessment (Apr 23, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 11d ago |
-| [staging-module-dependency-analysis.md](https://gist.github.com/dims/d12d8097a424943de8ff2853330c549a) | `staging-module-dependency-analysis.md` +1 | 2025-12-03 | 11d ago |
+| [staging-module-dependency-analysis.md](https://gist.github.com/dims/d12d8097a424943de8ff2853330c549a) | `staging-module-dependency-analysis.md` +1 | 2025-12-03 | 12d ago |
 | [CI Coverage Map — sigs.k8s.io/dra-driver-nvidia-gpu (Lambda/GCP-nvkind/mock-nvml providers, BATS suites, TestGrid tabs, GPU_TYPE= resolution, gap analysis)](https://gist.github.com/dims/f7c17059cff4549bde78d253971033f1) | `dra-driver-nvidia-gpu-ci-coverage.md` | 2026-04-21 | 13d ago |
 | [Mock NVML GB200 Emulation: Deep-dive, BATS Test Analysis, and Test Results](https://gist.github.com/dims/68186323b335f1fcfd25a9927150bcb9) | `mock-nvml-bats-test-analysis.md` +2 | 2026-04-15 | 18d ago |
 | [TOC Member Qualifications & Criteria](https://gist.github.com/dims/4e8cf76f96876972eb335f04fdc6fdb4) | `toc.md` | 2026-04-11 | 19d ago |
@@ -23,7 +23,7 @@
 | [Lambda Cloud GPU Test Coverage: What's Next (v2 roadmap)](https://gist.github.com/dims/1923a2dd44b05b7cf2f9fd595dbf3459) | `2026-04-12-lambda-gpu-test-roadmap-v2.md` | 2026-04-12 | 22d ago |
 | [Lambda Cloud GPU Test Coverage Roadmap for dra-driver-nvidia-gpu - comprehensive analysis of testable features, QA plan comparison, and implementation phases](https://gist.github.com/dims/f0cfdd3d8c63051872ce6e24a88b9dbd) | `2026-04-11-lambda-gpu-test-coverage-roadmap.md` | 2026-04-11 | 22d ago |
 | [Running DRA GPU Tests on Lambda Cloud (without Prow) - step by step guide](https://gist.github.com/dims/6e26165d4762a76b58e5cda6acfee388) | `lambda-gpu-testing-guide.md` | 2026-04-11 | 23d ago |
-| [CNCF TOC Members Timeline](https://gist.github.com/dims/f98a5ab28f2be0c7a0b2c6a3698bc6fb) | `toc-members-timeline.svg` | 2026-04-09 | 25d ago |
+| [CNCF TOC Members Timeline](https://gist.github.com/dims/f98a5ab28f2be0c7a0b2c6a3698bc6fb) | `toc-members-timeline.svg` | 2026-04-09 | 26d ago |
 | [Running Kubernetes GPU e2e Tests on Lambda Cloud](https://gist.github.com/dims/b033e62eab37b0a13807d1ef05304bee) | `k8s-e2e-node-lambda-cloud.md` | 2026-04-02 | 1mo ago |
 | [run-node-e2e-tests-with-containerd.sh](https://gist.github.com/dims/29b734404b94715373759f25c18e555e) | `run-node-e2e-tests-with-containerd.sh` | 2025-04-28 | 1mo ago |
 | [CNCF K8s AI Conformance Analysis - 2026-03-16 (SHA: 223d15f)](https://gist.github.com/dims/db188beb19c8b3c2904017e4f269105c) | `2026-03-16-k8s-ai-conformance-analysis.md` +1 | 2026-03-16 | 1mo ago |
@@ -193,7 +193,7 @@
 | [oslo.config + oslo.log sample](https://gist.github.com/dims/19cb6ee280c3177fbf52) | `app.py` +1 | 2015-03-17 | 7y 4mo ago |
 | [Use existing in-tree cinder provider with openstack external cloud provider](https://gist.github.com/dims/3a9507a5be59a446d2d76c7b9ca84a49) | `external-cloud-provider-cinder-integration.md` | 2018-12-19 | 7y 4mo ago |
 | [kubeadm.txt](https://gist.github.com/dims/3914bdfb0ebde52ea0118a237a4d90b9) | `kubeadm.txt` | 2017-11-29 | 7y 6mo ago |
-| [cloudlab.txt](https://gist.github.com/dims/a5081982e7b6efa273af95593c110cc8) | `cloudlab.txt` | 2017-11-29 | 7y 6mo ago |
+| [cloudlab.txt](https://gist.github.com/dims/a5081982e7b6efa273af95593c110cc8) | `cloudlab.txt` | 2017-11-29 | 7y 7mo ago |
 | [Disable Parental Controls and other services in macOS Sierra (OS X)](https://gist.github.com/dims/36247f8b60d5c4c9e22cc8974174b8a8) | `disable_macOS_parental_controls.sh` | 2017-12-22 | 7y 7mo ago |
 | [nginx-cinder-with-secret-all.yaml](https://gist.github.com/dims/fab4505551fadd9ec06675c5dcd44b28) | `nginx-cinder-with-secret-all.yaml` | 2018-04-18 | 7y 8mo ago |
 | [e2e_manifests.go](https://gist.github.com/dims/067c6723588a585a7a00b22e41b86f34) | `e2e_manifests.go` +1 | 2018-08-05 | 7y 8mo ago |
