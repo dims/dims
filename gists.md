@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **269 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-05 18:25 UTC
+> 🗂️ **269 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-06 00:17 UTC
 
 
 ## 📅 2026
@@ -13,7 +13,7 @@
 | [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | 10d ago |
 | [Kubernetes Dependency Analysis (v1.36.0-alpha) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 11d ago |
 | [Kubernetes dependency security analysis 2026-04-23 (43 packages)](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +1 | 2026-04-24 | 11d ago |
-| [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 11d ago |
+| [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 12d ago |
 | [k8s.io staging module dependency graph (radial, api at center)](https://gist.github.com/dims/bde02986ddcad94b5514e7eb4e9ebff6) | `2026-04-23-k8s-staging-deps-radial.svg` | 2026-04-23 | 12d ago |
 | [Kubernetes Dependency Reduction Assessment (Apr 23, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 12d ago |
 | [staging-module-dependency-analysis.md](https://gist.github.com/dims/d12d8097a424943de8ff2853330c549a) | `staging-module-dependency-analysis.md` +1 | 2025-12-03 | 12d ago |
@@ -21,8 +21,8 @@
 | [Mock NVML GB200 Emulation: Deep-dive, BATS Test Analysis, and Test Results](https://gist.github.com/dims/68186323b335f1fcfd25a9927150bcb9) | `mock-nvml-bats-test-analysis.md` +2 | 2026-04-15 | 19d ago |
 | [TOC Member Qualifications & Criteria](https://gist.github.com/dims/4e8cf76f96876972eb335f04fdc6fdb4) | `toc.md` | 2026-04-11 | 20d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 21d ago |
-| [Lambda Cloud GPU Test Coverage: What's Next (v2 roadmap)](https://gist.github.com/dims/1923a2dd44b05b7cf2f9fd595dbf3459) | `2026-04-12-lambda-gpu-test-roadmap-v2.md` | 2026-04-12 | 22d ago |
-| [Lambda Cloud GPU Test Coverage Roadmap for dra-driver-nvidia-gpu - comprehensive analysis of testable features, QA plan comparison, and implementation phases](https://gist.github.com/dims/f0cfdd3d8c63051872ce6e24a88b9dbd) | `2026-04-11-lambda-gpu-test-coverage-roadmap.md` | 2026-04-11 | 22d ago |
+| [Lambda Cloud GPU Test Coverage: What's Next (v2 roadmap)](https://gist.github.com/dims/1923a2dd44b05b7cf2f9fd595dbf3459) | `2026-04-12-lambda-gpu-test-roadmap-v2.md` | 2026-04-12 | 23d ago |
+| [Lambda Cloud GPU Test Coverage Roadmap for dra-driver-nvidia-gpu - comprehensive analysis of testable features, QA plan comparison, and implementation phases](https://gist.github.com/dims/f0cfdd3d8c63051872ce6e24a88b9dbd) | `2026-04-11-lambda-gpu-test-coverage-roadmap.md` | 2026-04-11 | 23d ago |
 | [Running DRA GPU Tests on Lambda Cloud (without Prow) - step by step guide](https://gist.github.com/dims/6e26165d4762a76b58e5cda6acfee388) | `lambda-gpu-testing-guide.md` | 2026-04-11 | 24d ago |
 | [CNCF TOC Members Timeline](https://gist.github.com/dims/f98a5ab28f2be0c7a0b2c6a3698bc6fb) | `toc-members-timeline.svg` | 2026-04-09 | 26d ago |
 | [Running Kubernetes GPU e2e Tests on Lambda Cloud](https://gist.github.com/dims/b033e62eab37b0a13807d1ef05304bee) | `k8s-e2e-node-lambda-cloud.md` | 2026-04-02 | 1mo ago |
@@ -100,7 +100,7 @@
 | [Dockerfile.bash-static](https://gist.github.com/dims/34c53ccaabe81ca65399677645e7a2db) | `Dockerfile.bash-static` +2 | 2020-05-11 | 2y 1mo ago |
 | [Drop into the shell inside kubekins-e2e container](https://gist.github.com/dims/ac6153c1c9d07a3d2b597c4b8cb86c35) | `run-kubekins-e2e-shell.sh` | 2024-02-09 | 2y 2mo ago |
 | [go-releaser-README.md](https://gist.github.com/dims/c17535b428c4cc147b311bd37433e57d) | `go-releaser-README.md` | 2023-06-29 | 2y 2mo ago |
-| [Run local-up-cluster.sh on a fresh ubuntu environment](https://gist.github.com/dims/3abadba6b7c6812ec90dd11ef4554f6e) | `run-local-up-cluster-on-fresh-ubuntu-install.sh` | 2023-05-08 | 2y 2mo ago |
+| [Run local-up-cluster.sh on a fresh ubuntu environment](https://gist.github.com/dims/3abadba6b7c6812ec90dd11ef4554f6e) | `run-local-up-cluster-on-fresh-ubuntu-install.sh` | 2023-05-08 | 2y 3mo ago |
 | [EKS cluster with a single node using specific AMI](https://gist.github.com/dims/d052a9d7bb5f1fe0807b08bed6c5e13e) | `README.md` +1 | 2024-01-22 | 2y 3mo ago |
 | [Test latest containerd version using kind](https://gist.github.com/dims/712c5696ac0b430f3b509f15359275ea) | `README.md` | 2024-01-11 | 2y 3mo ago |
 | [bulk triage on k/k PRs](https://gist.github.com/dims/2b737cc5f81392eff61a5f85ad2123e1) | `bulk.sh` | 2022-12-12 | 2y 4mo ago |
@@ -265,7 +265,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/1a2a76ef1279b19a31d24926c0f9e5a7) | `gistfile1.txt` | 2016-07-15 | 9y 9mo ago |
 | [regit.sh](https://gist.github.com/dims/a28be63da4650b617be4a346eca271ff) | `regit.sh` | 2016-07-15 | 9y 9mo ago |
 | [extract-k8s-client.sh](https://gist.github.com/dims/a4e9e7a5db4058b09c70a305f5b73d6f) | `extract-k8s-client.sh` | 2016-07-12 | 9y 9mo ago |
-| [hello-nginx.sh](https://gist.github.com/dims/3bdd75f49647cf0089155cd331d983a9) | `hello-nginx.sh` | 2016-07-11 | 9y 9mo ago |
+| [hello-nginx.sh](https://gist.github.com/dims/3bdd75f49647cf0089155cd331d983a9) | `hello-nginx.sh` | 2016-07-11 | 9y 10mo ago |
 | [test_bot_proposed_constraints.py](https://gist.github.com/dims/094ac0e8d8bd8c4a096b6b391157aef5) | `test_bot_proposed_constraints.py` | 2016-04-09 | 9y 10mo ago |
 | [echo.yaml](https://gist.github.com/dims/43e8fef096f332b41458ab43150b2214) | `echo.yaml` | 2016-06-10 | 9y 11mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/ffb0faa1614285c3ef4080867af5ade4) | `gistfile1.txt` | 2016-06-07 | 9y 11mo ago |
