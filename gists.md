@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **269 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-06 18:28 UTC
+> 🗂️ **269 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-07 00:17 UTC
 
 
 ## 📅 2026
@@ -13,7 +13,7 @@
 | [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | 11d ago |
 | [Kubernetes Dependency Analysis (v1.36.0-alpha) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 12d ago |
 | [Kubernetes dependency security analysis 2026-04-23 (43 packages)](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +1 | 2026-04-24 | 12d ago |
-| [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 12d ago |
+| [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 13d ago |
 | [k8s.io staging module dependency graph (radial, api at center)](https://gist.github.com/dims/bde02986ddcad94b5514e7eb4e9ebff6) | `2026-04-23-k8s-staging-deps-radial.svg` | 2026-04-23 | 13d ago |
 | [Kubernetes Dependency Reduction Assessment (Apr 23, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 13d ago |
 | [staging-module-dependency-analysis.md](https://gist.github.com/dims/d12d8097a424943de8ff2853330c549a) | `staging-module-dependency-analysis.md` +1 | 2025-12-03 | 13d ago |
@@ -21,8 +21,8 @@
 | [Mock NVML GB200 Emulation: Deep-dive, BATS Test Analysis, and Test Results](https://gist.github.com/dims/68186323b335f1fcfd25a9927150bcb9) | `mock-nvml-bats-test-analysis.md` +2 | 2026-04-15 | 20d ago |
 | [TOC Member Qualifications & Criteria](https://gist.github.com/dims/4e8cf76f96876972eb335f04fdc6fdb4) | `toc.md` | 2026-04-11 | 21d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 22d ago |
-| [Lambda Cloud GPU Test Coverage: What's Next (v2 roadmap)](https://gist.github.com/dims/1923a2dd44b05b7cf2f9fd595dbf3459) | `2026-04-12-lambda-gpu-test-roadmap-v2.md` | 2026-04-12 | 23d ago |
-| [Lambda Cloud GPU Test Coverage Roadmap for dra-driver-nvidia-gpu - comprehensive analysis of testable features, QA plan comparison, and implementation phases](https://gist.github.com/dims/f0cfdd3d8c63051872ce6e24a88b9dbd) | `2026-04-11-lambda-gpu-test-coverage-roadmap.md` | 2026-04-11 | 23d ago |
+| [Lambda Cloud GPU Test Coverage: What's Next (v2 roadmap)](https://gist.github.com/dims/1923a2dd44b05b7cf2f9fd595dbf3459) | `2026-04-12-lambda-gpu-test-roadmap-v2.md` | 2026-04-12 | 24d ago |
+| [Lambda Cloud GPU Test Coverage Roadmap for dra-driver-nvidia-gpu - comprehensive analysis of testable features, QA plan comparison, and implementation phases](https://gist.github.com/dims/f0cfdd3d8c63051872ce6e24a88b9dbd) | `2026-04-11-lambda-gpu-test-coverage-roadmap.md` | 2026-04-11 | 24d ago |
 | [Running DRA GPU Tests on Lambda Cloud (without Prow) - step by step guide](https://gist.github.com/dims/6e26165d4762a76b58e5cda6acfee388) | `lambda-gpu-testing-guide.md` | 2026-04-11 | 25d ago |
 | [CNCF TOC Members Timeline](https://gist.github.com/dims/f98a5ab28f2be0c7a0b2c6a3698bc6fb) | `toc-members-timeline.svg` | 2026-04-09 | 27d ago |
 | [Running Kubernetes GPU e2e Tests on Lambda Cloud](https://gist.github.com/dims/b033e62eab37b0a13807d1ef05304bee) | `k8s-e2e-node-lambda-cloud.md` | 2026-04-02 | 1mo ago |
@@ -54,7 +54,7 @@
 |--------|---------|-----------|-----------|
 | [Feature Gates in Kubernetes master branch on Nov 9, 2025](https://gist.github.com/dims/a0ecf5de51235968e12b9d6b62ac3a83) | `features.md` +1 | 2025-01-11 | 4mo ago |
 | [containerd-missing-blobs-analysis.md](https://gist.github.com/dims/527daa6f5cb3a3278362983ab33f56a5) | `containerd-missing-blobs-analysis.md` | 2025-12-08 | 4mo ago |
-| [Lima based Ubuntu with Containerd startup](https://gist.github.com/dims/a23f4404ad5ab299a5528d6f7969d1f8) | `README.md` +2 | 2025-12-04 | 4mo ago |
+| [Lima based Ubuntu with Containerd startup](https://gist.github.com/dims/a23f4404ad5ab299a5528d6f7969d1f8) | `README.md` +2 | 2025-12-04 | 5mo ago |
 | [kepify.json](https://gist.github.com/dims/97ca19d97d74c5ec697f7d01c5dc1247) | `kepify.json` | 2020-01-19 | 5mo ago |
 | [mongodb-postgresql-unified-guide.md](https://gist.github.com/dims/87c83827c941b3d4202592f78ca37f81) | `mongodb-postgresql-unified-guide.md` | 2025-11-18 | 5mo ago |
 | [claude-review.md](https://gist.github.com/dims/2ff5ed4f2c0e7301b186956dc0f4a4a1) | `claude-review.md` | 2025-11-15 | 5mo ago |
@@ -119,7 +119,7 @@
 | [update-dependencies.sh](https://gist.github.com/dims/bca6889ef2fab9479d6a6b4aa5f3a38b) | `update-dependencies.sh` | 2020-01-15 | 2y 10mo ago |
 | [README.md](https://gist.github.com/dims/9ac9193c5988ecbaa7071e6730162b5a) | `README.md` +2 | 2023-06-09 | 2y 10mo ago |
 | [main.json](https://gist.github.com/dims/2f400d09b8deb931da6f1d498aba8c07) | `R_kgDOHDwlIw.json` +1 | 2023-05-24 | 2y 11mo ago |
-| [run exactly what runs in local-up / presubmit job](https://gist.github.com/dims/3c83730c99f61e36b8dd2d61abe68fe7) | `peel-the-onion.sh` | 2023-05-10 | 2y 11mo ago |
+| [run exactly what runs in local-up / presubmit job](https://gist.github.com/dims/3c83730c99f61e36b8dd2d61abe68fe7) | `peel-the-onion.sh` | 2023-05-10 | 2y 12mo ago |
 | [Identify big files locally](https://gist.github.com/dims/0db7bbaabcc2df0d803dcb74dc4ad440) | `Identify big files locally` | 2023-04-29 | 3y ago |
 | [update-cla-for-k8s.sh](https://gist.github.com/dims/b4337c51e65e6e3e9f27c5aa610ae938) | `update-cla-for-k8s.sh` | 2021-02-19 | 3y 1mo ago |
 | [big query sql](https://gist.github.com/dims/f1fd6d6801e533f520d4d06659d601d4) | `bigquery.sql` | 2023-02-28 | 3y 2mo ago |
@@ -131,7 +131,7 @@
 | [Use](https://gist.github.com/dims/9fe24682dc92a9f9f057ec44ec64bfbd) | `migrate-jobs.sh` | 2022-12-06 | 3y 4mo ago |
 | [Map of Dependencies - README.md](https://gist.github.com/dims/7eb66bbed03f349f092b31dabd1bdd47) | `Map of Dependencies - README.md` +1 | 2022-11-26 | 3y 5mo ago |
 | [README.md](https://gist.github.com/dims/3a416e0d83741cf8f31943f99cf1c7ee) | `README.md` +2 | 2021-03-17 | 3y 7mo ago |
-| [Fetch info from devstats](https://gist.github.com/dims/37ddc99b5af3ec8e6f93e025cd171607) | `README.md` +1 | 2022-08-10 | 3y 8mo ago |
+| [Fetch info from devstats](https://gist.github.com/dims/37ddc99b5af3ec8e6f93e025cd171607) | `README.md` +1 | 2022-08-10 | 3y 9mo ago |
 | [repro-go-1-19-bug.sh](https://gist.github.com/dims/be878acba64e57a401c4df43b6f87fe7) | `repro-go-1-19-bug.sh` | 2022-07-21 | 3y 9mo ago |
 | [Dims' gmail filters](https://gist.github.com/dims/c3f45c3158e883600f988d7a767fe16b) | `mailFilters.xml` | 2022-06-25 | 3y 10mo ago |
 | [gcp-quick-start.md](https://gist.github.com/dims/19fff66f27445c5c1f0e0195e203afef) | `gcp-quick-start.md` | 2021-10-25 | 3y 11mo ago |
@@ -255,7 +255,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/c70ff295d1f6e4f4e5efee00646e4847) | `gistfile1.txt` | 2016-11-24 | 9y 5mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/47955e16bca1eac1a177d865b5a5646f) | `gistfile1.txt` | 2016-11-19 | 9y 5mo ago |
 | [Simple mod_wsgi sample](https://gist.github.com/dims/4dfbac57efabb7631da4) | `001-myweb.conf` +1 | 2015-09-18 | 9y 5mo ago |
-| [go_test_cmd_line.sh](https://gist.github.com/dims/f56feb77c7c0212c0165588a5690b08c) | `go_test_cmd_line.sh` | 2016-11-09 | 9y 5mo ago |
+| [go_test_cmd_line.sh](https://gist.github.com/dims/f56feb77c7c0212c0165588a5690b08c) | `go_test_cmd_line.sh` | 2016-11-09 | 9y 6mo ago |
 | [make_with_test.sh](https://gist.github.com/dims/8caefc8f2e5aa5c93cff28f06e642f98) | `make_with_test.sh` | 2016-11-09 | 9y 6mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/6d24d32830921d061a3a85a320705c77) | `gistfile1.txt` | 2016-08-02 | 9y 9mo ago |
 | [print_signals.py](https://gist.github.com/dims/c2b4d6fe80fb29984b480ba14d71fda8) | `print_signals.py` +1 | 2016-07-29 | 9y 9mo ago |
@@ -264,7 +264,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/16ef3687d78e826c4328d802de1d00b9) | `gistfile1.txt` | 2016-07-20 | 9y 9mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/1a2a76ef1279b19a31d24926c0f9e5a7) | `gistfile1.txt` | 2016-07-15 | 9y 9mo ago |
 | [regit.sh](https://gist.github.com/dims/a28be63da4650b617be4a346eca271ff) | `regit.sh` | 2016-07-15 | 9y 9mo ago |
-| [extract-k8s-client.sh](https://gist.github.com/dims/a4e9e7a5db4058b09c70a305f5b73d6f) | `extract-k8s-client.sh` | 2016-07-12 | 9y 9mo ago |
+| [extract-k8s-client.sh](https://gist.github.com/dims/a4e9e7a5db4058b09c70a305f5b73d6f) | `extract-k8s-client.sh` | 2016-07-12 | 9y 10mo ago |
 | [hello-nginx.sh](https://gist.github.com/dims/3bdd75f49647cf0089155cd331d983a9) | `hello-nginx.sh` | 2016-07-11 | 9y 10mo ago |
 | [test_bot_proposed_constraints.py](https://gist.github.com/dims/094ac0e8d8bd8c4a096b6b391157aef5) | `test_bot_proposed_constraints.py` | 2016-04-09 | 9y 10mo ago |
 | [echo.yaml](https://gist.github.com/dims/43e8fef096f332b41458ab43150b2214) | `echo.yaml` | 2016-06-10 | 9y 11mo ago |
