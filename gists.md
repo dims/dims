@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **269 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-10 18:15 UTC
+> 🗂️ **269 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-11 00:18 UTC
 
 
 ## 📅 2026
@@ -13,7 +13,7 @@
 | [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | 15d ago |
 | [Kubernetes Dependency Analysis (v1.36.0-alpha) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 16d ago |
 | [Kubernetes dependency security analysis 2026-04-23 (43 packages)](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +1 | 2026-04-24 | 16d ago |
-| [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 16d ago |
+| [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 17d ago |
 | [k8s.io staging module dependency graph (radial, api at center)](https://gist.github.com/dims/bde02986ddcad94b5514e7eb4e9ebff6) | `2026-04-23-k8s-staging-deps-radial.svg` | 2026-04-23 | 17d ago |
 | [Kubernetes Dependency Reduction Assessment (Apr 23, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 17d ago |
 | [staging-module-dependency-analysis.md](https://gist.github.com/dims/d12d8097a424943de8ff2853330c549a) | `staging-module-dependency-analysis.md` +1 | 2025-12-03 | 17d ago |
@@ -21,8 +21,8 @@
 | [Mock NVML GB200 Emulation: Deep-dive, BATS Test Analysis, and Test Results](https://gist.github.com/dims/68186323b335f1fcfd25a9927150bcb9) | `mock-nvml-bats-test-analysis.md` +2 | 2026-04-15 | 24d ago |
 | [TOC Member Qualifications & Criteria](https://gist.github.com/dims/4e8cf76f96876972eb335f04fdc6fdb4) | `toc.md` | 2026-04-11 | 25d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 26d ago |
-| [Lambda Cloud GPU Test Coverage: What's Next (v2 roadmap)](https://gist.github.com/dims/1923a2dd44b05b7cf2f9fd595dbf3459) | `2026-04-12-lambda-gpu-test-roadmap-v2.md` | 2026-04-12 | 27d ago |
-| [Lambda Cloud GPU Test Coverage Roadmap for dra-driver-nvidia-gpu - comprehensive analysis of testable features, QA plan comparison, and implementation phases](https://gist.github.com/dims/f0cfdd3d8c63051872ce6e24a88b9dbd) | `2026-04-11-lambda-gpu-test-coverage-roadmap.md` | 2026-04-11 | 27d ago |
+| [Lambda Cloud GPU Test Coverage: What's Next (v2 roadmap)](https://gist.github.com/dims/1923a2dd44b05b7cf2f9fd595dbf3459) | `2026-04-12-lambda-gpu-test-roadmap-v2.md` | 2026-04-12 | 28d ago |
+| [Lambda Cloud GPU Test Coverage Roadmap for dra-driver-nvidia-gpu - comprehensive analysis of testable features, QA plan comparison, and implementation phases](https://gist.github.com/dims/f0cfdd3d8c63051872ce6e24a88b9dbd) | `2026-04-11-lambda-gpu-test-coverage-roadmap.md` | 2026-04-11 | 28d ago |
 | [Running DRA GPU Tests on Lambda Cloud (without Prow) - step by step guide](https://gist.github.com/dims/6e26165d4762a76b58e5cda6acfee388) | `lambda-gpu-testing-guide.md` | 2026-04-11 | 29d ago |
 | [CNCF TOC Members Timeline](https://gist.github.com/dims/f98a5ab28f2be0c7a0b2c6a3698bc6fb) | `toc-members-timeline.svg` | 2026-04-09 | 1mo ago |
 | [Running Kubernetes GPU e2e Tests on Lambda Cloud](https://gist.github.com/dims/b033e62eab37b0a13807d1ef05304bee) | `k8s-e2e-node-lambda-cloud.md` | 2026-04-02 | 1mo ago |
@@ -86,7 +86,7 @@
 | [unwanted-dependencies.json](https://gist.github.com/dims/030edac5dbd158eed83bd8b3f906e93d) | `unwanted-dependencies.json` | 2024-09-05 | 1y 8mo ago |
 | [perma-failures.md](https://gist.github.com/dims/466a4dec07a27eae9db41b30301b7fe3) | `perma-failures.md` | 2024-09-04 | 1y 8mo ago |
 | [v1.31 API generation](https://gist.github.com/dims/8d26414de71d46d44c8d7f1498eedd69) | `fields.yaml` +2 | 2024-08-17 | 1y 8mo ago |
-| [clean-pods-and-containers.sh](https://gist.github.com/dims/6ff28fb745487453f441f96ced4232d6) | `clean-pods-and-containers.sh` +3 | 2024-08-13 | 1y 8mo ago |
+| [clean-pods-and-containers.sh](https://gist.github.com/dims/6ff28fb745487453f441f96ced4232d6) | `clean-pods-and-containers.sh` +3 | 2024-08-13 | 1y 9mo ago |
 | [Shows the name of the command running on each port on MacOS](https://gist.github.com/dims/d8069b1c27409f9130f815bc6075ee2d) | `gistfile1.txt` | 2024-08-13 | 1y 9mo ago |
 | [README.md](https://gist.github.com/dims/af1ce191b3d6e420128629061a10e518) | `README.md` +1 | 2024-08-11 | 1y 9mo ago |
 | [tune-kindnet.yaml](https://gist.github.com/dims/62a2eb5c1cf6e3473d2d7f54d3e33415) | `tune-kindnet.yaml` | 2024-07-22 | 1y 9mo ago |
@@ -102,7 +102,7 @@
 | [go-releaser-README.md](https://gist.github.com/dims/c17535b428c4cc147b311bd37433e57d) | `go-releaser-README.md` | 2023-06-29 | 2y 3mo ago |
 | [Run local-up-cluster.sh on a fresh ubuntu environment](https://gist.github.com/dims/3abadba6b7c6812ec90dd11ef4554f6e) | `run-local-up-cluster-on-fresh-ubuntu-install.sh` | 2023-05-08 | 2y 3mo ago |
 | [EKS cluster with a single node using specific AMI](https://gist.github.com/dims/d052a9d7bb5f1fe0807b08bed6c5e13e) | `README.md` +1 | 2024-01-22 | 2y 3mo ago |
-| [Test latest containerd version using kind](https://gist.github.com/dims/712c5696ac0b430f3b509f15359275ea) | `README.md` | 2024-01-11 | 2y 3mo ago |
+| [Test latest containerd version using kind](https://gist.github.com/dims/712c5696ac0b430f3b509f15359275ea) | `README.md` | 2024-01-11 | 2y 4mo ago |
 | [bulk triage on k/k PRs](https://gist.github.com/dims/2b737cc5f81392eff61a5f85ad2123e1) | `bulk.sh` | 2022-12-12 | 2y 4mo ago |
 ## 📅 2023
 
@@ -182,7 +182,7 @@
 | [Use the Developer Activity Counts by Repository Group dashboard to find stale reviewers and approvers](https://gist.github.com/dims/3261edf075660ad1bf5c338b8794c21b) | `detect-inactive-folks-in-owners-files.sh` | 2019-04-08 | 7y 1mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/710677270d9cfba747322e1bcc02e43d) | `gistfile1.txt` | 2019-04-04 | 7y 1mo ago |
 | [deps.py](https://gist.github.com/dims/dcd1880aef24db6e85d733f3708af890) | `deps.py` +1 | 2018-10-13 | 7y 2mo ago |
-| [sanitize-import-boss.py](https://gist.github.com/dims/384dea60754042f61d79233603034038) | `sanitize-import-boss.py` | 2019-02-11 | 7y 2mo ago |
+| [sanitize-import-boss.py](https://gist.github.com/dims/384dea60754042f61d79233603034038) | `sanitize-import-boss.py` | 2019-02-11 | 7y 3mo ago |
 | [[TEMP] Deploy k8s-keystone-auth](https://gist.github.com/dims/072d4a515db614d428d0a544f39d0150) | `k8s-keystone-auth.md` | 2019-02-06 | 7y 3mo ago |
 | [prune_git_history.sh](https://gist.github.com/dims/bed84653c771446f372c67e836488aa1) | `prune_git_history.sh` | 2019-01-24 | 7y 3mo ago |
 | [filter_git_history.sh](https://gist.github.com/dims/e00c8fa8d6847064db62cbf2780706c5) | `filter_git_history.sh` | 2019-01-24 | 7y 3mo ago |
@@ -243,7 +243,7 @@
 | [RabbitMQ cheat sheet](https://gist.github.com/dims/0bad31d9a0c02e5b1b9d) | `gistfile1.txt` | 2015-06-09 | 9y 2mo ago |
 | [zuulfailures.py](https://gist.github.com/dims/54b391bd5964d3d208113b16766ea85e) | `zuulfailures.py` | 2017-01-31 | 9y 3mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/05fced10d374a04bb366c0536481dfa5) | `gistfile1.txt` | 2017-01-15 | 9y 3mo ago |
-| [zuulfailures.py](https://gist.github.com/dims/7286bf3db9d6b4c0f73994db46aa3681) | `zuulfailures.py` | 2017-01-12 | 9y 3mo ago |
+| [zuulfailures.py](https://gist.github.com/dims/7286bf3db9d6b4c0f73994db46aa3681) | `zuulfailures.py` | 2017-01-12 | 9y 4mo ago |
 ## 📅 2016
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
