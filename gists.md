@@ -1,29 +1,29 @@
 # 📝 Gists
 
-> 🗂️ **271 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-16 12:15 UTC
+> 🗂️ **271 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-16 18:14 UTC
 
 
 ## 📅 2026
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
+| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | today |
 | [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 4d ago |
 | [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 4d ago |
 | [K8s CI triage runbook + v3 flakes report + v3 failures report (2026-05-10)](https://gist.github.com/dims/7fe64acadf88530855de24d473e79aa7) | `2026-05-10-k8s-ci-failures-triage-v3.md` +2 | 2026-05-11 | 5d ago |
-| [Kubernetes Security Findings — May 2026](https://gist.github.com/dims/2a19f6333c925f10c7998d631e7d6d4d) | `2026-05-05-kubernetes-security-findings.md` | 2026-05-05 | 10d ago |
-| [Kubernetes unwanted vendor dependencies status — April 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-05.md` +1 | 2026-04-26 | 10d ago |
-| [kube-openapi PR #590 risk analysis: go-openapi/swag v0.23.0→v0.25.4 behavioral deep-dive](https://gist.github.com/dims/ecd681ea7d4748300d3b6203074e7d70) | `kube-openapi-pr590-risk-analysis.md` +1 | 2026-04-27 | 18d ago |
+| [Kubernetes Security Findings — May 2026](https://gist.github.com/dims/2a19f6333c925f10c7998d631e7d6d4d) | `2026-05-05-kubernetes-security-findings.md` | 2026-05-05 | 11d ago |
+| [Kubernetes unwanted vendor dependencies status — April 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-05.md` +1 | 2026-04-26 | 11d ago |
+| [kube-openapi PR #590 risk analysis: go-openapi/swag v0.23.0→v0.25.4 behavioral deep-dive](https://gist.github.com/dims/ecd681ea7d4748300d3b6203074e7d70) | `kube-openapi-pr590-risk-analysis.md` +1 | 2026-04-27 | 19d ago |
 | [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | 21d ago |
-| [Kubernetes Dependency Analysis (v1.36.0-alpha) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 21d ago |
+| [Kubernetes Dependency Analysis (v1.36.0-alpha) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 22d ago |
 | [Kubernetes dependency security analysis 2026-04-23 (43 packages)](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +1 | 2026-04-24 | 22d ago |
 | [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 22d ago |
-| [k8s.io staging module dependency graph (radial, api at center)](https://gist.github.com/dims/bde02986ddcad94b5514e7eb4e9ebff6) | `2026-04-23-k8s-staging-deps-radial.svg` | 2026-04-23 | 22d ago |
-| [Kubernetes Dependency Reduction Assessment (Apr 23, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 22d ago |
+| [k8s.io staging module dependency graph (radial, api at center)](https://gist.github.com/dims/bde02986ddcad94b5514e7eb4e9ebff6) | `2026-04-23-k8s-staging-deps-radial.svg` | 2026-04-23 | 23d ago |
+| [Kubernetes Dependency Reduction Assessment (Apr 23, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 23d ago |
 | [staging-module-dependency-analysis.md](https://gist.github.com/dims/d12d8097a424943de8ff2853330c549a) | `staging-module-dependency-analysis.md` +1 | 2025-12-03 | 23d ago |
-| [CI Coverage Map — sigs.k8s.io/dra-driver-nvidia-gpu (Lambda/GCP-nvkind/mock-nvml providers, BATS suites, TestGrid tabs, GPU_TYPE= resolution, gap analysis)](https://gist.github.com/dims/f7c17059cff4549bde78d253971033f1) | `dra-driver-nvidia-gpu-ci-coverage.md` | 2026-04-21 | 24d ago |
-| [Mock NVML GB200 Emulation: Deep-dive, BATS Test Analysis, and Test Results](https://gist.github.com/dims/68186323b335f1fcfd25a9927150bcb9) | `mock-nvml-bats-test-analysis.md` +2 | 2026-04-15 | 29d ago |
+| [CI Coverage Map — sigs.k8s.io/dra-driver-nvidia-gpu (Lambda/GCP-nvkind/mock-nvml providers, BATS suites, TestGrid tabs, GPU_TYPE= resolution, gap analysis)](https://gist.github.com/dims/f7c17059cff4549bde78d253971033f1) | `dra-driver-nvidia-gpu-ci-coverage.md` | 2026-04-21 | 25d ago |
+| [Mock NVML GB200 Emulation: Deep-dive, BATS Test Analysis, and Test Results](https://gist.github.com/dims/68186323b335f1fcfd25a9927150bcb9) | `mock-nvml-bats-test-analysis.md` +2 | 2026-04-15 | 1mo ago |
 | [TOC Member Qualifications & Criteria](https://gist.github.com/dims/4e8cf76f96876972eb335f04fdc6fdb4) | `toc.md` | 2026-04-11 | 1mo ago |
-| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 1mo ago |
 | [Lambda Cloud GPU Test Coverage: What's Next (v2 roadmap)](https://gist.github.com/dims/1923a2dd44b05b7cf2f9fd595dbf3459) | `2026-04-12-lambda-gpu-test-roadmap-v2.md` | 2026-04-12 | 1mo ago |
 | [Lambda Cloud GPU Test Coverage Roadmap for dra-driver-nvidia-gpu - comprehensive analysis of testable features, QA plan comparison, and implementation phases](https://gist.github.com/dims/f0cfdd3d8c63051872ce6e24a88b9dbd) | `2026-04-11-lambda-gpu-test-coverage-roadmap.md` | 2026-04-11 | 1mo ago |
 | [Running DRA GPU Tests on Lambda Cloud (without Prow) - step by step guide](https://gist.github.com/dims/6e26165d4762a76b58e5cda6acfee388) | `lambda-gpu-testing-guide.md` | 2026-04-11 | 1mo ago |
@@ -134,7 +134,7 @@
 | [Map of Dependencies - README.md](https://gist.github.com/dims/7eb66bbed03f349f092b31dabd1bdd47) | `Map of Dependencies - README.md` +1 | 2022-11-26 | 3y 5mo ago |
 | [README.md](https://gist.github.com/dims/3a416e0d83741cf8f31943f99cf1c7ee) | `README.md` +2 | 2021-03-17 | 3y 7mo ago |
 | [Fetch info from devstats](https://gist.github.com/dims/37ddc99b5af3ec8e6f93e025cd171607) | `README.md` +1 | 2022-08-10 | 3y 9mo ago |
-| [repro-go-1-19-bug.sh](https://gist.github.com/dims/be878acba64e57a401c4df43b6f87fe7) | `repro-go-1-19-bug.sh` | 2022-07-21 | 3y 9mo ago |
+| [repro-go-1-19-bug.sh](https://gist.github.com/dims/be878acba64e57a401c4df43b6f87fe7) | `repro-go-1-19-bug.sh` | 2022-07-21 | 3y 10mo ago |
 | [Dims' gmail filters](https://gist.github.com/dims/c3f45c3158e883600f988d7a767fe16b) | `mailFilters.xml` | 2022-06-25 | 3y 10mo ago |
 | [gcp-quick-start.md](https://gist.github.com/dims/19fff66f27445c5c1f0e0195e203afef) | `gcp-quick-start.md` | 2021-10-25 | 3y 11mo ago |
 | [Script to help filter out api/ directory to publish to another repo (containerd)](https://gist.github.com/dims/62ad31ba8e48ff0b4bcf63ae4365bd49) | `grab-api-into-new-repo.sh` | 2022-02-16 | 3y 12mo ago |
@@ -201,7 +201,7 @@
 | [nginx-cinder-with-secret-all.yaml](https://gist.github.com/dims/fab4505551fadd9ec06675c5dcd44b28) | `nginx-cinder-with-secret-all.yaml` | 2018-04-18 | 7y 8mo ago |
 | [e2e_manifests.go](https://gist.github.com/dims/067c6723588a585a7a00b22e41b86f34) | `e2e_manifests.go` +1 | 2018-08-05 | 7y 8mo ago |
 | [release-etd3gw.sh](https://gist.github.com/dims/7d6d6717346d96755d08734df0bcf2a5) | `release-etd3gw.sh` | 2017-09-25 | 7y 9mo ago |
-| [minikube-with-kvm2.sh](https://gist.github.com/dims/d0c586b6955d11f9420be0e53e78845f) | `minikube-with-kvm2.sh` | 2018-06-22 | 7y 10mo ago |
+| [minikube-with-kvm2.sh](https://gist.github.com/dims/d0c586b6955d11f9420be0e53e78845f) | `minikube-with-kvm2.sh` | 2018-06-22 | 7y 11mo ago |
 | [repost.md](https://gist.github.com/dims/7b36925f8a86d8151c14ea9863c2d7f9) | `repost.md` | 2018-06-04 | 7y 11mo ago |
 | [busybox-with-secret.yaml](https://gist.github.com/dims/d3be058f90fecec8a48c8f8e295cef71) | `busybox-with-secret.yaml` | 2018-04-18 | 8y ago |
 | [hound-app.yaml](https://gist.github.com/dims/2cf8363d91c95535eecd586f57ec0ccf) | `hound-app.yaml` | 2018-04-03 | 8y 1mo ago |
