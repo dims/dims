@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **271 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-17 06:52 UTC
+> 🗂️ **271 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-17 12:14 UTC
 
 
 ## 📅 2026
@@ -8,13 +8,13 @@
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | today |
-| [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 4d ago |
+| [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 5d ago |
 | [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 5d ago |
 | [K8s CI triage runbook + v3 flakes report + v3 failures report (2026-05-10)](https://gist.github.com/dims/7fe64acadf88530855de24d473e79aa7) | `2026-05-10-k8s-ci-failures-triage-v3.md` +2 | 2026-05-11 | 6d ago |
 | [Kubernetes Security Findings — May 2026](https://gist.github.com/dims/2a19f6333c925f10c7998d631e7d6d4d) | `2026-05-05-kubernetes-security-findings.md` | 2026-05-05 | 11d ago |
 | [Kubernetes unwanted vendor dependencies status — April 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-05.md` +1 | 2026-04-26 | 11d ago |
 | [kube-openapi PR #590 risk analysis: go-openapi/swag v0.23.0→v0.25.4 behavioral deep-dive](https://gist.github.com/dims/ecd681ea7d4748300d3b6203074e7d70) | `kube-openapi-pr590-risk-analysis.md` +1 | 2026-04-27 | 19d ago |
-| [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | 21d ago |
+| [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | 22d ago |
 | [Kubernetes Dependency Analysis (v1.36.0-alpha) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 22d ago |
 | [Kubernetes dependency security analysis 2026-04-23 (43 packages)](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +1 | 2026-04-24 | 23d ago |
 | [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 23d ago |
@@ -64,7 +64,7 @@
 | [node-problem-detector plugin architecture guide](https://gist.github.com/dims/6f482d9fe34669c0df8f8f5564474981) | `PLUGIN_ARCHITECTURE_GUIDE.md` | 2025-10-30 | 6mo ago |
 | [get-helm-3](https://gist.github.com/dims/d1f1484e1dbdf13f0d1511917ef9b177) | `get-helm-3` | 2025-10-29 | 6mo ago |
 | [validate the nginx configuration in k8s.io/apps/k8s-io](https://gist.github.com/dims/80e556414989f30b9a500957460a7855) | `out.log` +1 | 2025-09-21 | 7mo ago |
-| [[DEPRECATED] Python script to compute updates to the Kubernetes go.mod to see how far we are behind latest in vendored repos (please look in artifacts generated in this job - https://testgrid.k8s.io/sig-arch-code-organization#unit-master-dependencies&width=20)](https://gist.github.com/dims/c0857b86441442b15852a4c2355db130) | `differences.md` +2 | 2019-05-20 | 7mo ago |
+| [[DEPRECATED] Python script to compute updates to the Kubernetes go.mod to see how far we are behind latest in vendored repos (please look in artifacts generated in this job - https://testgrid.k8s.io/sig-arch-code-organization#unit-master-dependencies&width=20)](https://gist.github.com/dims/c0857b86441442b15852a4c2355db130) | `differences.md` +2 | 2019-05-20 | 8mo ago |
 | [Extract Endpoint information from audit logs](https://gist.github.com/dims/1fc254d0e4d043ef18bbc84596785de2) | `README.md` +1 | 2025-08-19 | 8mo ago |
 | [lima configuration for a local environment to test things on macos](https://gist.github.com/dims/20a824aff15a9ceaa8b7190124ff3d3b) | `README.md` +2 | 2025-07-03 | 10mo ago |
 | [imports analysis](https://gist.github.com/dims/f9adba9ec5f92b72c269c6a4ddcd93d8) | `import_analyzer.go` +1 | 2025-06-19 | 11mo ago |
@@ -111,7 +111,7 @@
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
 | [build al2023](https://gist.github.com/dims/59330c38174c3c4320ae2f041a5fb444) | `build-and-run-al2023.sh` | 2023-11-23 | 2y 5mo ago |
-| [Running the AWS sig-node tests and conformance tests in provider-aws-test-infra repo](https://gist.github.com/dims/eace914fc47209a9f9f8a2cafed586c9) | `gistfile1.txt` | 2023-11-17 | 2y 5mo ago |
+| [Running the AWS sig-node tests and conformance tests in provider-aws-test-infra repo](https://gist.github.com/dims/eace914fc47209a9f9f8a2cafed586c9) | `gistfile1.txt` | 2023-11-17 | 2y 6mo ago |
 | [gh-search-prs.txt](https://gist.github.com/dims/5d2351fe78922f8c84ee410b33ea0b17) | `gh-search-prs.txt` | 2023-10-25 | 2y 6mo ago |
 | [OpenSSF - https://securityscorecards.dev/](https://gist.github.com/dims/63c8290191ebdb7240cfa7f240ffdce4) | `scorecard.txt` | 2023-10-25 | 2y 6mo ago |
 | [Example of a CI job moving from using bootstrap to pod utils](https://gist.github.com/dims/c1296f8ed42238baea0a5fcae45f4cf4) | `after.yaml` +2 | 2019-11-06 | 2y 7mo ago |
@@ -237,7 +237,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/73ffb42fc1f24065473ab87829761bb8) | `gistfile1.txt` +1 | 2017-07-11 | 8y 10mo ago |
 | [Kubernetes FlexVolume Driver POC for OpenStack Cinder](https://gist.github.com/dims/ad5afbd657014b0bba17b40228cba32e) | `cinder.sh` +2 | 2017-05-09 | 9y ago |
 | [gistfile1.txt](https://gist.github.com/dims/0158535b3f7135bcf1b88dc731bef737) | `gistfile1.txt` | 2017-03-24 | 9y 1mo ago |
-| [etcd3.py](https://gist.github.com/dims/19ceaf9472ef54aa3011d7a11e809371) | `etcd3.py` | 2017-03-18 | 9y 1mo ago |
+| [etcd3.py](https://gist.github.com/dims/19ceaf9472ef54aa3011d7a11e809371) | `etcd3.py` | 2017-03-18 | 9y 2mo ago |
 | [osx-route.sh](https://gist.github.com/dims/ea3c8e5764979005b79dda6e513fefa6) | `osx-route.sh` | 2017-03-16 | 9y 2mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/158b69323b90c4d8d565cb935a5b2e95) | `gistfile1.txt` | 2017-03-12 | 9y 2mo ago |
 | [Screen Commands for Docker for Mac (prevent garbled text on reconnect)](https://gist.github.com/dims/81b887378b8590e97ecd89be6c9ce8f1) | `screen-docker-for-mac.sh` | 2017-03-07 | 9y 2mo ago |
