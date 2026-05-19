@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **271 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-18 18:31 UTC
+> 🗂️ **271 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-19 00:23 UTC
 
 
 ## 📅 2026
@@ -17,7 +17,7 @@
 | [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | 23d ago |
 | [Kubernetes Dependency Analysis (v1.36.0-alpha) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 24d ago |
 | [Kubernetes dependency security analysis 2026-04-23 (43 packages)](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +1 | 2026-04-24 | 24d ago |
-| [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 24d ago |
+| [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 25d ago |
 | [k8s.io staging module dependency graph (radial, api at center)](https://gist.github.com/dims/bde02986ddcad94b5514e7eb4e9ebff6) | `2026-04-23-k8s-staging-deps-radial.svg` | 2026-04-23 | 25d ago |
 | [Kubernetes Dependency Reduction Assessment (Apr 23, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 25d ago |
 | [staging-module-dependency-analysis.md](https://gist.github.com/dims/d12d8097a424943de8ff2853330c549a) | `staging-module-dependency-analysis.md` +1 | 2025-12-03 | 25d ago |
@@ -178,7 +178,7 @@
 | [cluster-api-provider-gcp cheat sheet](https://gist.github.com/dims/4c989521f2f0941df42d9f69da93e94a) | `gcp.sh` | 2019-09-17 | 6y 5mo ago |
 | [restart-aws.sh](https://gist.github.com/dims/1fc2c84c5d1d53237270c56952477b01) | `restart-aws.sh` | 2019-11-01 | 6y 6mo ago |
 | [Mesos-Marathon-Quick-Start.md](https://gist.github.com/dims/7ad86fb2ec12c91a4672) | `Mesos-Marathon-Quick-Start.md` | 2016-03-25 | 6y 11mo ago |
-| [get-goimport.sh](https://gist.github.com/dims/cd418158f4f0e47ab2be527a6d2fbad0) | `get-goimport.sh` +1 | 2019-05-20 | 6y 12mo ago |
+| [get-goimport.sh](https://gist.github.com/dims/cd418158f4f0e47ab2be527a6d2fbad0) | `get-goimport.sh` +1 | 2019-05-20 | 7y ago |
 | [keybase.md](https://gist.github.com/dims/a9db787f80d14525cf402cdf6ce44a51) | `keybase.md` | 2019-05-06 | 7y ago |
 | [release-cloud-provider-openstack.md](https://gist.github.com/dims/cefbdcfbacf867c315c119d7a2491c05) | `release-cloud-provider-openstack.md` | 2018-05-17 | 7y ago |
 | [Use the Developer Activity Counts by Repository Group dashboard to find stale reviewers and approvers](https://gist.github.com/dims/3261edf075660ad1bf5c338b8794c21b) | `detect-inactive-folks-in-owners-files.sh` | 2019-04-08 | 7y 1mo ago |
@@ -285,7 +285,7 @@
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [test.py](https://gist.github.com/dims/226218dd289857f6c933) | `test.py` | 2015-12-22 | 10y 4mo ago |
+| [test.py](https://gist.github.com/dims/226218dd289857f6c933) | `test.py` | 2015-12-22 | 10y 5mo ago |
 | [diff2list](https://gist.github.com/dims/bd4144ab1d0f92f6fa50) | `diff2list` | 2015-10-19 | 10y 7mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/1238498) | `gistfile1.txt` | 2011-09-23 | 10y 7mo ago |
 | [x](https://gist.github.com/dims/10869) | `x` | 2008-09-15 | 10y 8mo ago |
