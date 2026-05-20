@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **271 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-19 18:32 UTC
+> 🗂️ **271 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-20 00:24 UTC
 
 
 ## 📅 2026
@@ -17,7 +17,7 @@
 | [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | 24d ago |
 | [Kubernetes Dependency Analysis (v1.36.0-alpha) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 25d ago |
 | [Kubernetes dependency security analysis 2026-04-23 (43 packages)](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +1 | 2026-04-24 | 25d ago |
-| [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 25d ago |
+| [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 26d ago |
 | [k8s.io staging module dependency graph (radial, api at center)](https://gist.github.com/dims/bde02986ddcad94b5514e7eb4e9ebff6) | `2026-04-23-k8s-staging-deps-radial.svg` | 2026-04-23 | 26d ago |
 | [Kubernetes Dependency Reduction Assessment (Apr 23, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 26d ago |
 | [staging-module-dependency-analysis.md](https://gist.github.com/dims/d12d8097a424943de8ff2853330c549a) | `staging-module-dependency-analysis.md` +1 | 2025-12-03 | 26d ago |
@@ -63,7 +63,7 @@
 | [cursor-review.md](https://gist.github.com/dims/dd39826639755a805769294889121b2d) | `cursor-review.md` | 2025-11-15 | 6mo ago |
 | [node-problem-detector plugin architecture guide](https://gist.github.com/dims/6f482d9fe34669c0df8f8f5564474981) | `PLUGIN_ARCHITECTURE_GUIDE.md` | 2025-10-30 | 6mo ago |
 | [get-helm-3](https://gist.github.com/dims/d1f1484e1dbdf13f0d1511917ef9b177) | `get-helm-3` | 2025-10-29 | 6mo ago |
-| [validate the nginx configuration in k8s.io/apps/k8s-io](https://gist.github.com/dims/80e556414989f30b9a500957460a7855) | `out.log` +1 | 2025-09-21 | 7mo ago |
+| [validate the nginx configuration in k8s.io/apps/k8s-io](https://gist.github.com/dims/80e556414989f30b9a500957460a7855) | `out.log` +1 | 2025-09-21 | 8mo ago |
 | [[DEPRECATED] Python script to compute updates to the Kubernetes go.mod to see how far we are behind latest in vendored repos (please look in artifacts generated in this job - https://testgrid.k8s.io/sig-arch-code-organization#unit-master-dependencies&width=20)](https://gist.github.com/dims/c0857b86441442b15852a4c2355db130) | `differences.md` +2 | 2019-05-20 | 8mo ago |
 | [Extract Endpoint information from audit logs](https://gist.github.com/dims/1fc254d0e4d043ef18bbc84596785de2) | `README.md` +1 | 2025-08-19 | 8mo ago |
 | [lima configuration for a local environment to test things on macos](https://gist.github.com/dims/20a824aff15a9ceaa8b7190124ff3d3b) | `README.md` +2 | 2025-07-03 | 10mo ago |
@@ -118,7 +118,7 @@
 | [from https://github.com/distribution/distribution/pull/4031](https://gist.github.com/dims/1984d35f7a61af608dbf330bd16b2631) | `gistfile1.txt` | 2023-08-30 | 2y 8mo ago |
 | [testing-kubetest-ec2](https://gist.github.com/dims/5035282fc7eac7cf87bd093791d52253) | `testing-kubetest-ec2` | 2023-08-05 | 2y 9mo ago |
 | [testgrid.js](https://gist.github.com/dims/26596fd1b0b0c9351910d5a8fe73b263) | `testgrid.js` | 2023-08-03 | 2y 9mo ago |
-| [update-dependencies.sh](https://gist.github.com/dims/bca6889ef2fab9479d6a6b4aa5f3a38b) | `update-dependencies.sh` | 2020-01-15 | 2y 10mo ago |
+| [update-dependencies.sh](https://gist.github.com/dims/bca6889ef2fab9479d6a6b4aa5f3a38b) | `update-dependencies.sh` | 2020-01-15 | 2y 11mo ago |
 | [README.md](https://gist.github.com/dims/9ac9193c5988ecbaa7071e6730162b5a) | `README.md` +2 | 2023-06-09 | 2y 11mo ago |
 | [main.json](https://gist.github.com/dims/2f400d09b8deb931da6f1d498aba8c07) | `R_kgDOHDwlIw.json` +1 | 2023-05-24 | 2y 12mo ago |
 | [run exactly what runs in local-up / presubmit job](https://gist.github.com/dims/3c83730c99f61e36b8dd2d61abe68fe7) | `peel-the-onion.sh` | 2023-05-10 | 3y ago |
@@ -161,7 +161,7 @@
 |--------|---------|-----------|-----------|
 | [hostpath-pvc-example.yaml](https://gist.github.com/dims/916fd6c76b7b2869cfe62242fe4890c2) | `hostpath-pvc-example.yaml` | 2016-06-21 | 5y 8mo ago |
 | [asyncpreemptoff.go](https://gist.github.com/dims/a2a3f51804cce919a5cdd7fcb3f4fd1e) | `asyncpreemptoff.go` | 2020-06-26 | 5y 10mo ago |
-| [git_version](https://gist.github.com/dims/cb4964ae5e1c2d6f983f3f71844fbb9a) | `git_version` +3 | 2020-06-24 | 5y 10mo ago |
+| [git_version](https://gist.github.com/dims/cb4964ae5e1c2d6f983f3f71844fbb9a) | `git_version` +3 | 2020-06-24 | 5y 11mo ago |
 | [move-from-quay.sh](https://gist.github.com/dims/0aef844c22af80ed3637745071c8854c) | `move-from-quay.sh` | 2020-05-19 | 6y ago |
 | [tips-to-run-stuff.md](https://gist.github.com/dims/4bb0ef417928433278ff09dd6cc49913) | `tips-to-run-stuff.md` | 2020-05-08 | 6y ago |
 | [README.md](https://gist.github.com/dims/3a0293b0a6593368f9ef577bba567287) | `README.md` +1 | 2020-05-07 | 6y ago |
@@ -206,7 +206,7 @@
 | [busybox-with-secret.yaml](https://gist.github.com/dims/d3be058f90fecec8a48c8f8e295cef71) | `busybox-with-secret.yaml` | 2018-04-18 | 8y 1mo ago |
 | [hound-app.yaml](https://gist.github.com/dims/2cf8363d91c95535eecd586f57ec0ccf) | `hound-app.yaml` | 2018-04-03 | 8y 1mo ago |
 | [restart-k8s.sh](https://gist.github.com/dims/e50a05a3c4226c10fc16ccacdcff86d8) | `restart-k8s.sh` | 2018-03-09 | 8y 1mo ago |
-| [kubetest.sh](https://gist.github.com/dims/033cffa467107bcac8df21e7db72d528) | `kubetest.sh` +1 | 2018-02-28 | 8y 1mo ago |
+| [kubetest.sh](https://gist.github.com/dims/033cffa467107bcac8df21e7db72d528) | `kubetest.sh` +1 | 2018-02-28 | 8y 2mo ago |
 | [latest-openstack-cinder-in-k8s.sh](https://gist.github.com/dims/d74d0f5d5354cccd67eefb563d756e93) | `latest-openstack-cinder-in-k8s.sh` | 2018-03-21 | 8y 2mo ago |
 | [rebranch-cloud-provider.txt](https://gist.github.com/dims/e6500387db7ac887eb0e57fd4eb2e8a2) | `rebranch-cloud-provider.txt` | 2018-01-13 | 8y 2mo ago |
 | [run_kubetest.sh](https://gist.github.com/dims/79a8ec3dd26c270940daa56518271e79) | `run_kubetest.sh` | 2018-02-16 | 8y 3mo ago |
@@ -233,7 +233,7 @@
 | [docker-vol-test.sh](https://gist.github.com/dims/9c27674a06f794dcd2e1362bc0bc374f) | `docker-vol-test.sh` | 2017-08-18 | 8y 9mo ago |
 | [service.py](https://gist.github.com/dims/fb1cfe6b8fd8e9fed87b6cf35aec189b) | `service.py` | 2017-08-08 | 8y 9mo ago |
 | [quick_start_vault.txt](https://gist.github.com/dims/47674cf2c3b0a953df69246c2ea1ff78) | `quick_start_vault.txt` | 2017-08-02 | 8y 9mo ago |
-| [README.txt](https://gist.github.com/dims/ea6d11d56f42ba88999bfa85bd3ee257) | `README.txt` +2 | 2017-07-25 | 8y 9mo ago |
+| [README.txt](https://gist.github.com/dims/ea6d11d56f42ba88999bfa85bd3ee257) | `README.txt` +2 | 2017-07-25 | 8y 10mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/73ffb42fc1f24065473ab87829761bb8) | `gistfile1.txt` +1 | 2017-07-11 | 8y 10mo ago |
 | [Kubernetes FlexVolume Driver POC for OpenStack Cinder](https://gist.github.com/dims/ad5afbd657014b0bba17b40228cba32e) | `cinder.sh` +2 | 2017-05-09 | 9y ago |
 | [gistfile1.txt](https://gist.github.com/dims/0158535b3f7135bcf1b88dc731bef737) | `gistfile1.txt` | 2017-03-24 | 9y 1mo ago |
