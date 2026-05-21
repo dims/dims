@@ -1,27 +1,27 @@
 # 📝 Gists
 
-> 🗂️ **271 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-21 12:57 UTC
+> 🗂️ **271 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-21 18:33 UTC
 
 
 ## 📅 2026
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 4d ago |
+| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 5d ago |
 | [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 9d ago |
-| [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 9d ago |
+| [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 10d ago |
 | [K8s CI triage runbook + v3 flakes report + v3 failures report (2026-05-10)](https://gist.github.com/dims/7fe64acadf88530855de24d473e79aa7) | `2026-05-10-k8s-ci-failures-triage-v3.md` +2 | 2026-05-11 | 10d ago |
-| [Kubernetes Security Findings — May 2026](https://gist.github.com/dims/2a19f6333c925f10c7998d631e7d6d4d) | `2026-05-05-kubernetes-security-findings.md` | 2026-05-05 | 15d ago |
+| [Kubernetes Security Findings — May 2026](https://gist.github.com/dims/2a19f6333c925f10c7998d631e7d6d4d) | `2026-05-05-kubernetes-security-findings.md` | 2026-05-05 | 16d ago |
 | [Kubernetes unwanted vendor dependencies status — April 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-05.md` +1 | 2026-04-26 | 16d ago |
-| [kube-openapi PR #590 risk analysis: go-openapi/swag v0.23.0→v0.25.4 behavioral deep-dive](https://gist.github.com/dims/ecd681ea7d4748300d3b6203074e7d70) | `kube-openapi-pr590-risk-analysis.md` +1 | 2026-04-27 | 23d ago |
+| [kube-openapi PR #590 risk analysis: go-openapi/swag v0.23.0→v0.25.4 behavioral deep-dive](https://gist.github.com/dims/ecd681ea7d4748300d3b6203074e7d70) | `kube-openapi-pr590-risk-analysis.md` +1 | 2026-04-27 | 24d ago |
 | [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | 26d ago |
-| [Kubernetes Dependency Analysis (v1.36.0-alpha) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 26d ago |
+| [Kubernetes Dependency Analysis (v1.36.0-alpha) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 27d ago |
 | [Kubernetes dependency security analysis 2026-04-23 (43 packages)](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +1 | 2026-04-24 | 27d ago |
 | [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 27d ago |
-| [k8s.io staging module dependency graph (radial, api at center)](https://gist.github.com/dims/bde02986ddcad94b5514e7eb4e9ebff6) | `2026-04-23-k8s-staging-deps-radial.svg` | 2026-04-23 | 27d ago |
+| [k8s.io staging module dependency graph (radial, api at center)](https://gist.github.com/dims/bde02986ddcad94b5514e7eb4e9ebff6) | `2026-04-23-k8s-staging-deps-radial.svg` | 2026-04-23 | 28d ago |
 | [Kubernetes Dependency Reduction Assessment (Apr 23, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 28d ago |
 | [staging-module-dependency-analysis.md](https://gist.github.com/dims/d12d8097a424943de8ff2853330c549a) | `staging-module-dependency-analysis.md` +1 | 2025-12-03 | 28d ago |
-| [CI Coverage Map — sigs.k8s.io/dra-driver-nvidia-gpu (Lambda/GCP-nvkind/mock-nvml providers, BATS suites, TestGrid tabs, GPU_TYPE= resolution, gap analysis)](https://gist.github.com/dims/f7c17059cff4549bde78d253971033f1) | `dra-driver-nvidia-gpu-ci-coverage.md` | 2026-04-21 | 29d ago |
+| [CI Coverage Map — sigs.k8s.io/dra-driver-nvidia-gpu (Lambda/GCP-nvkind/mock-nvml providers, BATS suites, TestGrid tabs, GPU_TYPE= resolution, gap analysis)](https://gist.github.com/dims/f7c17059cff4549bde78d253971033f1) | `dra-driver-nvidia-gpu-ci-coverage.md` | 2026-04-21 | 1mo ago |
 | [Mock NVML GB200 Emulation: Deep-dive, BATS Test Analysis, and Test Results](https://gist.github.com/dims/68186323b335f1fcfd25a9927150bcb9) | `mock-nvml-bats-test-analysis.md` +2 | 2026-04-15 | 1mo ago |
 | [TOC Member Qualifications & Criteria](https://gist.github.com/dims/4e8cf76f96876972eb335f04fdc6fdb4) | `toc.md` | 2026-04-11 | 1mo ago |
 | [Lambda Cloud GPU Test Coverage: What's Next (v2 roadmap)](https://gist.github.com/dims/1923a2dd44b05b7cf2f9fd595dbf3459) | `2026-04-12-lambda-gpu-test-roadmap-v2.md` | 2026-04-12 | 1mo ago |
@@ -103,7 +103,7 @@
 | [Drop into the shell inside kubekins-e2e container](https://gist.github.com/dims/ac6153c1c9d07a3d2b597c4b8cb86c35) | `run-kubekins-e2e-shell.sh` | 2024-02-09 | 2y 3mo ago |
 | [go-releaser-README.md](https://gist.github.com/dims/c17535b428c4cc147b311bd37433e57d) | `go-releaser-README.md` | 2023-06-29 | 2y 3mo ago |
 | [Run local-up-cluster.sh on a fresh ubuntu environment](https://gist.github.com/dims/3abadba6b7c6812ec90dd11ef4554f6e) | `run-local-up-cluster-on-fresh-ubuntu-install.sh` | 2023-05-08 | 2y 3mo ago |
-| [EKS cluster with a single node using specific AMI](https://gist.github.com/dims/d052a9d7bb5f1fe0807b08bed6c5e13e) | `README.md` +1 | 2024-01-22 | 2y 3mo ago |
+| [EKS cluster with a single node using specific AMI](https://gist.github.com/dims/d052a9d7bb5f1fe0807b08bed6c5e13e) | `README.md` +1 | 2024-01-22 | 2y 4mo ago |
 | [Test latest containerd version using kind](https://gist.github.com/dims/712c5696ac0b430f3b509f15359275ea) | `README.md` | 2024-01-11 | 2y 4mo ago |
 | [bulk triage on k/k PRs](https://gist.github.com/dims/2b737cc5f81392eff61a5f85ad2123e1) | `bulk.sh` | 2022-12-12 | 2y 4mo ago |
 ## 📅 2023
