@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **272 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-26 00:22 UTC
+> 🗂️ **272 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-26 07:04 UTC
 
 
 ## 📅 2026
@@ -11,7 +11,7 @@
 | [helpdesk-intern-demo.sh](https://gist.github.com/dims/6b2e00d8fd669e0037538d1831a768c2) | `helpdesk-intern-demo.sh` | 2026-05-25 | today |
 | [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 13d ago |
 | [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 14d ago |
-| [K8s CI triage runbook + v3 flakes report + v3 failures report (2026-05-10)](https://gist.github.com/dims/7fe64acadf88530855de24d473e79aa7) | `2026-05-10-k8s-ci-failures-triage-v3.md` +2 | 2026-05-11 | 14d ago |
+| [K8s CI triage runbook + v3 flakes report + v3 failures report (2026-05-10)](https://gist.github.com/dims/7fe64acadf88530855de24d473e79aa7) | `2026-05-10-k8s-ci-failures-triage-v3.md` +2 | 2026-05-11 | 15d ago |
 | [Kubernetes Security Findings — May 2026](https://gist.github.com/dims/2a19f6333c925f10c7998d631e7d6d4d) | `2026-05-05-kubernetes-security-findings.md` | 2026-05-05 | 20d ago |
 | [Kubernetes unwanted vendor dependencies status — April 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-05.md` +1 | 2026-04-26 | 20d ago |
 | [kube-openapi PR #590 risk analysis: go-openapi/swag v0.23.0→v0.25.4 behavioral deep-dive](https://gist.github.com/dims/ecd681ea7d4748300d3b6203074e7d70) | `kube-openapi-pr590-risk-analysis.md` +1 | 2026-04-27 | 28d ago |
@@ -170,7 +170,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/ec84055b6354f2b2beea2196e28770d5) | `gistfile1.txt` | 2020-04-09 | 6y 1mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/bab84dfeaf682237c17683f95be006e7) | `gistfile1.txt` | 2020-04-17 | 6y 1mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/2887a832fbbd4f6e0acfdfa2c4453b66) | `gistfile1.txt` | 2020-04-13 | 6y 1mo ago |
-| [Expect script for logging into VPN using Anyconnect client (works on osx and linux)](https://gist.github.com/dims/59be0c075f29e7ec26a8) | `gistfile1.txt` | 2014-06-02 | 6y 3mo ago |
+| [Expect script for logging into VPN using Anyconnect client (works on osx and linux)](https://gist.github.com/dims/59be0c075f29e7ec26a8) | `gistfile1.txt` | 2014-06-02 | 6y 4mo ago |
 | [Find folks who are overloaded](https://gist.github.com/dims/2ca0f0031ee195a0cb750bdeb3b3a710) | `README.txt` +2 | 2020-01-24 | 6y 4mo ago |
 ## 📅 2019
 
@@ -194,7 +194,7 @@
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [oslo.config + oslo.log sample](https://gist.github.com/dims/19cb6ee280c3177fbf52) | `app.py` +1 | 2015-03-17 | 7y 4mo ago |
+| [oslo.config + oslo.log sample](https://gist.github.com/dims/19cb6ee280c3177fbf52) | `app.py` +1 | 2015-03-17 | 7y 5mo ago |
 | [Use existing in-tree cinder provider with openstack external cloud provider](https://gist.github.com/dims/3a9507a5be59a446d2d76c7b9ca84a49) | `external-cloud-provider-cinder-integration.md` | 2018-12-19 | 7y 5mo ago |
 | [kubeadm.txt](https://gist.github.com/dims/3914bdfb0ebde52ea0118a237a4d90b9) | `kubeadm.txt` | 2017-11-29 | 7y 7mo ago |
 | [cloudlab.txt](https://gist.github.com/dims/a5081982e7b6efa273af95593c110cc8) | `cloudlab.txt` | 2017-11-29 | 7y 7mo ago |
@@ -218,7 +218,7 @@
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [gistfile1.txt](https://gist.github.com/dims/35b249bf106bcabc900e9dfd6d5cfdb2) | `gistfile1.txt` | 2017-12-29 | 8y 4mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/35b249bf106bcabc900e9dfd6d5cfdb2) | `gistfile1.txt` | 2017-12-29 | 8y 5mo ago |
 | [config.json](https://gist.github.com/dims/5b9b8b6a11dbf6a96f787775f40a4746) | `config.json` | 2017-12-12 | 8y 5mo ago |
 | [nginx-cinder-all.yaml](https://gist.github.com/dims/ba202b11806d2e99004ac4ddc0c79e04) | `nginx-cinder-all.yaml` | 2017-11-27 | 8y 6mo ago |
 | [kubeadm.sh](https://gist.github.com/dims/3eeef40cb513d363bd84c5a63ce2f9ff) | `kubeadm.sh` | 2017-11-25 | 8y 6mo ago |
