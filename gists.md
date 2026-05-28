@@ -1,13 +1,13 @@
 # 📝 Gists
 
-> 🗂️ **272 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-27 18:44 UTC
+> 🗂️ **272 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-28 00:22 UTC
 
 
 ## 📅 2026
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | yesterday |
+| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 2d ago |
 | [helpdesk-intern-demo.sh](https://gist.github.com/dims/6b2e00d8fd669e0037538d1831a768c2) | `helpdesk-intern-demo.sh` | 2026-05-25 | 2d ago |
 | [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 15d ago |
 | [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 16d ago |
@@ -63,7 +63,7 @@
 | [claude-review.md](https://gist.github.com/dims/2ff5ed4f2c0e7301b186956dc0f4a4a1) | `claude-review.md` | 2025-11-15 | 6mo ago |
 | [cursor-review.md](https://gist.github.com/dims/dd39826639755a805769294889121b2d) | `cursor-review.md` | 2025-11-15 | 6mo ago |
 | [node-problem-detector plugin architecture guide](https://gist.github.com/dims/6f482d9fe34669c0df8f8f5564474981) | `PLUGIN_ARCHITECTURE_GUIDE.md` | 2025-10-30 | 6mo ago |
-| [get-helm-3](https://gist.github.com/dims/d1f1484e1dbdf13f0d1511917ef9b177) | `get-helm-3` | 2025-10-29 | 6mo ago |
+| [get-helm-3](https://gist.github.com/dims/d1f1484e1dbdf13f0d1511917ef9b177) | `get-helm-3` | 2025-10-29 | 7mo ago |
 | [validate the nginx configuration in k8s.io/apps/k8s-io](https://gist.github.com/dims/80e556414989f30b9a500957460a7855) | `out.log` +1 | 2025-09-21 | 8mo ago |
 | [[DEPRECATED] Python script to compute updates to the Kubernetes go.mod to see how far we are behind latest in vendored repos (please look in artifacts generated in this job - https://testgrid.k8s.io/sig-arch-code-organization#unit-master-dependencies&width=20)](https://gist.github.com/dims/c0857b86441442b15852a4c2355db130) | `differences.md` +2 | 2019-05-20 | 8mo ago |
 | [Extract Endpoint information from audit logs](https://gist.github.com/dims/1fc254d0e4d043ef18bbc84596785de2) | `README.md` +1 | 2025-08-19 | 9mo ago |
@@ -260,7 +260,7 @@
 | [Simple mod_wsgi sample](https://gist.github.com/dims/4dfbac57efabb7631da4) | `001-myweb.conf` +1 | 2015-09-18 | 9y 6mo ago |
 | [go_test_cmd_line.sh](https://gist.github.com/dims/f56feb77c7c0212c0165588a5690b08c) | `go_test_cmd_line.sh` | 2016-11-09 | 9y 6mo ago |
 | [make_with_test.sh](https://gist.github.com/dims/8caefc8f2e5aa5c93cff28f06e642f98) | `make_with_test.sh` | 2016-11-09 | 9y 6mo ago |
-| [gistfile1.txt](https://gist.github.com/dims/6d24d32830921d061a3a85a320705c77) | `gistfile1.txt` | 2016-08-02 | 9y 9mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/6d24d32830921d061a3a85a320705c77) | `gistfile1.txt` | 2016-08-02 | 9y 10mo ago |
 | [print_signals.py](https://gist.github.com/dims/c2b4d6fe80fb29984b480ba14d71fda8) | `print_signals.py` +1 | 2016-07-29 | 9y 10mo ago |
 | [a.go](https://gist.github.com/dims/f0c6bde28e764c049fc891e03b02cf93) | `a.go` | 2016-07-22 | 9y 10mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/6f16fb2c65d75c8be5c609c076b67b30) | `gistfile1.txt` | 2016-07-21 | 9y 10mo ago |
