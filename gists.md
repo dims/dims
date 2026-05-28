@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **272 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-28 13:03 UTC
+> 🗂️ **272 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-28 18:46 UTC
 
 
 ## 📅 2026
@@ -10,9 +10,9 @@
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 2d ago |
 | [helpdesk-intern-demo.sh](https://gist.github.com/dims/6b2e00d8fd669e0037538d1831a768c2) | `helpdesk-intern-demo.sh` | 2026-05-25 | 3d ago |
 | [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 16d ago |
-| [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 16d ago |
+| [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 17d ago |
 | [K8s CI triage runbook + v3 flakes report + v3 failures report (2026-05-10)](https://gist.github.com/dims/7fe64acadf88530855de24d473e79aa7) | `2026-05-10-k8s-ci-failures-triage-v3.md` +2 | 2026-05-11 | 17d ago |
-| [Kubernetes Security Findings — May 2026](https://gist.github.com/dims/2a19f6333c925f10c7998d631e7d6d4d) | `2026-05-05-kubernetes-security-findings.md` | 2026-05-05 | 22d ago |
+| [Kubernetes Security Findings — May 2026](https://gist.github.com/dims/2a19f6333c925f10c7998d631e7d6d4d) | `2026-05-05-kubernetes-security-findings.md` | 2026-05-05 | 23d ago |
 | [Kubernetes unwanted vendor dependencies status — April 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-05.md` +1 | 2026-04-26 | 23d ago |
 | [kube-openapi PR #590 risk analysis: go-openapi/swag v0.23.0→v0.25.4 behavioral deep-dive](https://gist.github.com/dims/ecd681ea7d4748300d3b6203074e7d70) | `kube-openapi-pr590-risk-analysis.md` +1 | 2026-04-27 | 1mo ago |
 | [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | 1mo ago |
@@ -30,7 +30,7 @@
 | [Running DRA GPU Tests on Lambda Cloud (without Prow) - step by step guide](https://gist.github.com/dims/6e26165d4762a76b58e5cda6acfee388) | `lambda-gpu-testing-guide.md` | 2026-04-11 | 1mo ago |
 | [CNCF TOC Members Timeline](https://gist.github.com/dims/f98a5ab28f2be0c7a0b2c6a3698bc6fb) | `toc-members-timeline.svg` | 2026-04-09 | 1mo ago |
 | [Running Kubernetes GPU e2e Tests on Lambda Cloud](https://gist.github.com/dims/b033e62eab37b0a13807d1ef05304bee) | `k8s-e2e-node-lambda-cloud.md` | 2026-04-02 | 1mo ago |
-| [run-node-e2e-tests-with-containerd.sh](https://gist.github.com/dims/29b734404b94715373759f25c18e555e) | `run-node-e2e-tests-with-containerd.sh` | 2025-04-28 | 1mo ago |
+| [run-node-e2e-tests-with-containerd.sh](https://gist.github.com/dims/29b734404b94715373759f25c18e555e) | `run-node-e2e-tests-with-containerd.sh` | 2025-04-28 | 2mo ago |
 | [CNCF K8s AI Conformance Analysis - 2026-03-16 (SHA: 223d15f)](https://gist.github.com/dims/db188beb19c8b3c2904017e4f269105c) | `2026-03-16-k8s-ai-conformance-analysis.md` +1 | 2026-03-16 | 2mo ago |
 | [Brev CLI: GPU Provisioning — Developer Experience Report](https://gist.github.com/dims/b3b0b73c0b5951b44c749e55cbf61769) | `brev-cli-dx-report.md` | 2026-02-26 | 3mo ago |
 | [Running Qwen3-Coder-Next-FP8 with Claude Code on Brev H100](https://gist.github.com/dims/4aa2fb68ae83bbb81fd21159c51d04c5) | `qwen-claude-setup.md` | 2026-02-26 | 3mo ago |
@@ -62,7 +62,7 @@
 | [mongodb-postgresql-unified-guide.md](https://gist.github.com/dims/87c83827c941b3d4202592f78ca37f81) | `mongodb-postgresql-unified-guide.md` | 2025-11-18 | 6mo ago |
 | [claude-review.md](https://gist.github.com/dims/2ff5ed4f2c0e7301b186956dc0f4a4a1) | `claude-review.md` | 2025-11-15 | 6mo ago |
 | [cursor-review.md](https://gist.github.com/dims/dd39826639755a805769294889121b2d) | `cursor-review.md` | 2025-11-15 | 6mo ago |
-| [node-problem-detector plugin architecture guide](https://gist.github.com/dims/6f482d9fe34669c0df8f8f5564474981) | `PLUGIN_ARCHITECTURE_GUIDE.md` | 2025-10-30 | 6mo ago |
+| [node-problem-detector plugin architecture guide](https://gist.github.com/dims/6f482d9fe34669c0df8f8f5564474981) | `PLUGIN_ARCHITECTURE_GUIDE.md` | 2025-10-30 | 7mo ago |
 | [get-helm-3](https://gist.github.com/dims/d1f1484e1dbdf13f0d1511917ef9b177) | `get-helm-3` | 2025-10-29 | 7mo ago |
 | [validate the nginx configuration in k8s.io/apps/k8s-io](https://gist.github.com/dims/80e556414989f30b9a500957460a7855) | `out.log` +1 | 2025-09-21 | 8mo ago |
 | [[DEPRECATED] Python script to compute updates to the Kubernetes go.mod to see how far we are behind latest in vendored repos (please look in artifacts generated in this job - https://testgrid.k8s.io/sig-arch-code-organization#unit-master-dependencies&width=20)](https://gist.github.com/dims/c0857b86441442b15852a4c2355db130) | `differences.md` +2 | 2019-05-20 | 8mo ago |
@@ -203,7 +203,7 @@
 | [e2e_manifests.go](https://gist.github.com/dims/067c6723588a585a7a00b22e41b86f34) | `e2e_manifests.go` +1 | 2018-08-05 | 7y 9mo ago |
 | [release-etd3gw.sh](https://gist.github.com/dims/7d6d6717346d96755d08734df0bcf2a5) | `release-etd3gw.sh` | 2017-09-25 | 7y 9mo ago |
 | [minikube-with-kvm2.sh](https://gist.github.com/dims/d0c586b6955d11f9420be0e53e78845f) | `minikube-with-kvm2.sh` | 2018-06-22 | 7y 11mo ago |
-| [repost.md](https://gist.github.com/dims/7b36925f8a86d8151c14ea9863c2d7f9) | `repost.md` | 2018-06-04 | 7y 11mo ago |
+| [repost.md](https://gist.github.com/dims/7b36925f8a86d8151c14ea9863c2d7f9) | `repost.md` | 2018-06-04 | 7y 12mo ago |
 | [busybox-with-secret.yaml](https://gist.github.com/dims/d3be058f90fecec8a48c8f8e295cef71) | `busybox-with-secret.yaml` | 2018-04-18 | 8y 1mo ago |
 | [hound-app.yaml](https://gist.github.com/dims/2cf8363d91c95535eecd586f57ec0ccf) | `hound-app.yaml` | 2018-04-03 | 8y 1mo ago |
 | [restart-k8s.sh](https://gist.github.com/dims/e50a05a3c4226c10fc16ccacdcff86d8) | `restart-k8s.sh` | 2018-03-09 | 8y 2mo ago |
