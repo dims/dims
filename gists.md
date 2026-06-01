@@ -1,18 +1,18 @@
 # 📝 Gists
 
-> 🗂️ **274 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-05-31 18:19 UTC
+> 🗂️ **274 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-01 00:23 UTC
 
 
 ## 📅 2026
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [Agent Substrate — pluggable ateom backend: Firecracker (microVM). [1] PoC on bigbox, [2] design proposal, [3] implementation log.](https://gist.github.com/dims/4052cec310c68226fe8dc0a2477aa96f) | `1-2026-05-29-firecracker-ateom-poc-bigbox.md` +2 | 2026-05-29 | yesterday |
+| [Agent Substrate — pluggable ateom backend: Firecracker (microVM). [1] PoC on bigbox, [2] design proposal, [3] implementation log.](https://gist.github.com/dims/4052cec310c68226fe8dc0a2477aa96f) | `1-2026-05-29-firecracker-ateom-poc-bigbox.md` +2 | 2026-05-29 | 2d ago |
 | [Host-managed IMEX v2 design and operator guide](https://gist.github.com/dims/6a505ea49e5f9cc85fed0992932257d3) | `host-managed-imex-design-v2.md` +1 | 2026-05-28 | 2d ago |
-| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 5d ago |
+| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 6d ago |
 | [helpdesk-intern-demo.sh](https://gist.github.com/dims/6b2e00d8fd669e0037538d1831a768c2) | `helpdesk-intern-demo.sh` | 2026-05-25 | 6d ago |
 | [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 19d ago |
-| [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 19d ago |
+| [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 20d ago |
 | [K8s CI triage runbook + v3 flakes report + v3 failures report (2026-05-10)](https://gist.github.com/dims/7fe64acadf88530855de24d473e79aa7) | `2026-05-10-k8s-ci-failures-triage-v3.md` +2 | 2026-05-11 | 20d ago |
 | [Kubernetes Security Findings — May 2026](https://gist.github.com/dims/2a19f6333c925f10c7998d631e7d6d4d) | `2026-05-05-kubernetes-security-findings.md` | 2026-05-05 | 26d ago |
 | [Kubernetes unwanted vendor dependencies status — April 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-05.md` +1 | 2026-04-26 | 26d ago |
@@ -96,7 +96,7 @@
 | [README.md](https://gist.github.com/dims/af1ce191b3d6e420128629061a10e518) | `README.md` +1 | 2024-08-11 | 1y 9mo ago |
 | [tune-kindnet.yaml](https://gist.github.com/dims/62a2eb5c1cf6e3473d2d7f54d3e33415) | `tune-kindnet.yaml` | 2024-07-22 | 1y 10mo ago |
 | [kubetest2-quick.sh](https://gist.github.com/dims/cbbcb80cf2ff21a1c6bea44380cd10f0) | `kubetest2-quick.sh` | 2024-07-18 | 1y 10mo ago |
-| [build-and-run-stress-tests.sh](https://gist.github.com/dims/89ef5a75dabd3d36c58cc9d4a1b9e188) | `build-and-run-stress-tests.sh` | 2024-07-05 | 1y 10mo ago |
+| [build-and-run-stress-tests.sh](https://gist.github.com/dims/89ef5a75dabd3d36c58cc9d4a1b9e188) | `build-and-run-stress-tests.sh` | 2024-07-05 | 1y 11mo ago |
 | [Run `eksdemo` / `kubetest2 ec2` and end to end tests](https://gist.github.com/dims/4bba3a390af3c553721b766f736efc07) | `run.sh` | 2024-07-03 | 1y 11mo ago |
 | [skip github action stale build checks](https://gist.github.com/dims/28d4be593eb4727d2089eff80e86a31e) | `skip.sh` | 2024-06-19 | 1y 11mo ago |
 | [verify-repos.sh](https://gist.github.com/dims/9aeeacb7619865eb4bbb68a86165881d) | `verify-repos.sh` +1 | 2024-04-04 | 2y 1mo ago |
@@ -200,14 +200,14 @@
 | [Use existing in-tree cinder provider with openstack external cloud provider](https://gist.github.com/dims/3a9507a5be59a446d2d76c7b9ca84a49) | `external-cloud-provider-cinder-integration.md` | 2018-12-19 | 7y 5mo ago |
 | [kubeadm.txt](https://gist.github.com/dims/3914bdfb0ebde52ea0118a237a4d90b9) | `kubeadm.txt` | 2017-11-29 | 7y 7mo ago |
 | [cloudlab.txt](https://gist.github.com/dims/a5081982e7b6efa273af95593c110cc8) | `cloudlab.txt` | 2017-11-29 | 7y 7mo ago |
-| [Disable Parental Controls and other services in macOS Sierra (OS X)](https://gist.github.com/dims/36247f8b60d5c4c9e22cc8974174b8a8) | `disable_macOS_parental_controls.sh` | 2017-12-22 | 7y 7mo ago |
+| [Disable Parental Controls and other services in macOS Sierra (OS X)](https://gist.github.com/dims/36247f8b60d5c4c9e22cc8974174b8a8) | `disable_macOS_parental_controls.sh` | 2017-12-22 | 7y 8mo ago |
 | [nginx-cinder-with-secret-all.yaml](https://gist.github.com/dims/fab4505551fadd9ec06675c5dcd44b28) | `nginx-cinder-with-secret-all.yaml` | 2018-04-18 | 7y 9mo ago |
 | [e2e_manifests.go](https://gist.github.com/dims/067c6723588a585a7a00b22e41b86f34) | `e2e_manifests.go` +1 | 2018-08-05 | 7y 9mo ago |
 | [release-etd3gw.sh](https://gist.github.com/dims/7d6d6717346d96755d08734df0bcf2a5) | `release-etd3gw.sh` | 2017-09-25 | 7y 9mo ago |
 | [minikube-with-kvm2.sh](https://gist.github.com/dims/d0c586b6955d11f9420be0e53e78845f) | `minikube-with-kvm2.sh` | 2018-06-22 | 7y 11mo ago |
 | [repost.md](https://gist.github.com/dims/7b36925f8a86d8151c14ea9863c2d7f9) | `repost.md` | 2018-06-04 | 7y 12mo ago |
 | [busybox-with-secret.yaml](https://gist.github.com/dims/d3be058f90fecec8a48c8f8e295cef71) | `busybox-with-secret.yaml` | 2018-04-18 | 8y 1mo ago |
-| [hound-app.yaml](https://gist.github.com/dims/2cf8363d91c95535eecd586f57ec0ccf) | `hound-app.yaml` | 2018-04-03 | 8y 1mo ago |
+| [hound-app.yaml](https://gist.github.com/dims/2cf8363d91c95535eecd586f57ec0ccf) | `hound-app.yaml` | 2018-04-03 | 8y 2mo ago |
 | [restart-k8s.sh](https://gist.github.com/dims/e50a05a3c4226c10fc16ccacdcff86d8) | `restart-k8s.sh` | 2018-03-09 | 8y 2mo ago |
 | [kubetest.sh](https://gist.github.com/dims/033cffa467107bcac8df21e7db72d528) | `kubetest.sh` +1 | 2018-02-28 | 8y 2mo ago |
 | [latest-openstack-cinder-in-k8s.sh](https://gist.github.com/dims/d74d0f5d5354cccd67eefb563d756e93) | `latest-openstack-cinder-in-k8s.sh` | 2018-03-21 | 8y 2mo ago |
@@ -230,7 +230,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/68829f0021a0acde846f29708da67d6b) | `gistfile1.txt` | 2017-11-02 | 8y 7mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/8dd5ef221d6a8b72f1e21a77548288ef) | `gistfile1.txt` | 2017-10-18 | 8y 7mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/a275bce4f1f7e3a0bdb91a2dfb0a6ff3) | `gistfile1.txt` | 2017-09-22 | 8y 8mo ago |
-| [go2idl filter history](https://gist.github.com/dims/306a60ec02d1af863f4eceec4ac80adc) | `filter_git_history.sh` | 2016-08-29 | 8y 8mo ago |
+| [go2idl filter history](https://gist.github.com/dims/306a60ec02d1af863f4eceec4ac80adc) | `filter_git_history.sh` | 2016-08-29 | 8y 9mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/0d037811e906e335a69be7a70d17351e) | `gistfile1.txt` | 2017-08-31 | 8y 9mo ago |
 | [restart-k8s.sh](https://gist.github.com/dims/d963e786f7a6c9d6874b76b6d30f3190) | `restart-k8s.sh` | 2017-08-29 | 8y 9mo ago |
 | [docker-vol-test.sh](https://gist.github.com/dims/9c27674a06f794dcd2e1362bc0bc374f) | `docker-vol-test.sh` | 2017-08-18 | 8y 9mo ago |
