@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **277 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-05 00:25 UTC
+> 🗂️ **277 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-05 07:21 UTC
 
 
 ## 📅 2026
@@ -16,7 +16,7 @@
 | [helpdesk-intern-demo.sh](https://gist.github.com/dims/6b2e00d8fd669e0037538d1831a768c2) | `helpdesk-intern-demo.sh` | 2026-05-25 | 10d ago |
 | [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 23d ago |
 | [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 24d ago |
-| [K8s CI triage runbook + v3 flakes report + v3 failures report (2026-05-10)](https://gist.github.com/dims/7fe64acadf88530855de24d473e79aa7) | `2026-05-10-k8s-ci-failures-triage-v3.md` +2 | 2026-05-11 | 24d ago |
+| [K8s CI triage runbook + v3 flakes report + v3 failures report (2026-05-10)](https://gist.github.com/dims/7fe64acadf88530855de24d473e79aa7) | `2026-05-10-k8s-ci-failures-triage-v3.md` +2 | 2026-05-11 | 25d ago |
 | [Kubernetes Security Findings — May 2026](https://gist.github.com/dims/2a19f6333c925f10c7998d631e7d6d4d) | `2026-05-05-kubernetes-security-findings.md` | 2026-05-05 | 1mo ago |
 | [Kubernetes unwanted vendor dependencies status — April 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-05.md` +1 | 2026-04-26 | 1mo ago |
 | [kube-openapi PR #590 risk analysis: go-openapi/swag v0.23.0→v0.25.4 behavioral deep-dive](https://gist.github.com/dims/ecd681ea7d4748300d3b6203074e7d70) | `kube-openapi-pr590-risk-analysis.md` +1 | 2026-04-27 | 1mo ago |
@@ -46,7 +46,7 @@
 | [k8s kustomize v5.8.1 dependency update review](https://gist.github.com/dims/4c2aa34fe48e2727474bf2e5afa5d835) | `k8s-kustomize-v5.8.1-dep-review.md` | 2026-02-10 | 3mo ago |
 | [Prompt: Dependency Update Review (Go/Kubernetes-style)](https://gist.github.com/dims/2e6e0df576710a7cc7985ea6752a973e) | `prompt-dependency-update-review.md` | 2026-02-10 | 3mo ago |
 | [Review: Update go-openapi dependencies (jsonpointer, jsonreference, swag) - k8s PR #136819](https://gist.github.com/dims/31e0b95374981a8adf0d62b4c328d048) | `k8s-go-openapi-dep-update-review.md` | 2026-02-10 | 3mo ago |
-| [verify-unwanted-deps-classification.sh](https://gist.github.com/dims/41e381da9d88158bc0975a6913903ec5) | `verify-unwanted-deps-classification.sh` | 2026-02-05 | 3mo ago |
+| [verify-unwanted-deps-classification.sh](https://gist.github.com/dims/41e381da9d88158bc0975a6913903ec5) | `verify-unwanted-deps-classification.sh` | 2026-02-05 | 4mo ago |
 | [CNCF_New_Contributors_FAQ.md](https://gist.github.com/dims/d59332d36089040be17834dc2febb67f) | `CNCF_New_Contributors_FAQ.md` | 2025-12-06 | 4mo ago |
 | [Kubernetes AI Conformance Implementation Analysis](https://gist.github.com/dims/ff683f5db74dd843040c377f2d263606) | `k8s-ai-conformance-analysis.md` | 2026-01-29 | 4mo ago |
 | [CI Jobs Fixed, Created, or Deleted - January 2026](https://gist.github.com/dims/2274c8cb64ab8de1321d280053ea0aca) | `dims-ci-jobs-fixed-jan-2026.md` | 2026-01-29 | 4mo ago |
@@ -264,7 +264,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/47955e16bca1eac1a177d865b5a5646f) | `gistfile1.txt` | 2016-11-19 | 9y 6mo ago |
 | [Simple mod_wsgi sample](https://gist.github.com/dims/4dfbac57efabb7631da4) | `001-myweb.conf` +1 | 2015-09-18 | 9y 6mo ago |
 | [go_test_cmd_line.sh](https://gist.github.com/dims/f56feb77c7c0212c0165588a5690b08c) | `go_test_cmd_line.sh` | 2016-11-09 | 9y 6mo ago |
-| [make_with_test.sh](https://gist.github.com/dims/8caefc8f2e5aa5c93cff28f06e642f98) | `make_with_test.sh` | 2016-11-09 | 9y 6mo ago |
+| [make_with_test.sh](https://gist.github.com/dims/8caefc8f2e5aa5c93cff28f06e642f98) | `make_with_test.sh` | 2016-11-09 | 9y 7mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/6d24d32830921d061a3a85a320705c77) | `gistfile1.txt` | 2016-08-02 | 9y 10mo ago |
 | [print_signals.py](https://gist.github.com/dims/c2b4d6fe80fb29984b480ba14d71fda8) | `print_signals.py` +1 | 2016-07-29 | 9y 10mo ago |
 | [a.go](https://gist.github.com/dims/f0c6bde28e764c049fc891e03b02cf93) | `a.go` | 2016-07-22 | 9y 10mo ago |
