@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **277 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-08 07:31 UTC
+> 🗂️ **277 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-08 13:20 UTC
 
 
 ## 📅 2026
@@ -16,8 +16,8 @@
 | [Agent Substrate — pluggable ateom backend: Firecracker (microVM). [1] PoC on bigbox, [2] design proposal, [3] implementation log.](https://gist.github.com/dims/4052cec310c68226fe8dc0a2477aa96f) | `1-2026-05-29-firecracker-ateom-poc-bigbox.md` +2 | 2026-05-29 | 9d ago |
 | [Host-managed IMEX v2 design and operator guide](https://gist.github.com/dims/6a505ea49e5f9cc85fed0992932257d3) | `host-managed-imex-design-v2.md` +1 | 2026-05-28 | 9d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 13d ago |
-| [helpdesk-intern-demo.sh](https://gist.github.com/dims/6b2e00d8fd669e0037538d1831a768c2) | `helpdesk-intern-demo.sh` | 2026-05-25 | 13d ago |
-| [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 26d ago |
+| [helpdesk-intern-demo.sh](https://gist.github.com/dims/6b2e00d8fd669e0037538d1831a768c2) | `helpdesk-intern-demo.sh` | 2026-05-25 | 14d ago |
+| [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 27d ago |
 | [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 27d ago |
 | [K8s CI triage runbook + v3 flakes report + v3 failures report (2026-05-10)](https://gist.github.com/dims/7fe64acadf88530855de24d473e79aa7) | `2026-05-10-k8s-ci-failures-triage-v3.md` +2 | 2026-05-11 | 28d ago |
 | [Kubernetes Security Findings — May 2026](https://gist.github.com/dims/2a19f6333c925f10c7998d631e7d6d4d) | `2026-05-05-kubernetes-security-findings.md` | 2026-05-05 | 1mo ago |
@@ -55,7 +55,7 @@
 | [Cloud Native Stack (CNS) End-to-End Demo Report](https://gist.github.com/dims/7429660903c79132fe74fba00260d315) | `cns-e2e-report.md` | 2026-01-15 | 4mo ago |
 | [CNS (Cloud Native Stack) CLI UX Analysis](https://gist.github.com/dims/ca6d524c510add583a1d0b28e27a6154) | `cns-ux-analysis-v4.md` | 2026-01-15 | 4mo ago |
 | [Running Kubernetes e2e_node tests locally with Lima VM](https://gist.github.com/dims/74b665fa814acd423c6096501a77366e) | `README.md` +4 | 2026-01-10 | 4mo ago |
-| [Device Manager Race Condition Analysis](https://gist.github.com/dims/5355758b86012c0654be9d2f6502b472) | `TestNewManagerImplStartProbeMode.md` | 2026-01-09 | 4mo ago |
+| [Device Manager Race Condition Analysis](https://gist.github.com/dims/5355758b86012c0654be9d2f6502b472) | `TestNewManagerImplStartProbeMode.md` | 2026-01-09 | 5mo ago |
 ## 📅 2025
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
