@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **277 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-09 18:38 UTC
+> 🗂️ **277 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-10 00:27 UTC
 
 
 ## 📅 2026
@@ -9,13 +9,13 @@
 |--------|---------|-----------|-----------|
 | [Kubernetes unwanted vendor dependencies status — June 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-05.md` +2 | 2026-04-26 | 2d ago |
 | [Kubernetes dependency security analysis (2026-04-23, 2026-06-06) + regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +2 | 2026-04-24 | 2d ago |
-| [Kubernetes Dependency Analysis (v1.37.0-alpha / master vs v1.36.1) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 2d ago |
+| [Kubernetes Dependency Analysis (v1.37.0-alpha / master vs v1.36.1) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 3d ago |
 | [Agent Substrate (agent-substrate/substrate) — Cross-Vendor Contributor & Affiliation Report (2026-06-03)](https://gist.github.com/dims/dc0c769bd5b94b4ebabecc60dbcd3dc8) | `2026-06-03-substrate-cross-vendor-contributors.md` | 2026-06-04 | 5d ago |
 | [OpenShell (NVIDIA/OpenShell) — External Contributor & DCO-Hygiene Report (2026-05-26)](https://gist.github.com/dims/babbf3a37068402a1ef9c4d5eddf53d0) | `external-contributor-report.md` | 2026-06-03 | 6d ago |
 | [aicr (NVIDIA/aicr) — External Contributor & DCO-Hygiene Report (2026-06-03)](https://gist.github.com/dims/2cf425291ca5aff2ebd4ff0e9928250c) | `2026-06-03-aicr-external-contributors.md` | 2026-06-03 | 6d ago |
-| [Agent Substrate — pluggable ateom backend: Firecracker (microVM). [1] PoC on bigbox, [2] design proposal, [3] implementation log.](https://gist.github.com/dims/4052cec310c68226fe8dc0a2477aa96f) | `1-2026-05-29-firecracker-ateom-poc-bigbox.md` +2 | 2026-05-29 | 10d ago |
+| [Agent Substrate — pluggable ateom backend: Firecracker (microVM). [1] PoC on bigbox, [2] design proposal, [3] implementation log.](https://gist.github.com/dims/4052cec310c68226fe8dc0a2477aa96f) | `1-2026-05-29-firecracker-ateom-poc-bigbox.md` +2 | 2026-05-29 | 11d ago |
 | [Host-managed IMEX v2 design and operator guide](https://gist.github.com/dims/6a505ea49e5f9cc85fed0992932257d3) | `host-managed-imex-design-v2.md` +1 | 2026-05-28 | 11d ago |
-| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 14d ago |
+| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 15d ago |
 | [helpdesk-intern-demo.sh](https://gist.github.com/dims/6b2e00d8fd669e0037538d1831a768c2) | `helpdesk-intern-demo.sh` | 2026-05-25 | 15d ago |
 | [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 28d ago |
 | [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 29d ago |
@@ -94,7 +94,7 @@
 | [unwanted-dependencies.json](https://gist.github.com/dims/030edac5dbd158eed83bd8b3f906e93d) | `unwanted-dependencies.json` | 2024-09-05 | 1y 9mo ago |
 | [perma-failures.md](https://gist.github.com/dims/466a4dec07a27eae9db41b30301b7fe3) | `perma-failures.md` | 2024-09-04 | 1y 9mo ago |
 | [v1.31 API generation](https://gist.github.com/dims/8d26414de71d46d44c8d7f1498eedd69) | `fields.yaml` +2 | 2024-08-17 | 1y 9mo ago |
-| [clean-pods-and-containers.sh](https://gist.github.com/dims/6ff28fb745487453f441f96ced4232d6) | `clean-pods-and-containers.sh` +3 | 2024-08-13 | 1y 9mo ago |
+| [clean-pods-and-containers.sh](https://gist.github.com/dims/6ff28fb745487453f441f96ced4232d6) | `clean-pods-and-containers.sh` +3 | 2024-08-13 | 1y 10mo ago |
 | [Shows the name of the command running on each port on MacOS](https://gist.github.com/dims/d8069b1c27409f9130f815bc6075ee2d) | `gistfile1.txt` | 2024-08-13 | 1y 10mo ago |
 | [README.md](https://gist.github.com/dims/af1ce191b3d6e420128629061a10e518) | `README.md` +1 | 2024-08-11 | 1y 10mo ago |
 | [tune-kindnet.yaml](https://gist.github.com/dims/62a2eb5c1cf6e3473d2d7f54d3e33415) | `tune-kindnet.yaml` | 2024-07-22 | 1y 10mo ago |
@@ -110,7 +110,7 @@
 | [go-releaser-README.md](https://gist.github.com/dims/c17535b428c4cc147b311bd37433e57d) | `go-releaser-README.md` | 2023-06-29 | 2y 4mo ago |
 | [Run local-up-cluster.sh on a fresh ubuntu environment](https://gist.github.com/dims/3abadba6b7c6812ec90dd11ef4554f6e) | `run-local-up-cluster-on-fresh-ubuntu-install.sh` | 2023-05-08 | 2y 4mo ago |
 | [EKS cluster with a single node using specific AMI](https://gist.github.com/dims/d052a9d7bb5f1fe0807b08bed6c5e13e) | `README.md` +1 | 2024-01-22 | 2y 4mo ago |
-| [Test latest containerd version using kind](https://gist.github.com/dims/712c5696ac0b430f3b509f15359275ea) | `README.md` | 2024-01-11 | 2y 4mo ago |
+| [Test latest containerd version using kind](https://gist.github.com/dims/712c5696ac0b430f3b509f15359275ea) | `README.md` | 2024-01-11 | 2y 5mo ago |
 | [bulk triage on k/k PRs](https://gist.github.com/dims/2b737cc5f81392eff61a5f85ad2123e1) | `bulk.sh` | 2022-12-12 | 2y 5mo ago |
 ## 📅 2023
 
@@ -190,7 +190,7 @@
 | [Use the Developer Activity Counts by Repository Group dashboard to find stale reviewers and approvers](https://gist.github.com/dims/3261edf075660ad1bf5c338b8794c21b) | `detect-inactive-folks-in-owners-files.sh` | 2019-04-08 | 7y 2mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/710677270d9cfba747322e1bcc02e43d) | `gistfile1.txt` | 2019-04-04 | 7y 2mo ago |
 | [deps.py](https://gist.github.com/dims/dcd1880aef24db6e85d733f3708af890) | `deps.py` +1 | 2018-10-13 | 7y 3mo ago |
-| [sanitize-import-boss.py](https://gist.github.com/dims/384dea60754042f61d79233603034038) | `sanitize-import-boss.py` | 2019-02-11 | 7y 3mo ago |
+| [sanitize-import-boss.py](https://gist.github.com/dims/384dea60754042f61d79233603034038) | `sanitize-import-boss.py` | 2019-02-11 | 7y 4mo ago |
 | [[TEMP] Deploy k8s-keystone-auth](https://gist.github.com/dims/072d4a515db614d428d0a544f39d0150) | `k8s-keystone-auth.md` | 2019-02-06 | 7y 4mo ago |
 | [prune_git_history.sh](https://gist.github.com/dims/bed84653c771446f372c67e836488aa1) | `prune_git_history.sh` | 2019-01-24 | 7y 4mo ago |
 | [filter_git_history.sh](https://gist.github.com/dims/e00c8fa8d6847064db62cbf2780706c5) | `filter_git_history.sh` | 2019-01-24 | 7y 4mo ago |
@@ -251,7 +251,7 @@
 | [RabbitMQ cheat sheet](https://gist.github.com/dims/0bad31d9a0c02e5b1b9d) | `gistfile1.txt` | 2015-06-09 | 9y 3mo ago |
 | [zuulfailures.py](https://gist.github.com/dims/54b391bd5964d3d208113b16766ea85e) | `zuulfailures.py` | 2017-01-31 | 9y 4mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/05fced10d374a04bb366c0536481dfa5) | `gistfile1.txt` | 2017-01-15 | 9y 4mo ago |
-| [zuulfailures.py](https://gist.github.com/dims/7286bf3db9d6b4c0f73994db46aa3681) | `zuulfailures.py` | 2017-01-12 | 9y 4mo ago |
+| [zuulfailures.py](https://gist.github.com/dims/7286bf3db9d6b4c0f73994db46aa3681) | `zuulfailures.py` | 2017-01-12 | 9y 5mo ago |
 ## 📅 2016
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
