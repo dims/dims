@@ -1,16 +1,16 @@
 # 📝 Gists
 
-> 🗂️ **278 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-16 00:33 UTC
+> 🗂️ **278 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-16 07:48 UTC
 
 
 ## 📅 2026
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | today |
+| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | yesterday |
 | [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 5d ago |
-| [Kubernetes unwanted vendor dependencies status — June 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-05.md` +2 | 2026-04-26 | 8d ago |
-| [Kubernetes dependency security analysis (2026-04-23, 2026-06-06) + regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +2 | 2026-04-24 | 8d ago |
+| [Kubernetes unwanted vendor dependencies status — June 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-05.md` +2 | 2026-04-26 | 9d ago |
+| [Kubernetes dependency security analysis (2026-04-23, 2026-06-06) + regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +2 | 2026-04-24 | 9d ago |
 | [Kubernetes Dependency Analysis (v1.37.0-alpha / master vs v1.36.1) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 9d ago |
 | [Agent Substrate (agent-substrate/substrate) — Cross-Vendor Contributor & Affiliation Report (2026-06-03)](https://gist.github.com/dims/dc0c769bd5b94b4ebabecc60dbcd3dc8) | `2026-06-03-substrate-cross-vendor-contributors.md` | 2026-06-04 | 11d ago |
 | [OpenShell (NVIDIA/OpenShell) — External Contributor & DCO-Hygiene Report (2026-05-26)](https://gist.github.com/dims/babbf3a37068402a1ef9c4d5eddf53d0) | `external-contributor-report.md` | 2026-06-03 | 12d ago |
@@ -91,7 +91,7 @@
 | [get-tag](https://gist.github.com/dims/8abfcc815cddc9148b6d21a982e14267) | `get-tag` +2 | 2024-10-31 | 1y 7mo ago |
 | [cac4k8s-README.md](https://gist.github.com/dims/28f82eb9b9d2394c6aa49e5ac7788721) | `cac4k8s-README.md` | 2024-10-30 | 1y 7mo ago |
 | [kubekins-with-docker.sh](https://gist.github.com/dims/2ce24579c60fd71400696251fda6c6a5) | `kubekins-with-docker.sh` +2 | 2019-08-26 | 1y 8mo ago |
-| [Notes from running kubetest2 ec2 with nvidia](https://gist.github.com/dims/6d3ffbdcdaf2b894e8eb8e7b5c5c3d14) | `nvi.sh` +2 | 2024-03-04 | 1y 8mo ago |
+| [Notes from running kubetest2 ec2 with nvidia](https://gist.github.com/dims/6d3ffbdcdaf2b894e8eb8e7b5c5c3d14) | `nvi.sh` +2 | 2024-03-04 | 1y 9mo ago |
 | [unwanted-dependencies.json](https://gist.github.com/dims/030edac5dbd158eed83bd8b3f906e93d) | `unwanted-dependencies.json` | 2024-09-05 | 1y 9mo ago |
 | [perma-failures.md](https://gist.github.com/dims/466a4dec07a27eae9db41b30301b7fe3) | `perma-failures.md` | 2024-09-04 | 1y 9mo ago |
 | [v1.31 API generation](https://gist.github.com/dims/8d26414de71d46d44c8d7f1498eedd69) | `fields.yaml` +2 | 2024-08-17 | 1y 10mo ago |
@@ -244,7 +244,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/73ffb42fc1f24065473ab87829761bb8) | `gistfile1.txt` +1 | 2017-07-11 | 8y 11mo ago |
 | [Kubernetes FlexVolume Driver POC for OpenStack Cinder](https://gist.github.com/dims/ad5afbd657014b0bba17b40228cba32e) | `cinder.sh` +2 | 2017-05-09 | 9y 1mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/0158535b3f7135bcf1b88dc731bef737) | `gistfile1.txt` | 2017-03-24 | 9y 2mo ago |
-| [etcd3.py](https://gist.github.com/dims/19ceaf9472ef54aa3011d7a11e809371) | `etcd3.py` | 2017-03-18 | 9y 2mo ago |
+| [etcd3.py](https://gist.github.com/dims/19ceaf9472ef54aa3011d7a11e809371) | `etcd3.py` | 2017-03-18 | 9y 3mo ago |
 | [osx-route.sh](https://gist.github.com/dims/ea3c8e5764979005b79dda6e513fefa6) | `osx-route.sh` | 2017-03-16 | 9y 3mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/158b69323b90c4d8d565cb935a5b2e95) | `gistfile1.txt` | 2017-03-12 | 9y 3mo ago |
 | [Screen Commands for Docker for Mac (prevent garbled text on reconnect)](https://gist.github.com/dims/81b887378b8590e97ecd89be6c9ce8f1) | `screen-docker-for-mac.sh` | 2017-03-07 | 9y 3mo ago |
