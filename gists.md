@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **278 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-18 07:31 UTC
+> 🗂️ **278 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-18 13:00 UTC
 
 
 ## 📅 2026
@@ -17,7 +17,7 @@
 | [aicr (NVIDIA/aicr) — External Contributor & DCO-Hygiene Report (2026-06-03)](https://gist.github.com/dims/2cf425291ca5aff2ebd4ff0e9928250c) | `2026-06-03-aicr-external-contributors.md` | 2026-06-03 | 14d ago |
 | [Agent Substrate — pluggable ateom backend: Firecracker (microVM). [1] PoC on bigbox, [2] design proposal, [3] implementation log.](https://gist.github.com/dims/4052cec310c68226fe8dc0a2477aa96f) | `1-2026-05-29-firecracker-ateom-poc-bigbox.md` +2 | 2026-05-29 | 19d ago |
 | [Host-managed IMEX v2 design and operator guide](https://gist.github.com/dims/6a505ea49e5f9cc85fed0992932257d3) | `host-managed-imex-design-v2.md` +1 | 2026-05-28 | 19d ago |
-| [helpdesk-intern-demo.sh](https://gist.github.com/dims/6b2e00d8fd669e0037538d1831a768c2) | `helpdesk-intern-demo.sh` | 2026-05-25 | 23d ago |
+| [helpdesk-intern-demo.sh](https://gist.github.com/dims/6b2e00d8fd669e0037538d1831a768c2) | `helpdesk-intern-demo.sh` | 2026-05-25 | 24d ago |
 | [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 1mo ago |
 | [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 1mo ago |
 | [K8s CI triage runbook + v3 flakes report + v3 failures report (2026-05-10)](https://gist.github.com/dims/7fe64acadf88530855de24d473e79aa7) | `2026-05-10-k8s-ci-failures-triage-v3.md` +2 | 2026-05-11 | 1mo ago |
@@ -169,7 +169,7 @@
 | [hostpath-pvc-example.yaml](https://gist.github.com/dims/916fd6c76b7b2869cfe62242fe4890c2) | `hostpath-pvc-example.yaml` | 2016-06-21 | 5y 9mo ago |
 | [asyncpreemptoff.go](https://gist.github.com/dims/a2a3f51804cce919a5cdd7fcb3f4fd1e) | `asyncpreemptoff.go` | 2020-06-26 | 5y 11mo ago |
 | [git_version](https://gist.github.com/dims/cb4964ae5e1c2d6f983f3f71844fbb9a) | `git_version` +3 | 2020-06-24 | 5y 11mo ago |
-| [move-from-quay.sh](https://gist.github.com/dims/0aef844c22af80ed3637745071c8854c) | `move-from-quay.sh` | 2020-05-19 | 6y ago |
+| [move-from-quay.sh](https://gist.github.com/dims/0aef844c22af80ed3637745071c8854c) | `move-from-quay.sh` | 2020-05-19 | 6y 1mo ago |
 | [tips-to-run-stuff.md](https://gist.github.com/dims/4bb0ef417928433278ff09dd6cc49913) | `tips-to-run-stuff.md` | 2020-05-08 | 6y 1mo ago |
 | [README.md](https://gist.github.com/dims/3a0293b0a6593368f9ef577bba567287) | `README.md` +1 | 2020-05-07 | 6y 1mo ago |
 | [test for interleaved stdout/stderr](https://gist.github.com/dims/da574174817135b5ddf100b9ee89e8e6) | `fork.c` +1 | 2020-05-02 | 6y 1mo ago |
@@ -228,7 +228,7 @@
 | [config.json](https://gist.github.com/dims/5b9b8b6a11dbf6a96f787775f40a4746) | `config.json` | 2017-12-12 | 8y 6mo ago |
 | [nginx-cinder-all.yaml](https://gist.github.com/dims/ba202b11806d2e99004ac4ddc0c79e04) | `nginx-cinder-all.yaml` | 2017-11-27 | 8y 6mo ago |
 | [kubeadm.sh](https://gist.github.com/dims/3eeef40cb513d363bd84c5a63ce2f9ff) | `kubeadm.sh` | 2017-11-25 | 8y 6mo ago |
-| [new-vm-with-floating-ip.sh](https://gist.github.com/dims/155b8ee5c6e815d0e5d4a7116289f075) | `new-vm-with-floating-ip.sh` | 2017-11-22 | 8y 6mo ago |
+| [new-vm-with-floating-ip.sh](https://gist.github.com/dims/155b8ee5c6e815d0e5d4a7116289f075) | `new-vm-with-floating-ip.sh` | 2017-11-22 | 8y 7mo ago |
 | [cloud.conf](https://gist.github.com/dims/5a349c93ae075c5947aa64bfbbd4bc91) | `cloud.conf` +3 | 2017-06-15 | 8y 7mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/be96eb8024882098403708eb1f567184) | `gistfile1.txt` | 2017-11-16 | 8y 7mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/68829f0021a0acde846f29708da67d6b) | `gistfile1.txt` | 2017-11-02 | 8y 7mo ago |
