@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **278 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-18 18:43 UTC
+> 🗂️ **278 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-19 00:33 UTC
 
 
 ## 📅 2026
@@ -11,11 +11,11 @@
 | [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 8d ago |
 | [Kubernetes unwanted vendor dependencies status — June 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-05.md` +2 | 2026-04-26 | 11d ago |
 | [Kubernetes dependency security analysis (2026-04-23, 2026-06-06) + regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +2 | 2026-04-24 | 11d ago |
-| [Kubernetes Dependency Analysis (v1.37.0-alpha / master vs v1.36.1) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 11d ago |
+| [Kubernetes Dependency Analysis (v1.37.0-alpha / master vs v1.36.1) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 12d ago |
 | [Agent Substrate (agent-substrate/substrate) — Cross-Vendor Contributor & Affiliation Report (2026-06-03)](https://gist.github.com/dims/dc0c769bd5b94b4ebabecc60dbcd3dc8) | `2026-06-03-substrate-cross-vendor-contributors.md` | 2026-06-04 | 14d ago |
 | [OpenShell (NVIDIA/OpenShell) — External Contributor & DCO-Hygiene Report (2026-05-26)](https://gist.github.com/dims/babbf3a37068402a1ef9c4d5eddf53d0) | `external-contributor-report.md` | 2026-06-03 | 15d ago |
 | [aicr (NVIDIA/aicr) — External Contributor & DCO-Hygiene Report (2026-06-03)](https://gist.github.com/dims/2cf425291ca5aff2ebd4ff0e9928250c) | `2026-06-03-aicr-external-contributors.md` | 2026-06-03 | 15d ago |
-| [Agent Substrate — pluggable ateom backend: Firecracker (microVM). [1] PoC on bigbox, [2] design proposal, [3] implementation log.](https://gist.github.com/dims/4052cec310c68226fe8dc0a2477aa96f) | `1-2026-05-29-firecracker-ateom-poc-bigbox.md` +2 | 2026-05-29 | 19d ago |
+| [Agent Substrate — pluggable ateom backend: Firecracker (microVM). [1] PoC on bigbox, [2] design proposal, [3] implementation log.](https://gist.github.com/dims/4052cec310c68226fe8dc0a2477aa96f) | `1-2026-05-29-firecracker-ateom-poc-bigbox.md` +2 | 2026-05-29 | 20d ago |
 | [Host-managed IMEX v2 design and operator guide](https://gist.github.com/dims/6a505ea49e5f9cc85fed0992932257d3) | `host-managed-imex-design-v2.md` +1 | 2026-05-28 | 20d ago |
 | [helpdesk-intern-demo.sh](https://gist.github.com/dims/6b2e00d8fd669e0037538d1831a768c2) | `helpdesk-intern-demo.sh` | 2026-05-25 | 24d ago |
 | [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 1mo ago |
@@ -70,7 +70,7 @@
 | [cursor-review.md](https://gist.github.com/dims/dd39826639755a805769294889121b2d) | `cursor-review.md` | 2025-11-15 | 7mo ago |
 | [node-problem-detector plugin architecture guide](https://gist.github.com/dims/6f482d9fe34669c0df8f8f5564474981) | `PLUGIN_ARCHITECTURE_GUIDE.md` | 2025-10-30 | 7mo ago |
 | [get-helm-3](https://gist.github.com/dims/d1f1484e1dbdf13f0d1511917ef9b177) | `get-helm-3` | 2025-10-29 | 7mo ago |
-| [validate the nginx configuration in k8s.io/apps/k8s-io](https://gist.github.com/dims/80e556414989f30b9a500957460a7855) | `out.log` +1 | 2025-09-21 | 8mo ago |
+| [validate the nginx configuration in k8s.io/apps/k8s-io](https://gist.github.com/dims/80e556414989f30b9a500957460a7855) | `out.log` +1 | 2025-09-21 | 9mo ago |
 | [[DEPRECATED] Python script to compute updates to the Kubernetes go.mod to see how far we are behind latest in vendored repos (please look in artifacts generated in this job - https://testgrid.k8s.io/sig-arch-code-organization#unit-master-dependencies&width=20)](https://gist.github.com/dims/c0857b86441442b15852a4c2355db130) | `differences.md` +2 | 2019-05-20 | 9mo ago |
 | [Extract Endpoint information from audit logs](https://gist.github.com/dims/1fc254d0e4d043ef18bbc84596785de2) | `README.md` +1 | 2025-08-19 | 9mo ago |
 | [lima configuration for a local environment to test things on macos](https://gist.github.com/dims/20a824aff15a9ceaa8b7190124ff3d3b) | `README.md` +2 | 2025-07-03 | 11mo ago |
@@ -125,7 +125,7 @@
 | [from https://github.com/distribution/distribution/pull/4031](https://gist.github.com/dims/1984d35f7a61af608dbf330bd16b2631) | `gistfile1.txt` | 2023-08-30 | 2y 9mo ago |
 | [testing-kubetest-ec2](https://gist.github.com/dims/5035282fc7eac7cf87bd093791d52253) | `testing-kubetest-ec2` | 2023-08-05 | 2y 10mo ago |
 | [testgrid.js](https://gist.github.com/dims/26596fd1b0b0c9351910d5a8fe73b263) | `testgrid.js` | 2023-08-03 | 2y 10mo ago |
-| [update-dependencies.sh](https://gist.github.com/dims/bca6889ef2fab9479d6a6b4aa5f3a38b) | `update-dependencies.sh` | 2020-01-15 | 2y 11mo ago |
+| [update-dependencies.sh](https://gist.github.com/dims/bca6889ef2fab9479d6a6b4aa5f3a38b) | `update-dependencies.sh` | 2020-01-15 | 2y 12mo ago |
 | [README.md](https://gist.github.com/dims/9ac9193c5988ecbaa7071e6730162b5a) | `README.md` +2 | 2023-06-09 | 3y ago |
 | [main.json](https://gist.github.com/dims/2f400d09b8deb931da6f1d498aba8c07) | `R_kgDOHDwlIw.json` +1 | 2023-05-24 | 3y ago |
 | [run exactly what runs in local-up / presubmit job](https://gist.github.com/dims/3c83730c99f61e36b8dd2d61abe68fe7) | `peel-the-onion.sh` | 2023-05-10 | 3y 1mo ago |
@@ -168,7 +168,7 @@
 |--------|---------|-----------|-----------|
 | [hostpath-pvc-example.yaml](https://gist.github.com/dims/916fd6c76b7b2869cfe62242fe4890c2) | `hostpath-pvc-example.yaml` | 2016-06-21 | 5y 9mo ago |
 | [asyncpreemptoff.go](https://gist.github.com/dims/a2a3f51804cce919a5cdd7fcb3f4fd1e) | `asyncpreemptoff.go` | 2020-06-26 | 5y 11mo ago |
-| [git_version](https://gist.github.com/dims/cb4964ae5e1c2d6f983f3f71844fbb9a) | `git_version` +3 | 2020-06-24 | 5y 11mo ago |
+| [git_version](https://gist.github.com/dims/cb4964ae5e1c2d6f983f3f71844fbb9a) | `git_version` +3 | 2020-06-24 | 5y 12mo ago |
 | [move-from-quay.sh](https://gist.github.com/dims/0aef844c22af80ed3637745071c8854c) | `move-from-quay.sh` | 2020-05-19 | 6y 1mo ago |
 | [tips-to-run-stuff.md](https://gist.github.com/dims/4bb0ef417928433278ff09dd6cc49913) | `tips-to-run-stuff.md` | 2020-05-08 | 6y 1mo ago |
 | [README.md](https://gist.github.com/dims/3a0293b0a6593368f9ef577bba567287) | `README.md` +1 | 2020-05-07 | 6y 1mo ago |
@@ -213,7 +213,7 @@
 | [busybox-with-secret.yaml](https://gist.github.com/dims/d3be058f90fecec8a48c8f8e295cef71) | `busybox-with-secret.yaml` | 2018-04-18 | 8y 2mo ago |
 | [hound-app.yaml](https://gist.github.com/dims/2cf8363d91c95535eecd586f57ec0ccf) | `hound-app.yaml` | 2018-04-03 | 8y 2mo ago |
 | [restart-k8s.sh](https://gist.github.com/dims/e50a05a3c4226c10fc16ccacdcff86d8) | `restart-k8s.sh` | 2018-03-09 | 8y 2mo ago |
-| [kubetest.sh](https://gist.github.com/dims/033cffa467107bcac8df21e7db72d528) | `kubetest.sh` +1 | 2018-02-28 | 8y 2mo ago |
+| [kubetest.sh](https://gist.github.com/dims/033cffa467107bcac8df21e7db72d528) | `kubetest.sh` +1 | 2018-02-28 | 8y 3mo ago |
 | [latest-openstack-cinder-in-k8s.sh](https://gist.github.com/dims/d74d0f5d5354cccd67eefb563d756e93) | `latest-openstack-cinder-in-k8s.sh` | 2018-03-21 | 8y 3mo ago |
 | [rebranch-cloud-provider.txt](https://gist.github.com/dims/e6500387db7ac887eb0e57fd4eb2e8a2) | `rebranch-cloud-provider.txt` | 2018-01-13 | 8y 3mo ago |
 | [run_kubetest.sh](https://gist.github.com/dims/79a8ec3dd26c270940daa56518271e79) | `run_kubetest.sh` | 2018-02-16 | 8y 4mo ago |
@@ -240,7 +240,7 @@
 | [docker-vol-test.sh](https://gist.github.com/dims/9c27674a06f794dcd2e1362bc0bc374f) | `docker-vol-test.sh` | 2017-08-18 | 8y 10mo ago |
 | [service.py](https://gist.github.com/dims/fb1cfe6b8fd8e9fed87b6cf35aec189b) | `service.py` | 2017-08-08 | 8y 10mo ago |
 | [quick_start_vault.txt](https://gist.github.com/dims/47674cf2c3b0a953df69246c2ea1ff78) | `quick_start_vault.txt` | 2017-08-02 | 8y 10mo ago |
-| [README.txt](https://gist.github.com/dims/ea6d11d56f42ba88999bfa85bd3ee257) | `README.txt` +2 | 2017-07-25 | 8y 10mo ago |
+| [README.txt](https://gist.github.com/dims/ea6d11d56f42ba88999bfa85bd3ee257) | `README.txt` +2 | 2017-07-25 | 8y 11mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/73ffb42fc1f24065473ab87829761bb8) | `gistfile1.txt` +1 | 2017-07-11 | 8y 11mo ago |
 | [Kubernetes FlexVolume Driver POC for OpenStack Cinder](https://gist.github.com/dims/ad5afbd657014b0bba17b40228cba32e) | `cinder.sh` +2 | 2017-05-09 | 9y 1mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/0158535b3f7135bcf1b88dc731bef737) | `gistfile1.txt` | 2017-03-24 | 9y 2mo ago |
