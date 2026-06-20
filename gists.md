@@ -1,16 +1,16 @@
 # 📝 Gists
 
-> 🗂️ **278 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-20 00:25 UTC
+> 🗂️ **278 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-20 07:13 UTC
 
 
 ## 📅 2026
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 4d ago |
+| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 5d ago |
 | [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 9d ago |
-| [Kubernetes unwanted vendor dependencies status — June 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-05.md` +2 | 2026-04-26 | 12d ago |
-| [Kubernetes dependency security analysis (2026-04-23, 2026-06-06) + regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +2 | 2026-04-24 | 12d ago |
+| [Kubernetes unwanted vendor dependencies status — June 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-05.md` +2 | 2026-04-26 | 13d ago |
+| [Kubernetes dependency security analysis (2026-04-23, 2026-06-06) + regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +2 | 2026-04-24 | 13d ago |
 | [Kubernetes Dependency Analysis (v1.37.0-alpha / master vs v1.36.1) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 13d ago |
 | [Agent Substrate (agent-substrate/substrate) — Cross-Vendor Contributor & Affiliation Report (2026-06-03)](https://gist.github.com/dims/dc0c769bd5b94b4ebabecc60dbcd3dc8) | `2026-06-03-substrate-cross-vendor-contributors.md` | 2026-06-04 | 15d ago |
 | [OpenShell (NVIDIA/OpenShell) — External Contributor & DCO-Hygiene Report (2026-05-26)](https://gist.github.com/dims/babbf3a37068402a1ef9c4d5eddf53d0) | `external-contributor-report.md` | 2026-06-03 | 16d ago |
@@ -90,7 +90,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/f71271782f8840cf5c9973d7213a505c) | `gistfile1.txt` | 2024-11-07 | 1y 7mo ago |
 | [get-tag](https://gist.github.com/dims/8abfcc815cddc9148b6d21a982e14267) | `get-tag` +2 | 2024-10-31 | 1y 7mo ago |
 | [cac4k8s-README.md](https://gist.github.com/dims/28f82eb9b9d2394c6aa49e5ac7788721) | `cac4k8s-README.md` | 2024-10-30 | 1y 7mo ago |
-| [kubekins-with-docker.sh](https://gist.github.com/dims/2ce24579c60fd71400696251fda6c6a5) | `kubekins-with-docker.sh` +2 | 2019-08-26 | 1y 8mo ago |
+| [kubekins-with-docker.sh](https://gist.github.com/dims/2ce24579c60fd71400696251fda6c6a5) | `kubekins-with-docker.sh` +2 | 2019-08-26 | 1y 9mo ago |
 | [Notes from running kubetest2 ec2 with nvidia](https://gist.github.com/dims/6d3ffbdcdaf2b894e8eb8e7b5c5c3d14) | `nvi.sh` +2 | 2024-03-04 | 1y 9mo ago |
 | [unwanted-dependencies.json](https://gist.github.com/dims/030edac5dbd158eed83bd8b3f906e93d) | `unwanted-dependencies.json` | 2024-09-05 | 1y 9mo ago |
 | [perma-failures.md](https://gist.github.com/dims/466a4dec07a27eae9db41b30301b7fe3) | `perma-failures.md` | 2024-09-04 | 1y 9mo ago |
@@ -161,7 +161,7 @@
 | [experiment - kubeadm with cloud controller manager](https://gist.github.com/dims/d1d9b0b4108cdf67c4fe45af1865bbf4) | `10-kubeadm.conf` +2 | 2018-01-18 | 4y 11mo ago |
 | [jsonpath.md](https://gist.github.com/dims/902d4f4f8f894b40e2971f7696119d2a) | `jsonpath.md` | 2021-05-26 | 5y ago |
 | [deflaking.md](https://gist.github.com/dims/286caf7b1bdd2f52d5f231561ced5ba6) | `deflaking.md` +1 | 2021-04-30 | 5y 1mo ago |
-| [Test Kubernetes with a local build of containerd and runc](https://gist.github.com/dims/4fac086aee0358c4b3b9c05c7fbf2491) | `README.md` +1 | 2021-04-21 | 5y 1mo ago |
+| [Test Kubernetes with a local build of containerd and runc](https://gist.github.com/dims/4fac086aee0358c4b3b9c05c7fbf2491) | `README.md` +1 | 2021-04-21 | 5y 2mo ago |
 ## 📅 2020
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
@@ -261,7 +261,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/85cf89856beea7a566d21a28357a48eb) | `gistfile1.txt` | 2016-12-15 | 9y 6mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/9492a27046bf3f02c2f3e8b882e69d25) | `gistfile1.txt` | 2016-12-14 | 9y 6mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/067cde4be936b7a9046cd786c6422e51) | `gistfile1.txt` | 2016-12-05 | 9y 6mo ago |
-| [gistfile1.txt](https://gist.github.com/dims/c70ff295d1f6e4f4e5efee00646e4847) | `gistfile1.txt` | 2016-11-24 | 9y 6mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/c70ff295d1f6e4f4e5efee00646e4847) | `gistfile1.txt` | 2016-11-24 | 9y 7mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/47955e16bca1eac1a177d865b5a5646f) | `gistfile1.txt` | 2016-11-19 | 9y 7mo ago |
 | [Simple mod_wsgi sample](https://gist.github.com/dims/4dfbac57efabb7631da4) | `001-myweb.conf` +1 | 2015-09-18 | 9y 7mo ago |
 | [go_test_cmd_line.sh](https://gist.github.com/dims/f56feb77c7c0212c0165588a5690b08c) | `go_test_cmd_line.sh` | 2016-11-09 | 9y 7mo ago |
