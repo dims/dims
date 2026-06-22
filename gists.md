@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **278 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-22 13:47 UTC
+> 🗂️ **278 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-22 19:02 UTC
 
 
 ## 📅 2026
@@ -8,15 +8,15 @@
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 7d ago |
-| [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 11d ago |
+| [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 12d ago |
 | [Kubernetes unwanted vendor dependencies status — June 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-05.md` +2 | 2026-04-26 | 15d ago |
 | [Kubernetes dependency security analysis (2026-04-23, 2026-06-06) + regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +2 | 2026-04-24 | 15d ago |
 | [Kubernetes Dependency Analysis (v1.37.0-alpha / master vs v1.36.1) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 15d ago |
 | [Agent Substrate (agent-substrate/substrate) — Cross-Vendor Contributor & Affiliation Report (2026-06-03)](https://gist.github.com/dims/dc0c769bd5b94b4ebabecc60dbcd3dc8) | `2026-06-03-substrate-cross-vendor-contributors.md` | 2026-06-04 | 18d ago |
-| [OpenShell (NVIDIA/OpenShell) — External Contributor & DCO-Hygiene Report (2026-05-26)](https://gist.github.com/dims/babbf3a37068402a1ef9c4d5eddf53d0) | `external-contributor-report.md` | 2026-06-03 | 18d ago |
-| [aicr (NVIDIA/aicr) — External Contributor & DCO-Hygiene Report (2026-06-03)](https://gist.github.com/dims/2cf425291ca5aff2ebd4ff0e9928250c) | `2026-06-03-aicr-external-contributors.md` | 2026-06-03 | 18d ago |
+| [OpenShell (NVIDIA/OpenShell) — External Contributor & DCO-Hygiene Report (2026-05-26)](https://gist.github.com/dims/babbf3a37068402a1ef9c4d5eddf53d0) | `external-contributor-report.md` | 2026-06-03 | 19d ago |
+| [aicr (NVIDIA/aicr) — External Contributor & DCO-Hygiene Report (2026-06-03)](https://gist.github.com/dims/2cf425291ca5aff2ebd4ff0e9928250c) | `2026-06-03-aicr-external-contributors.md` | 2026-06-03 | 19d ago |
 | [Agent Substrate — pluggable ateom backend: Firecracker (microVM). [1] PoC on bigbox, [2] design proposal, [3] implementation log.](https://gist.github.com/dims/4052cec310c68226fe8dc0a2477aa96f) | `1-2026-05-29-firecracker-ateom-poc-bigbox.md` +2 | 2026-05-29 | 23d ago |
-| [Host-managed IMEX v2 design and operator guide](https://gist.github.com/dims/6a505ea49e5f9cc85fed0992932257d3) | `host-managed-imex-design-v2.md` +1 | 2026-05-28 | 23d ago |
+| [Host-managed IMEX v2 design and operator guide](https://gist.github.com/dims/6a505ea49e5f9cc85fed0992932257d3) | `host-managed-imex-design-v2.md` +1 | 2026-05-28 | 24d ago |
 | [helpdesk-intern-demo.sh](https://gist.github.com/dims/6b2e00d8fd669e0037538d1831a768c2) | `helpdesk-intern-demo.sh` | 2026-05-25 | 28d ago |
 | [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 1mo ago |
 | [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 1mo ago |
@@ -25,7 +25,7 @@
 | [kube-openapi PR #590 risk analysis: go-openapi/swag v0.23.0→v0.25.4 behavioral deep-dive](https://gist.github.com/dims/ecd681ea7d4748300d3b6203074e7d70) | `kube-openapi-pr590-risk-analysis.md` +1 | 2026-04-27 | 1mo ago |
 | [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | 1mo ago |
 | [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 1mo ago |
-| [k8s.io staging module dependency graph (radial, api at center)](https://gist.github.com/dims/bde02986ddcad94b5514e7eb4e9ebff6) | `2026-04-23-k8s-staging-deps-radial.svg` | 2026-04-23 | 1mo ago |
+| [k8s.io staging module dependency graph (radial, api at center)](https://gist.github.com/dims/bde02986ddcad94b5514e7eb4e9ebff6) | `2026-04-23-k8s-staging-deps-radial.svg` | 2026-04-23 | 2mo ago |
 | [Kubernetes Dependency Reduction Assessment (Apr 23, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 2mo ago |
 | [staging-module-dependency-analysis.md](https://gist.github.com/dims/d12d8097a424943de8ff2853330c549a) | `staging-module-dependency-analysis.md` +1 | 2025-12-03 | 2mo ago |
 | [CI Coverage Map — sigs.k8s.io/dra-driver-nvidia-gpu (Lambda/GCP-nvkind/mock-nvml providers, BATS suites, TestGrid tabs, GPU_TYPE= resolution, gap analysis)](https://gist.github.com/dims/f7c17059cff4549bde78d253971033f1) | `dra-driver-nvidia-gpu-ci-coverage.md` | 2026-04-21 | 2mo ago |
@@ -51,8 +51,8 @@
 | [CNCF_New_Contributors_FAQ.md](https://gist.github.com/dims/d59332d36089040be17834dc2febb67f) | `CNCF_New_Contributors_FAQ.md` | 2025-12-06 | 4mo ago |
 | [Kubernetes AI Conformance Implementation Analysis](https://gist.github.com/dims/ff683f5db74dd843040c377f2d263606) | `k8s-ai-conformance-analysis.md` | 2026-01-29 | 4mo ago |
 | [CI Jobs Fixed, Created, or Deleted - January 2026](https://gist.github.com/dims/2274c8cb64ab8de1321d280053ea0aca) | `dims-ci-jobs-fixed-jan-2026.md` | 2026-01-29 | 4mo ago |
-| [kops-failure-patterns-analysis.md](https://gist.github.com/dims/361585c46ef0211f375ffa6738f85eb8) | `kops-failure-patterns-analysis.md` | 2026-01-23 | 4mo ago |
-| [Kops CI Jobs Failing with KOPS_STATE_STORE Errors](https://gist.github.com/dims/0b018d889a9161e24e1c32d410a64228) | `kops.md` | 2026-01-23 | 4mo ago |
+| [kops-failure-patterns-analysis.md](https://gist.github.com/dims/361585c46ef0211f375ffa6738f85eb8) | `kops-failure-patterns-analysis.md` | 2026-01-23 | 5mo ago |
+| [Kops CI Jobs Failing with KOPS_STATE_STORE Errors](https://gist.github.com/dims/0b018d889a9161e24e1c32d410a64228) | `kops.md` | 2026-01-23 | 5mo ago |
 | [Cloud Native Stack (CNS) End-to-End Demo Report](https://gist.github.com/dims/7429660903c79132fe74fba00260d315) | `cns-e2e-report.md` | 2026-01-15 | 5mo ago |
 | [CNS (Cloud Native Stack) CLI UX Analysis](https://gist.github.com/dims/ca6d524c510add583a1d0b28e27a6154) | `cns-ux-analysis-v4.md` | 2026-01-15 | 5mo ago |
 | [Running Kubernetes e2e_node tests locally with Lima VM](https://gist.github.com/dims/74b665fa814acd423c6096501a77366e) | `README.md` +4 | 2026-01-10 | 5mo ago |
@@ -127,7 +127,7 @@
 | [testgrid.js](https://gist.github.com/dims/26596fd1b0b0c9351910d5a8fe73b263) | `testgrid.js` | 2023-08-03 | 2y 10mo ago |
 | [update-dependencies.sh](https://gist.github.com/dims/bca6889ef2fab9479d6a6b4aa5f3a38b) | `update-dependencies.sh` | 2020-01-15 | 2y 12mo ago |
 | [README.md](https://gist.github.com/dims/9ac9193c5988ecbaa7071e6730162b5a) | `README.md` +2 | 2023-06-09 | 3y ago |
-| [main.json](https://gist.github.com/dims/2f400d09b8deb931da6f1d498aba8c07) | `R_kgDOHDwlIw.json` +1 | 2023-05-24 | 3y ago |
+| [main.json](https://gist.github.com/dims/2f400d09b8deb931da6f1d498aba8c07) | `R_kgDOHDwlIw.json` +1 | 2023-05-24 | 3y 1mo ago |
 | [run exactly what runs in local-up / presubmit job](https://gist.github.com/dims/3c83730c99f61e36b8dd2d61abe68fe7) | `peel-the-onion.sh` | 2023-05-10 | 3y 1mo ago |
 | [Identify big files locally](https://gist.github.com/dims/0db7bbaabcc2df0d803dcb74dc4ad440) | `Identify big files locally` | 2023-04-29 | 3y 1mo ago |
 | [update-cla-for-k8s.sh](https://gist.github.com/dims/b4337c51e65e6e3e9f27c5aa610ae938) | `update-cla-for-k8s.sh` | 2021-02-19 | 3y 3mo ago |
@@ -139,7 +139,7 @@
 |--------|---------|-----------|-----------|
 | [Use](https://gist.github.com/dims/9fe24682dc92a9f9f057ec44ec64bfbd) | `migrate-jobs.sh` | 2022-12-06 | 3y 6mo ago |
 | [Map of Dependencies - README.md](https://gist.github.com/dims/7eb66bbed03f349f092b31dabd1bdd47) | `Map of Dependencies - README.md` +1 | 2022-11-26 | 3y 6mo ago |
-| [README.md](https://gist.github.com/dims/3a416e0d83741cf8f31943f99cf1c7ee) | `README.md` +2 | 2021-03-17 | 3y 8mo ago |
+| [README.md](https://gist.github.com/dims/3a416e0d83741cf8f31943f99cf1c7ee) | `README.md` +2 | 2021-03-17 | 3y 9mo ago |
 | [Fetch info from devstats](https://gist.github.com/dims/37ddc99b5af3ec8e6f93e025cd171607) | `README.md` +1 | 2022-08-10 | 3y 10mo ago |
 | [repro-go-1-19-bug.sh](https://gist.github.com/dims/be878acba64e57a401c4df43b6f87fe7) | `repro-go-1-19-bug.sh` | 2022-07-21 | 3y 11mo ago |
 | [Dims' gmail filters](https://gist.github.com/dims/c3f45c3158e883600f988d7a767fe16b) | `mailFilters.xml` | 2022-06-25 | 3y 12mo ago |
@@ -295,40 +295,40 @@
 | [test.py](https://gist.github.com/dims/226218dd289857f6c933) | `test.py` | 2015-12-22 | 10y 6mo ago |
 | [diff2list](https://gist.github.com/dims/bd4144ab1d0f92f6fa50) | `diff2list` | 2015-10-19 | 10y 8mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/1238498) | `gistfile1.txt` | 2011-09-23 | 10y 9mo ago |
-| [x](https://gist.github.com/dims/10869) | `x` | 2008-09-15 | 10y 9mo ago |
-| [gistfile1.txt](https://gist.github.com/dims/10865) | `gistfile1.txt` | 2008-09-15 | 10y 9mo ago |
-| [x](https://gist.github.com/dims/10864) | `x` | 2008-09-15 | 10y 9mo ago |
-| [x](https://gist.github.com/dims/10862) | `x` | 2008-09-15 | 10y 9mo ago |
-| [x](https://gist.github.com/dims/10854) | `x` | 2008-09-15 | 10y 9mo ago |
-| [x](https://gist.github.com/dims/10853) | `x` | 2008-09-15 | 10y 9mo ago |
-| [x](https://gist.github.com/dims/10863) | `x` | 2008-09-15 | 10y 9mo ago |
-| [x](https://gist.github.com/dims/10857) | `x` | 2008-09-15 | 10y 9mo ago |
-| [x](https://gist.github.com/dims/10856) | `x` | 2008-09-15 | 10y 9mo ago |
-| [x](https://gist.github.com/dims/10855) | `x` | 2008-09-15 | 10y 9mo ago |
-| [x](https://gist.github.com/dims/10852) | `x` | 2008-09-15 | 10y 9mo ago |
-| [Fuel 7.0 on Mac OS X 10.10](https://gist.github.com/dims/d9b4829971916aa6e0aa) | `Fuel 7.0 on Mac OS X 10.10` | 2015-08-22 | 10y 9mo ago |
-| [pyampq diff for logging heartbeat (from Dmitry Mescheryakov)](https://gist.github.com/dims/349558ce662265ecddde) | `heartbeat-logging.diff` | 2015-08-04 | 10y 9mo ago |
-| [gistfile1.txt](https://gist.github.com/dims/e44f8805baab0a381f71) | `gistfile1.txt` | 2015-08-03 | 10y 9mo ago |
-| [Dmitry Mescheryakov's script](https://gist.github.com/dims/3a0425d9371380f2e45f) | `restart_all_processes.py` | 2015-07-22 | 10y 9mo ago |
-| [Handy script from Dan Smith](https://gist.github.com/dims/eeb0b882f58e44acf96f) | `test_project_with_oslo_lib` | 2015-07-13 | 10y 9mo ago |
-| [Add new lines to end of the requirements files](https://gist.github.com/dims/6180265768ec20563a4f) | `gistfile1.txt` | 2015-06-26 | 10y 9mo ago |
-| [Send email from release notes](https://gist.github.com/dims/7426fc81b559e4baacec) | `gistfile1.txt` | 2015-06-23 | 10y 9mo ago |
-| [email a file](https://gist.github.com/dims/7d242a1fa8cd7b9ea3fe) | `gistfile1.txt` | 2015-06-23 | 10y 9mo ago |
-| [DevStack + Murano](https://gist.github.com/dims/3761b61593182742173a) | `gistfile1.txt` | 2015-06-19 | 10y 9mo ago |
-| [irc chat log](https://gist.github.com/dims/ec85d46769a092a3ec56) | `gistfile1.txt` | 2015-05-29 | 10y 9mo ago |
-| [moose-color.svg](https://gist.github.com/dims/7134dbcde1509c4b0779) | `moose-color.svg` | 2015-05-06 | 10y 9mo ago |
-| [moose.svg](https://gist.github.com/dims/7842aa1887ca15faeb6a) | `moose.svg` | 2015-05-06 | 10y 9mo ago |
-| [git-track.sh](https://gist.github.com/dims/361e463e989e4f6ff32a) | `git-track.sh` | 2015-04-08 | 10y 9mo ago |
-| [Quick oslo.config example for testing](https://gist.github.com/dims/4a25c81212c1e47ebb62) | `app.conf` +1 | 2015-03-13 | 10y 9mo ago |
-| [oslo.messaging-demo.py](https://gist.github.com/dims/9623463611160c84879b) | `oslo.messaging-demo.py` | 2015-03-11 | 10y 9mo ago |
-| [verbose unix socket redirect using socat](https://gist.github.com/dims/2f56a64f5460b79f0a6c) | `gistfile1.txt` | 2014-12-31 | 10y 9mo ago |
-| [simple docker-py client to stream logs](https://gist.github.com/dims/c3327f633c526847c8e5) | `gistfile1.py` | 2014-12-22 | 10y 9mo ago |
-| [fwd docker unix socket via ssh](https://gist.github.com/dims/f4efd63af8b2216dff0e) | `gistfile1.txt` | 2014-12-22 | 10y 9mo ago |
-| [devices.md](https://gist.github.com/dims/0d1ac1a5598e0b8a72e0) | `devices.md` | 2014-12-03 | 10y 9mo ago |
-| [test-docker-driver.py](https://gist.github.com/dims/50fdda50aab063c579cb) | `test-docker-driver.py` | 2014-10-16 | 10y 9mo ago |
-| [httpd.conf](https://gist.github.com/dims/185ed200b3f0a21952ad) | `httpd.conf` | 2014-10-02 | 10y 9mo ago |
-| [micro_bosh.yml](https://gist.github.com/dims/b789b3e4a3bf63dc8517) | `micro_bosh.yml` | 2014-06-30 | 10y 9mo ago |
-| [cf-173-openstack.yml](https://gist.github.com/dims/588bac454e732f91a640) | `cf-173-openstack.yml` | 2014-06-26 | 10y 9mo ago |
+| [x](https://gist.github.com/dims/10869) | `x` | 2008-09-15 | 10y 10mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/10865) | `gistfile1.txt` | 2008-09-15 | 10y 10mo ago |
+| [x](https://gist.github.com/dims/10864) | `x` | 2008-09-15 | 10y 10mo ago |
+| [x](https://gist.github.com/dims/10862) | `x` | 2008-09-15 | 10y 10mo ago |
+| [x](https://gist.github.com/dims/10854) | `x` | 2008-09-15 | 10y 10mo ago |
+| [x](https://gist.github.com/dims/10853) | `x` | 2008-09-15 | 10y 10mo ago |
+| [x](https://gist.github.com/dims/10863) | `x` | 2008-09-15 | 10y 10mo ago |
+| [x](https://gist.github.com/dims/10857) | `x` | 2008-09-15 | 10y 10mo ago |
+| [x](https://gist.github.com/dims/10856) | `x` | 2008-09-15 | 10y 10mo ago |
+| [x](https://gist.github.com/dims/10855) | `x` | 2008-09-15 | 10y 10mo ago |
+| [x](https://gist.github.com/dims/10852) | `x` | 2008-09-15 | 10y 10mo ago |
+| [Fuel 7.0 on Mac OS X 10.10](https://gist.github.com/dims/d9b4829971916aa6e0aa) | `Fuel 7.0 on Mac OS X 10.10` | 2015-08-22 | 10y 10mo ago |
+| [pyampq diff for logging heartbeat (from Dmitry Mescheryakov)](https://gist.github.com/dims/349558ce662265ecddde) | `heartbeat-logging.diff` | 2015-08-04 | 10y 10mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/e44f8805baab0a381f71) | `gistfile1.txt` | 2015-08-03 | 10y 10mo ago |
+| [Dmitry Mescheryakov's script](https://gist.github.com/dims/3a0425d9371380f2e45f) | `restart_all_processes.py` | 2015-07-22 | 10y 10mo ago |
+| [Handy script from Dan Smith](https://gist.github.com/dims/eeb0b882f58e44acf96f) | `test_project_with_oslo_lib` | 2015-07-13 | 10y 10mo ago |
+| [Add new lines to end of the requirements files](https://gist.github.com/dims/6180265768ec20563a4f) | `gistfile1.txt` | 2015-06-26 | 10y 10mo ago |
+| [Send email from release notes](https://gist.github.com/dims/7426fc81b559e4baacec) | `gistfile1.txt` | 2015-06-23 | 10y 10mo ago |
+| [email a file](https://gist.github.com/dims/7d242a1fa8cd7b9ea3fe) | `gistfile1.txt` | 2015-06-23 | 10y 10mo ago |
+| [DevStack + Murano](https://gist.github.com/dims/3761b61593182742173a) | `gistfile1.txt` | 2015-06-19 | 10y 10mo ago |
+| [irc chat log](https://gist.github.com/dims/ec85d46769a092a3ec56) | `gistfile1.txt` | 2015-05-29 | 10y 10mo ago |
+| [moose-color.svg](https://gist.github.com/dims/7134dbcde1509c4b0779) | `moose-color.svg` | 2015-05-06 | 10y 10mo ago |
+| [moose.svg](https://gist.github.com/dims/7842aa1887ca15faeb6a) | `moose.svg` | 2015-05-06 | 10y 10mo ago |
+| [git-track.sh](https://gist.github.com/dims/361e463e989e4f6ff32a) | `git-track.sh` | 2015-04-08 | 10y 10mo ago |
+| [Quick oslo.config example for testing](https://gist.github.com/dims/4a25c81212c1e47ebb62) | `app.conf` +1 | 2015-03-13 | 10y 10mo ago |
+| [oslo.messaging-demo.py](https://gist.github.com/dims/9623463611160c84879b) | `oslo.messaging-demo.py` | 2015-03-11 | 10y 10mo ago |
+| [verbose unix socket redirect using socat](https://gist.github.com/dims/2f56a64f5460b79f0a6c) | `gistfile1.txt` | 2014-12-31 | 10y 10mo ago |
+| [simple docker-py client to stream logs](https://gist.github.com/dims/c3327f633c526847c8e5) | `gistfile1.py` | 2014-12-22 | 10y 10mo ago |
+| [fwd docker unix socket via ssh](https://gist.github.com/dims/f4efd63af8b2216dff0e) | `gistfile1.txt` | 2014-12-22 | 10y 10mo ago |
+| [devices.md](https://gist.github.com/dims/0d1ac1a5598e0b8a72e0) | `devices.md` | 2014-12-03 | 10y 10mo ago |
+| [test-docker-driver.py](https://gist.github.com/dims/50fdda50aab063c579cb) | `test-docker-driver.py` | 2014-10-16 | 10y 10mo ago |
+| [httpd.conf](https://gist.github.com/dims/185ed200b3f0a21952ad) | `httpd.conf` | 2014-10-02 | 10y 10mo ago |
+| [micro_bosh.yml](https://gist.github.com/dims/b789b3e4a3bf63dc8517) | `micro_bosh.yml` | 2014-06-30 | 10y 10mo ago |
+| [cf-173-openstack.yml](https://gist.github.com/dims/588bac454e732f91a640) | `cf-173-openstack.yml` | 2014-06-26 | 10y 10mo ago |
 
 ---
 *🤖 Auto-generated every 6 hours by [update-gists](.github/workflows/update-gists.yml)*
