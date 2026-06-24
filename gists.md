@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **278 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-24 12:38 UTC
+> 🗂️ **278 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-24 18:31 UTC
 
 
 ## 📅 2026
@@ -8,15 +8,15 @@
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 9d ago |
-| [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 13d ago |
+| [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 14d ago |
 | [Kubernetes unwanted vendor dependencies status — June 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-05.md` +2 | 2026-04-26 | 17d ago |
 | [Kubernetes dependency security analysis (2026-04-23, 2026-06-06) + regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +2 | 2026-04-24 | 17d ago |
 | [Kubernetes Dependency Analysis (v1.37.0-alpha / master vs v1.36.1) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 17d ago |
-| [Agent Substrate (agent-substrate/substrate) — Cross-Vendor Contributor & Affiliation Report (2026-06-03)](https://gist.github.com/dims/dc0c769bd5b94b4ebabecc60dbcd3dc8) | `2026-06-03-substrate-cross-vendor-contributors.md` | 2026-06-04 | 19d ago |
-| [OpenShell (NVIDIA/OpenShell) — External Contributor & DCO-Hygiene Report (2026-05-26)](https://gist.github.com/dims/babbf3a37068402a1ef9c4d5eddf53d0) | `external-contributor-report.md` | 2026-06-03 | 20d ago |
-| [aicr (NVIDIA/aicr) — External Contributor & DCO-Hygiene Report (2026-06-03)](https://gist.github.com/dims/2cf425291ca5aff2ebd4ff0e9928250c) | `2026-06-03-aicr-external-contributors.md` | 2026-06-03 | 20d ago |
+| [Agent Substrate (agent-substrate/substrate) — Cross-Vendor Contributor & Affiliation Report (2026-06-03)](https://gist.github.com/dims/dc0c769bd5b94b4ebabecc60dbcd3dc8) | `2026-06-03-substrate-cross-vendor-contributors.md` | 2026-06-04 | 20d ago |
+| [OpenShell (NVIDIA/OpenShell) — External Contributor & DCO-Hygiene Report (2026-05-26)](https://gist.github.com/dims/babbf3a37068402a1ef9c4d5eddf53d0) | `external-contributor-report.md` | 2026-06-03 | 21d ago |
+| [aicr (NVIDIA/aicr) — External Contributor & DCO-Hygiene Report (2026-06-03)](https://gist.github.com/dims/2cf425291ca5aff2ebd4ff0e9928250c) | `2026-06-03-aicr-external-contributors.md` | 2026-06-03 | 21d ago |
 | [Agent Substrate — pluggable ateom backend: Firecracker (microVM). [1] PoC on bigbox, [2] design proposal, [3] implementation log.](https://gist.github.com/dims/4052cec310c68226fe8dc0a2477aa96f) | `1-2026-05-29-firecracker-ateom-poc-bigbox.md` +2 | 2026-05-29 | 25d ago |
-| [Host-managed IMEX v2 design and operator guide](https://gist.github.com/dims/6a505ea49e5f9cc85fed0992932257d3) | `host-managed-imex-design-v2.md` +1 | 2026-05-28 | 25d ago |
+| [Host-managed IMEX v2 design and operator guide](https://gist.github.com/dims/6a505ea49e5f9cc85fed0992932257d3) | `host-managed-imex-design-v2.md` +1 | 2026-05-28 | 26d ago |
 | [helpdesk-intern-demo.sh](https://gist.github.com/dims/6b2e00d8fd669e0037538d1831a768c2) | `helpdesk-intern-demo.sh` | 2026-05-25 | 1mo ago |
 | [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 1mo ago |
 | [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 1mo ago |
@@ -159,7 +159,7 @@
 | [Run Kubernets conformance tests](https://gist.github.com/dims/ac3909fdef56fdb74193497c4124245a) | `README.md` +1 | 2021-08-11 | 4y 10mo ago |
 | [gcp-with-gpu.sh](https://gist.github.com/dims/89eaee983d6955c75ce5334f6c96c390) | `gcp-with-gpu.sh` | 2021-08-03 | 4y 10mo ago |
 | [experiment - kubeadm with cloud controller manager](https://gist.github.com/dims/d1d9b0b4108cdf67c4fe45af1865bbf4) | `10-kubeadm.conf` +2 | 2018-01-18 | 4y 11mo ago |
-| [jsonpath.md](https://gist.github.com/dims/902d4f4f8f894b40e2971f7696119d2a) | `jsonpath.md` | 2021-05-26 | 5y ago |
+| [jsonpath.md](https://gist.github.com/dims/902d4f4f8f894b40e2971f7696119d2a) | `jsonpath.md` | 2021-05-26 | 5y 1mo ago |
 | [deflaking.md](https://gist.github.com/dims/286caf7b1bdd2f52d5f231561ced5ba6) | `deflaking.md` +1 | 2021-04-30 | 5y 1mo ago |
 | [Test Kubernetes with a local build of containerd and runc](https://gist.github.com/dims/4fac086aee0358c4b3b9c05c7fbf2491) | `README.md` +1 | 2021-04-21 | 5y 2mo ago |
 ## 📅 2020
@@ -212,7 +212,7 @@
 | [repost.md](https://gist.github.com/dims/7b36925f8a86d8151c14ea9863c2d7f9) | `repost.md` | 2018-06-04 | 8y ago |
 | [busybox-with-secret.yaml](https://gist.github.com/dims/d3be058f90fecec8a48c8f8e295cef71) | `busybox-with-secret.yaml` | 2018-04-18 | 8y 2mo ago |
 | [hound-app.yaml](https://gist.github.com/dims/2cf8363d91c95535eecd586f57ec0ccf) | `hound-app.yaml` | 2018-04-03 | 8y 2mo ago |
-| [restart-k8s.sh](https://gist.github.com/dims/e50a05a3c4226c10fc16ccacdcff86d8) | `restart-k8s.sh` | 2018-03-09 | 8y 2mo ago |
+| [restart-k8s.sh](https://gist.github.com/dims/e50a05a3c4226c10fc16ccacdcff86d8) | `restart-k8s.sh` | 2018-03-09 | 8y 3mo ago |
 | [kubetest.sh](https://gist.github.com/dims/033cffa467107bcac8df21e7db72d528) | `kubetest.sh` +1 | 2018-02-28 | 8y 3mo ago |
 | [latest-openstack-cinder-in-k8s.sh](https://gist.github.com/dims/d74d0f5d5354cccd67eefb563d756e93) | `latest-openstack-cinder-in-k8s.sh` | 2018-03-21 | 8y 3mo ago |
 | [rebranch-cloud-provider.txt](https://gist.github.com/dims/e6500387db7ac887eb0e57fd4eb2e8a2) | `rebranch-cloud-provider.txt` | 2018-01-13 | 8y 3mo ago |
