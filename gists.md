@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **279 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-27 18:20 UTC
+> 🗂️ **279 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-06-28 00:23 UTC
 
 
 ## 📅 2026
@@ -12,11 +12,11 @@
 | [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 17d ago |
 | [Kubernetes unwanted vendor dependencies status — June 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-05.md` +2 | 2026-04-26 | 20d ago |
 | [Kubernetes dependency security analysis (2026-04-23, 2026-06-06) + regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +2 | 2026-04-24 | 20d ago |
-| [Kubernetes Dependency Analysis (v1.37.0-alpha / master vs v1.36.1) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 20d ago |
+| [Kubernetes Dependency Analysis (v1.37.0-alpha / master vs v1.36.1) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 21d ago |
 | [Agent Substrate (agent-substrate/substrate) — Cross-Vendor Contributor & Affiliation Report (2026-06-03)](https://gist.github.com/dims/dc0c769bd5b94b4ebabecc60dbcd3dc8) | `2026-06-03-substrate-cross-vendor-contributors.md` | 2026-06-04 | 23d ago |
 | [OpenShell (NVIDIA/OpenShell) — External Contributor & DCO-Hygiene Report (2026-05-26)](https://gist.github.com/dims/babbf3a37068402a1ef9c4d5eddf53d0) | `external-contributor-report.md` | 2026-06-03 | 24d ago |
 | [aicr (NVIDIA/aicr) — External Contributor & DCO-Hygiene Report (2026-06-03)](https://gist.github.com/dims/2cf425291ca5aff2ebd4ff0e9928250c) | `2026-06-03-aicr-external-contributors.md` | 2026-06-03 | 24d ago |
-| [Agent Substrate — pluggable ateom backend: Firecracker (microVM). [1] PoC on bigbox, [2] design proposal, [3] implementation log.](https://gist.github.com/dims/4052cec310c68226fe8dc0a2477aa96f) | `1-2026-05-29-firecracker-ateom-poc-bigbox.md` +2 | 2026-05-29 | 28d ago |
+| [Agent Substrate — pluggable ateom backend: Firecracker (microVM). [1] PoC on bigbox, [2] design proposal, [3] implementation log.](https://gist.github.com/dims/4052cec310c68226fe8dc0a2477aa96f) | `1-2026-05-29-firecracker-ateom-poc-bigbox.md` +2 | 2026-05-29 | 29d ago |
 | [Host-managed IMEX v2 design and operator guide](https://gist.github.com/dims/6a505ea49e5f9cc85fed0992932257d3) | `host-managed-imex-design-v2.md` +1 | 2026-05-28 | 29d ago |
 | [helpdesk-intern-demo.sh](https://gist.github.com/dims/6b2e00d8fd669e0037538d1831a768c2) | `helpdesk-intern-demo.sh` | 2026-05-25 | 1mo ago |
 | [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 1mo ago |
@@ -90,7 +90,7 @@
 | [bluesky-notes.md](https://gist.github.com/dims/ca85222a3d25eb1b3a4df8b7fafa51b5) | `bluesky-notes.md` | 2024-11-13 | 1y 7mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/f71271782f8840cf5c9973d7213a505c) | `gistfile1.txt` | 2024-11-07 | 1y 7mo ago |
 | [get-tag](https://gist.github.com/dims/8abfcc815cddc9148b6d21a982e14267) | `get-tag` +2 | 2024-10-31 | 1y 7mo ago |
-| [cac4k8s-README.md](https://gist.github.com/dims/28f82eb9b9d2394c6aa49e5ac7788721) | `cac4k8s-README.md` | 2024-10-30 | 1y 7mo ago |
+| [cac4k8s-README.md](https://gist.github.com/dims/28f82eb9b9d2394c6aa49e5ac7788721) | `cac4k8s-README.md` | 2024-10-30 | 1y 8mo ago |
 | [kubekins-with-docker.sh](https://gist.github.com/dims/2ce24579c60fd71400696251fda6c6a5) | `kubekins-with-docker.sh` +2 | 2019-08-26 | 1y 9mo ago |
 | [Notes from running kubetest2 ec2 with nvidia](https://gist.github.com/dims/6d3ffbdcdaf2b894e8eb8e7b5c5c3d14) | `nvi.sh` +2 | 2024-03-04 | 1y 9mo ago |
 | [unwanted-dependencies.json](https://gist.github.com/dims/030edac5dbd158eed83bd8b3f906e93d) | `unwanted-dependencies.json` | 2024-09-05 | 1y 9mo ago |
@@ -132,7 +132,7 @@
 | [run exactly what runs in local-up / presubmit job](https://gist.github.com/dims/3c83730c99f61e36b8dd2d61abe68fe7) | `peel-the-onion.sh` | 2023-05-10 | 3y 1mo ago |
 | [Identify big files locally](https://gist.github.com/dims/0db7bbaabcc2df0d803dcb74dc4ad440) | `Identify big files locally` | 2023-04-29 | 3y 2mo ago |
 | [update-cla-for-k8s.sh](https://gist.github.com/dims/b4337c51e65e6e3e9f27c5aa610ae938) | `update-cla-for-k8s.sh` | 2021-02-19 | 3y 3mo ago |
-| [big query sql](https://gist.github.com/dims/f1fd6d6801e533f520d4d06659d601d4) | `bigquery.sql` | 2023-02-28 | 3y 3mo ago |
+| [big query sql](https://gist.github.com/dims/f1fd6d6801e533f520d4d06659d601d4) | `bigquery.sql` | 2023-02-28 | 3y 4mo ago |
 | [local-docker-registry.sh](https://gist.github.com/dims/4d6b7894b1f29f43a25e72f0931c8d6b) | `local-docker-registry.sh` | 2018-09-12 | 3y 4mo ago |
 ## 📅 2022
 
@@ -287,7 +287,7 @@
 | [untriagedbot.py](https://gist.github.com/dims/7289b48e58dadcd81123) | `untriagedbot.py` | 2014-09-20 | 10y 2mo ago |
 | [Scan the Nova "In Progress" Launchpad bugs for abandoned reviews](https://gist.github.com/dims/2ba347b79da3ccdc882a) | `gistfile1.txt` | 2015-02-12 | 10y 2mo ago |
 | [Bugs marked "In Progress" but no reviews](https://gist.github.com/dims/3de20e400b11af56fff7) | `parked_bugs.py` | 2016-03-04 | 10y 2mo ago |
-| [Kolla - /etc/kolla/globals.yml](https://gist.github.com/dims/04a046e7286f73a87274f2a7af37f752) | `globals.yml` | 2016-03-31 | 10y 2mo ago |
+| [Kolla - /etc/kolla/globals.yml](https://gist.github.com/dims/04a046e7286f73a87274f2a7af37f752) | `globals.yml` | 2016-03-31 | 10y 3mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/495a7f092fce52693d28) | `gistfile1.txt` | 2016-03-08 | 10y 3mo ago |
 ## 📅 2015
 
