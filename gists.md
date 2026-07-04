@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **280 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-07-03 18:24 UTC
+> 🗂️ **280 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-07-04 00:21 UTC
 
 
 ## 📅 2026
@@ -13,7 +13,7 @@
 | [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 23d ago |
 | [Kubernetes unwanted vendor dependencies status — June 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-05.md` +2 | 2026-04-26 | 26d ago |
 | [Kubernetes dependency security analysis (2026-04-23, 2026-06-06) + regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-analysis-v2.md` +2 | 2026-04-24 | 26d ago |
-| [Kubernetes Dependency Analysis (v1.37.0-alpha / master vs v1.36.1) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 26d ago |
+| [Kubernetes Dependency Analysis (v1.37.0-alpha / master vs v1.36.1) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 27d ago |
 | [Agent Substrate (agent-substrate/substrate) — Cross-Vendor Contributor & Affiliation Report (2026-06-03)](https://gist.github.com/dims/dc0c769bd5b94b4ebabecc60dbcd3dc8) | `2026-06-03-substrate-cross-vendor-contributors.md` | 2026-06-04 | 29d ago |
 | [OpenShell (NVIDIA/OpenShell) — External Contributor & DCO-Hygiene Report (2026-05-26)](https://gist.github.com/dims/babbf3a37068402a1ef9c4d5eddf53d0) | `external-contributor-report.md` | 2026-06-03 | 1mo ago |
 | [aicr (NVIDIA/aicr) — External Contributor & DCO-Hygiene Report (2026-06-03)](https://gist.github.com/dims/2cf425291ca5aff2ebd4ff0e9928250c) | `2026-06-03-aicr-external-contributors.md` | 2026-06-03 | 1mo ago |
@@ -75,7 +75,7 @@
 | [validate the nginx configuration in k8s.io/apps/k8s-io](https://gist.github.com/dims/80e556414989f30b9a500957460a7855) | `out.log` +1 | 2025-09-21 | 9mo ago |
 | [[DEPRECATED] Python script to compute updates to the Kubernetes go.mod to see how far we are behind latest in vendored repos (please look in artifacts generated in this job - https://testgrid.k8s.io/sig-arch-code-organization#unit-master-dependencies&width=20)](https://gist.github.com/dims/c0857b86441442b15852a4c2355db130) | `differences.md` +2 | 2019-05-20 | 9mo ago |
 | [Extract Endpoint information from audit logs](https://gist.github.com/dims/1fc254d0e4d043ef18bbc84596785de2) | `README.md` +1 | 2025-08-19 | 10mo ago |
-| [lima configuration for a local environment to test things on macos](https://gist.github.com/dims/20a824aff15a9ceaa8b7190124ff3d3b) | `README.md` +2 | 2025-07-03 | 12mo ago |
+| [lima configuration for a local environment to test things on macos](https://gist.github.com/dims/20a824aff15a9ceaa8b7190124ff3d3b) | `README.md` +2 | 2025-07-03 | 1y ago |
 | [imports analysis](https://gist.github.com/dims/f9adba9ec5f92b72c269c6a4ddcd93d8) | `import_analyzer.go` +1 | 2025-06-19 | 1y ago |
 | [test-containerd-using-crictl.sh](https://gist.github.com/dims/936f5ddd85e94ea588781f1570860c2d) | `test-containerd-using-crictl.sh` | 2025-05-10 | 1y 1mo ago |
 | [SOCI w/ k8s](https://gist.github.com/dims/829e3890282602202e116694ff626de8) | `README.md` +8 | 2024-01-13 | 1y 1mo ago |
@@ -103,7 +103,7 @@
 | [tune-kindnet.yaml](https://gist.github.com/dims/62a2eb5c1cf6e3473d2d7f54d3e33415) | `tune-kindnet.yaml` | 2024-07-22 | 1y 11mo ago |
 | [kubetest2-quick.sh](https://gist.github.com/dims/cbbcb80cf2ff21a1c6bea44380cd10f0) | `kubetest2-quick.sh` | 2024-07-18 | 1y 11mo ago |
 | [build-and-run-stress-tests.sh](https://gist.github.com/dims/89ef5a75dabd3d36c58cc9d4a1b9e188) | `build-and-run-stress-tests.sh` | 2024-07-05 | 1y 12mo ago |
-| [Run `eksdemo` / `kubetest2 ec2` and end to end tests](https://gist.github.com/dims/4bba3a390af3c553721b766f736efc07) | `run.sh` | 2024-07-03 | 1y 12mo ago |
+| [Run `eksdemo` / `kubetest2 ec2` and end to end tests](https://gist.github.com/dims/4bba3a390af3c553721b766f736efc07) | `run.sh` | 2024-07-03 | 2y ago |
 | [skip github action stale build checks](https://gist.github.com/dims/28d4be593eb4727d2089eff80e86a31e) | `skip.sh` | 2024-06-19 | 2y ago |
 | [verify-repos.sh](https://gist.github.com/dims/9aeeacb7619865eb4bbb68a86165881d) | `verify-repos.sh` +1 | 2024-04-04 | 2y 3mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/c59aa91dad40b0fa5679d58a1ac523d1) | `gistfile1.txt` | 2019-04-02 | 2y 3mo ago |
@@ -217,7 +217,7 @@
 | [restart-k8s.sh](https://gist.github.com/dims/e50a05a3c4226c10fc16ccacdcff86d8) | `restart-k8s.sh` | 2018-03-09 | 8y 3mo ago |
 | [kubetest.sh](https://gist.github.com/dims/033cffa467107bcac8df21e7db72d528) | `kubetest.sh` +1 | 2018-02-28 | 8y 3mo ago |
 | [latest-openstack-cinder-in-k8s.sh](https://gist.github.com/dims/d74d0f5d5354cccd67eefb563d756e93) | `latest-openstack-cinder-in-k8s.sh` | 2018-03-21 | 8y 3mo ago |
-| [rebranch-cloud-provider.txt](https://gist.github.com/dims/e6500387db7ac887eb0e57fd4eb2e8a2) | `rebranch-cloud-provider.txt` | 2018-01-13 | 8y 3mo ago |
+| [rebranch-cloud-provider.txt](https://gist.github.com/dims/e6500387db7ac887eb0e57fd4eb2e8a2) | `rebranch-cloud-provider.txt` | 2018-01-13 | 8y 4mo ago |
 | [run_kubetest.sh](https://gist.github.com/dims/79a8ec3dd26c270940daa56518271e79) | `run_kubetest.sh` | 2018-02-16 | 8y 4mo ago |
 | [local.conf](https://gist.github.com/dims/43488ea7420c4275654d8e364d5bb464) | `local.conf` | 2018-02-07 | 8y 4mo ago |
 | [flush-iptables.sh](https://gist.github.com/dims/1772d4996c2e3935faab2ec70ced0559) | `flush-iptables.sh` | 2018-02-04 | 8y 5mo ago |
@@ -281,7 +281,7 @@
 | [echo.yaml](https://gist.github.com/dims/43e8fef096f332b41458ab43150b2214) | `echo.yaml` | 2016-06-10 | 10y ago |
 | [gistfile1.txt](https://gist.github.com/dims/ffb0faa1614285c3ef4080867af5ade4) | `gistfile1.txt` | 2016-06-07 | 10y ago |
 | [pod-with-readiness.yml](https://gist.github.com/dims/5c0a67b229f10a5bec7d0c32f27fb81d) | `pod-with-readiness.yml` | 2016-06-06 | 10y ago |
-| [trystack.sh](https://gist.github.com/dims/f97b04b8c54182624468d4988bb5091e) | `trystack.sh` | 2016-05-06 | 10y 1mo ago |
+| [trystack.sh](https://gist.github.com/dims/f97b04b8c54182624468d4988bb5091e) | `trystack.sh` | 2016-05-06 | 10y 2mo ago |
 | [clean-kolla](https://gist.github.com/dims/f83ae173bcd20be6e172b52f95b17c5f) | `clean-kolla` | 2016-05-03 | 10y 2mo ago |
 | [Quick start Kubernetes in an OpenStack Environment](https://gist.github.com/dims/c39bdd07a471d72bac0abdf6f07409b6) | `kube-init.sh` +1 | 2016-04-21 | 10y 2mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/3f0d83cb6d2f0cd6751b9f92896b4fea) | `gistfile1.txt` | 2016-04-11 | 10y 2mo ago |
