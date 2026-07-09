@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **280 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-07-08 18:26 UTC
+> 🗂️ **280 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-07-09 00:24 UTC
 
 
 ## 📅 2026
@@ -147,7 +147,7 @@
 | [Dims' gmail filters](https://gist.github.com/dims/c3f45c3158e883600f988d7a767fe16b) | `mailFilters.xml` | 2022-06-25 | 4y ago |
 | [gcp-quick-start.md](https://gist.github.com/dims/19fff66f27445c5c1f0e0195e203afef) | `gcp-quick-start.md` | 2021-10-25 | 4y ago |
 | [Script to help filter out api/ directory to publish to another repo (containerd)](https://gist.github.com/dims/62ad31ba8e48ff0b4bcf63ae4365bd49) | `grab-api-into-new-repo.sh` | 2022-02-16 | 4y 1mo ago |
-| [Experiment with Kubernetes with a custom Docker Image](https://gist.github.com/dims/aafc4b23c6653402f056d5c185fd6cf9) | `Dockerfile` +2 | 2016-04-14 | 4y 1mo ago |
+| [Experiment with Kubernetes with a custom Docker Image](https://gist.github.com/dims/aafc4b23c6653402f056d5c185fd6cf9) | `Dockerfile` +2 | 2016-04-14 | 4y 2mo ago |
 | [verify-licenses.sh](https://gist.github.com/dims/44dde0e640adbb553fd9f5d7fde3181b) | `verify-licenses.sh` | 2022-04-08 | 4y 3mo ago |
 | [Scripts to do a audit for tags created by publishing-bot](https://gist.github.com/dims/c53716ab4272a4b87da99b2f174923f5) | `download.sh` +1 | 2022-03-19 | 4y 3mo ago |
 ## 📅 2021
@@ -227,7 +227,7 @@
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
 | [gistfile1.txt](https://gist.github.com/dims/35b249bf106bcabc900e9dfd6d5cfdb2) | `gistfile1.txt` | 2017-12-29 | 8y 6mo ago |
-| [config.json](https://gist.github.com/dims/5b9b8b6a11dbf6a96f787775f40a4746) | `config.json` | 2017-12-12 | 8y 6mo ago |
+| [config.json](https://gist.github.com/dims/5b9b8b6a11dbf6a96f787775f40a4746) | `config.json` | 2017-12-12 | 8y 7mo ago |
 | [nginx-cinder-all.yaml](https://gist.github.com/dims/ba202b11806d2e99004ac4ddc0c79e04) | `nginx-cinder-all.yaml` | 2017-11-27 | 8y 7mo ago |
 | [kubeadm.sh](https://gist.github.com/dims/3eeef40cb513d363bd84c5a63ce2f9ff) | `kubeadm.sh` | 2017-11-25 | 8y 7mo ago |
 | [new-vm-with-floating-ip.sh](https://gist.github.com/dims/155b8ee5c6e815d0e5d4a7116289f075) | `new-vm-with-floating-ip.sh` | 2017-11-22 | 8y 7mo ago |
@@ -273,7 +273,7 @@
 | [a.go](https://gist.github.com/dims/f0c6bde28e764c049fc891e03b02cf93) | `a.go` | 2016-07-22 | 9y 11mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/6f16fb2c65d75c8be5c609c076b67b30) | `gistfile1.txt` | 2016-07-21 | 9y 11mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/16ef3687d78e826c4328d802de1d00b9) | `gistfile1.txt` | 2016-07-20 | 9y 11mo ago |
-| [gistfile1.txt](https://gist.github.com/dims/1a2a76ef1279b19a31d24926c0f9e5a7) | `gistfile1.txt` | 2016-07-15 | 9y 11mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/1a2a76ef1279b19a31d24926c0f9e5a7) | `gistfile1.txt` | 2016-07-15 | 9y 12mo ago |
 | [regit.sh](https://gist.github.com/dims/a28be63da4650b617be4a346eca271ff) | `regit.sh` | 2016-07-15 | 9y 12mo ago |
 | [extract-k8s-client.sh](https://gist.github.com/dims/a4e9e7a5db4058b09c70a305f5b73d6f) | `extract-k8s-client.sh` | 2016-07-12 | 9y 12mo ago |
 | [hello-nginx.sh](https://gist.github.com/dims/3bdd75f49647cf0089155cd331d983a9) | `hello-nginx.sh` | 2016-07-11 | 9y 12mo ago |
