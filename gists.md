@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **280 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-07-12 06:51 UTC
+> 🗂️ **280 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-07-12 12:14 UTC
 
 
 ## 📅 2026
@@ -156,7 +156,7 @@
 |--------|---------|-----------|-----------|
 | [Forward Docker unix socket](https://gist.github.com/dims/ca0ac30f7106e1af15a8) | `gistfile1.txt` | 2014-10-15 | 4y 6mo ago |
 | [TCE proposal template](https://gist.github.com/dims/b9cd0c191c785292a8efad34030faf48) | `YYYYMMDD-template.md` | 2021-12-14 | 4y 7mo ago |
-| [devstats yearly contribution to kubernetes](https://gist.github.com/dims/64288b86f443eeb583f35996750b33d3) | `gistfile1.txt` | 2021-11-15 | 4y 7mo ago |
+| [devstats yearly contribution to kubernetes](https://gist.github.com/dims/64288b86f443eeb583f35996750b33d3) | `gistfile1.txt` | 2021-11-15 | 4y 8mo ago |
 | [Run local-up-cluster.sh with containerd](https://gist.github.com/dims/1a48ce1eefb6b36bdee73e02f1aac8ed) | `restart-k8s-containerd.sh` | 2021-09-16 | 4y 9mo ago |
 | [Run Kubernets conformance tests](https://gist.github.com/dims/ac3909fdef56fdb74193497c4124245a) | `README.md` +1 | 2021-08-11 | 4y 11mo ago |
 | [gcp-with-gpu.sh](https://gist.github.com/dims/89eaee983d6955c75ce5334f6c96c390) | `gcp-with-gpu.sh` | 2021-08-03 | 4y 11mo ago |
@@ -265,7 +265,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/067cde4be936b7a9046cd786c6422e51) | `gistfile1.txt` | 2016-12-05 | 9y 7mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/c70ff295d1f6e4f4e5efee00646e4847) | `gistfile1.txt` | 2016-11-24 | 9y 7mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/47955e16bca1eac1a177d865b5a5646f) | `gistfile1.txt` | 2016-11-19 | 9y 7mo ago |
-| [Simple mod_wsgi sample](https://gist.github.com/dims/4dfbac57efabb7631da4) | `001-myweb.conf` +1 | 2015-09-18 | 9y 7mo ago |
+| [Simple mod_wsgi sample](https://gist.github.com/dims/4dfbac57efabb7631da4) | `001-myweb.conf` +1 | 2015-09-18 | 9y 8mo ago |
 | [go_test_cmd_line.sh](https://gist.github.com/dims/f56feb77c7c0212c0165588a5690b08c) | `go_test_cmd_line.sh` | 2016-11-09 | 9y 8mo ago |
 | [make_with_test.sh](https://gist.github.com/dims/8caefc8f2e5aa5c93cff28f06e642f98) | `make_with_test.sh` | 2016-11-09 | 9y 8mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/6d24d32830921d061a3a85a320705c77) | `gistfile1.txt` | 2016-08-02 | 9y 11mo ago |
