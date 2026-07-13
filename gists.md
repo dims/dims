@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **280 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-07-12 18:15 UTC
+> 🗂️ **280 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-07-13 00:21 UTC
 
 
 ## 📅 2026
@@ -157,7 +157,7 @@
 | [Forward Docker unix socket](https://gist.github.com/dims/ca0ac30f7106e1af15a8) | `gistfile1.txt` | 2014-10-15 | 4y 6mo ago |
 | [TCE proposal template](https://gist.github.com/dims/b9cd0c191c785292a8efad34030faf48) | `YYYYMMDD-template.md` | 2021-12-14 | 4y 7mo ago |
 | [devstats yearly contribution to kubernetes](https://gist.github.com/dims/64288b86f443eeb583f35996750b33d3) | `gistfile1.txt` | 2021-11-15 | 4y 8mo ago |
-| [Run local-up-cluster.sh with containerd](https://gist.github.com/dims/1a48ce1eefb6b36bdee73e02f1aac8ed) | `restart-k8s-containerd.sh` | 2021-09-16 | 4y 9mo ago |
+| [Run local-up-cluster.sh with containerd](https://gist.github.com/dims/1a48ce1eefb6b36bdee73e02f1aac8ed) | `restart-k8s-containerd.sh` | 2021-09-16 | 4y 10mo ago |
 | [Run Kubernets conformance tests](https://gist.github.com/dims/ac3909fdef56fdb74193497c4124245a) | `README.md` +1 | 2021-08-11 | 4y 11mo ago |
 | [gcp-with-gpu.sh](https://gist.github.com/dims/89eaee983d6955c75ce5334f6c96c390) | `gcp-with-gpu.sh` | 2021-08-03 | 4y 11mo ago |
 | [experiment - kubeadm with cloud controller manager](https://gist.github.com/dims/d1d9b0b4108cdf67c4fe45af1865bbf4) | `10-kubeadm.conf` +2 | 2018-01-18 | 4y 11mo ago |
@@ -239,7 +239,7 @@
 | [go2idl filter history](https://gist.github.com/dims/306a60ec02d1af863f4eceec4ac80adc) | `filter_git_history.sh` | 2016-08-29 | 8y 10mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/0d037811e906e335a69be7a70d17351e) | `gistfile1.txt` | 2017-08-31 | 8y 10mo ago |
 | [restart-k8s.sh](https://gist.github.com/dims/d963e786f7a6c9d6874b76b6d30f3190) | `restart-k8s.sh` | 2017-08-29 | 8y 10mo ago |
-| [docker-vol-test.sh](https://gist.github.com/dims/9c27674a06f794dcd2e1362bc0bc374f) | `docker-vol-test.sh` | 2017-08-18 | 8y 10mo ago |
+| [docker-vol-test.sh](https://gist.github.com/dims/9c27674a06f794dcd2e1362bc0bc374f) | `docker-vol-test.sh` | 2017-08-18 | 8y 11mo ago |
 | [service.py](https://gist.github.com/dims/fb1cfe6b8fd8e9fed87b6cf35aec189b) | `service.py` | 2017-08-08 | 8y 11mo ago |
 | [quick_start_vault.txt](https://gist.github.com/dims/47674cf2c3b0a953df69246c2ea1ff78) | `quick_start_vault.txt` | 2017-08-02 | 8y 11mo ago |
 | [README.txt](https://gist.github.com/dims/ea6d11d56f42ba88999bfa85bd3ee257) | `README.txt` +2 | 2017-07-25 | 8y 11mo ago |
@@ -247,7 +247,7 @@
 | [Kubernetes FlexVolume Driver POC for OpenStack Cinder](https://gist.github.com/dims/ad5afbd657014b0bba17b40228cba32e) | `cinder.sh` +2 | 2017-05-09 | 9y 2mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/0158535b3f7135bcf1b88dc731bef737) | `gistfile1.txt` | 2017-03-24 | 9y 3mo ago |
 | [etcd3.py](https://gist.github.com/dims/19ceaf9472ef54aa3011d7a11e809371) | `etcd3.py` | 2017-03-18 | 9y 3mo ago |
-| [osx-route.sh](https://gist.github.com/dims/ea3c8e5764979005b79dda6e513fefa6) | `osx-route.sh` | 2017-03-16 | 9y 3mo ago |
+| [osx-route.sh](https://gist.github.com/dims/ea3c8e5764979005b79dda6e513fefa6) | `osx-route.sh` | 2017-03-16 | 9y 4mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/158b69323b90c4d8d565cb935a5b2e95) | `gistfile1.txt` | 2017-03-12 | 9y 4mo ago |
 | [Screen Commands for Docker for Mac (prevent garbled text on reconnect)](https://gist.github.com/dims/81b887378b8590e97ecd89be6c9ce8f1) | `screen-docker-for-mac.sh` | 2017-03-07 | 9y 4mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/6df88e8ef163079e335963c1f23eac0e) | `gistfile1.txt` | 2017-02-28 | 9y 4mo ago |
