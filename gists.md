@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **280 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-07-14 18:19 UTC
+> 🗂️ **280 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-07-15 00:16 UTC
 
 
 ## 📅 2026
@@ -39,7 +39,7 @@
 | [CNCF TOC Members Timeline](https://gist.github.com/dims/f98a5ab28f2be0c7a0b2c6a3698bc6fb) | `toc-members-timeline.svg` | 2026-04-09 | 3mo ago |
 | [Running Kubernetes GPU e2e Tests on Lambda Cloud](https://gist.github.com/dims/b033e62eab37b0a13807d1ef05304bee) | `k8s-e2e-node-lambda-cloud.md` | 2026-04-02 | 3mo ago |
 | [run-node-e2e-tests-with-containerd.sh](https://gist.github.com/dims/29b734404b94715373759f25c18e555e) | `run-node-e2e-tests-with-containerd.sh` | 2025-04-28 | 3mo ago |
-| [CNCF K8s AI Conformance Analysis - 2026-03-16 (SHA: 223d15f)](https://gist.github.com/dims/db188beb19c8b3c2904017e4f269105c) | `2026-03-16-k8s-ai-conformance-analysis.md` +1 | 2026-03-16 | 3mo ago |
+| [CNCF K8s AI Conformance Analysis - 2026-03-16 (SHA: 223d15f)](https://gist.github.com/dims/db188beb19c8b3c2904017e4f269105c) | `2026-03-16-k8s-ai-conformance-analysis.md` +1 | 2026-03-16 | 4mo ago |
 | [Brev CLI: GPU Provisioning — Developer Experience Report](https://gist.github.com/dims/b3b0b73c0b5951b44c749e55cbf61769) | `brev-cli-dx-report.md` | 2026-02-26 | 4mo ago |
 | [Running Qwen3-Coder-Next-FP8 with Claude Code on Brev H100](https://gist.github.com/dims/4aa2fb68ae83bbb81fd21159c51d04c5) | `qwen-claude-setup.md` | 2026-02-26 | 4mo ago |
 | [Containerd Dependency Analysis (v2.2.1) -- depstat](https://gist.github.com/dims/be341508bb077b30cfb38b6e45a7eac9) | `containerd-dep-analysis.md` +8 | 2026-02-08 | 5mo ago |
