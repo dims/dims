@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **280 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-07-16 06:44 UTC
+> 🗂️ **280 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-07-16 12:27 UTC
 
 
 ## 📅 2026
@@ -73,7 +73,7 @@
 | [node-problem-detector plugin architecture guide](https://gist.github.com/dims/6f482d9fe34669c0df8f8f5564474981) | `PLUGIN_ARCHITECTURE_GUIDE.md` | 2025-10-30 | 8mo ago |
 | [get-helm-3](https://gist.github.com/dims/d1f1484e1dbdf13f0d1511917ef9b177) | `get-helm-3` | 2025-10-29 | 8mo ago |
 | [validate the nginx configuration in k8s.io/apps/k8s-io](https://gist.github.com/dims/80e556414989f30b9a500957460a7855) | `out.log` +1 | 2025-09-21 | 9mo ago |
-| [[DEPRECATED] Python script to compute updates to the Kubernetes go.mod to see how far we are behind latest in vendored repos (please look in artifacts generated in this job - https://testgrid.k8s.io/sig-arch-code-organization#unit-master-dependencies&width=20)](https://gist.github.com/dims/c0857b86441442b15852a4c2355db130) | `differences.md` +2 | 2019-05-20 | 9mo ago |
+| [[DEPRECATED] Python script to compute updates to the Kubernetes go.mod to see how far we are behind latest in vendored repos (please look in artifacts generated in this job - https://testgrid.k8s.io/sig-arch-code-organization#unit-master-dependencies&width=20)](https://gist.github.com/dims/c0857b86441442b15852a4c2355db130) | `differences.md` +2 | 2019-05-20 | 10mo ago |
 | [Extract Endpoint information from audit logs](https://gist.github.com/dims/1fc254d0e4d043ef18bbc84596785de2) | `README.md` +1 | 2025-08-19 | 10mo ago |
 | [lima configuration for a local environment to test things on macos](https://gist.github.com/dims/20a824aff15a9ceaa8b7190124ff3d3b) | `README.md` +2 | 2025-07-03 | 1y ago |
 | [imports analysis](https://gist.github.com/dims/f9adba9ec5f92b72c269c6a4ddcd93d8) | `import_analyzer.go` +1 | 2025-06-19 | 1y ago |
@@ -120,7 +120,7 @@
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
 | [build al2023](https://gist.github.com/dims/59330c38174c3c4320ae2f041a5fb444) | `build-and-run-al2023.sh` | 2023-11-23 | 2y 7mo ago |
-| [Running the AWS sig-node tests and conformance tests in provider-aws-test-infra repo](https://gist.github.com/dims/eace914fc47209a9f9f8a2cafed586c9) | `gistfile1.txt` | 2023-11-17 | 2y 7mo ago |
+| [Running the AWS sig-node tests and conformance tests in provider-aws-test-infra repo](https://gist.github.com/dims/eace914fc47209a9f9f8a2cafed586c9) | `gistfile1.txt` | 2023-11-17 | 2y 8mo ago |
 | [gh-search-prs.txt](https://gist.github.com/dims/5d2351fe78922f8c84ee410b33ea0b17) | `gh-search-prs.txt` | 2023-10-25 | 2y 8mo ago |
 | [OpenSSF - https://securityscorecards.dev/](https://gist.github.com/dims/63c8290191ebdb7240cfa7f240ffdce4) | `scorecard.txt` | 2023-10-25 | 2y 8mo ago |
 | [Example of a CI job moving from using bootstrap to pod utils](https://gist.github.com/dims/c1296f8ed42238baea0a5fcae45f4cf4) | `after.yaml` +2 | 2019-11-06 | 2y 9mo ago |
@@ -186,7 +186,7 @@
 |--------|---------|-----------|-----------|
 | [cluster-api-provider-gcp cheat sheet](https://gist.github.com/dims/4c989521f2f0941df42d9f69da93e94a) | `gcp.sh` | 2019-09-17 | 6y 7mo ago |
 | [restart-aws.sh](https://gist.github.com/dims/1fc2c84c5d1d53237270c56952477b01) | `restart-aws.sh` | 2019-11-01 | 6y 8mo ago |
-| [Mesos-Marathon-Quick-Start.md](https://gist.github.com/dims/7ad86fb2ec12c91a4672) | `Mesos-Marathon-Quick-Start.md` | 2016-03-25 | 7y ago |
+| [Mesos-Marathon-Quick-Start.md](https://gist.github.com/dims/7ad86fb2ec12c91a4672) | `Mesos-Marathon-Quick-Start.md` | 2016-03-25 | 7y 1mo ago |
 | [get-goimport.sh](https://gist.github.com/dims/cd418158f4f0e47ab2be527a6d2fbad0) | `get-goimport.sh` +1 | 2019-05-20 | 7y 1mo ago |
 | [keybase.md](https://gist.github.com/dims/a9db787f80d14525cf402cdf6ce44a51) | `keybase.md` | 2019-05-06 | 7y 2mo ago |
 | [release-cloud-provider-openstack.md](https://gist.github.com/dims/cefbdcfbacf867c315c119d7a2491c05) | `release-cloud-provider-openstack.md` | 2018-05-17 | 7y 2mo ago |
@@ -246,7 +246,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/73ffb42fc1f24065473ab87829761bb8) | `gistfile1.txt` +1 | 2017-07-11 | 9y ago |
 | [Kubernetes FlexVolume Driver POC for OpenStack Cinder](https://gist.github.com/dims/ad5afbd657014b0bba17b40228cba32e) | `cinder.sh` +2 | 2017-05-09 | 9y 2mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/0158535b3f7135bcf1b88dc731bef737) | `gistfile1.txt` | 2017-03-24 | 9y 3mo ago |
-| [etcd3.py](https://gist.github.com/dims/19ceaf9472ef54aa3011d7a11e809371) | `etcd3.py` | 2017-03-18 | 9y 3mo ago |
+| [etcd3.py](https://gist.github.com/dims/19ceaf9472ef54aa3011d7a11e809371) | `etcd3.py` | 2017-03-18 | 9y 4mo ago |
 | [osx-route.sh](https://gist.github.com/dims/ea3c8e5764979005b79dda6e513fefa6) | `osx-route.sh` | 2017-03-16 | 9y 4mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/158b69323b90c4d8d565cb935a5b2e95) | `gistfile1.txt` | 2017-03-12 | 9y 4mo ago |
 | [Screen Commands for Docker for Mac (prevent garbled text on reconnect)](https://gist.github.com/dims/81b887378b8590e97ecd89be6c9ce8f1) | `screen-docker-for-mac.sh` | 2017-03-07 | 9y 4mo ago |
