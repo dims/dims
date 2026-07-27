@@ -1,15 +1,15 @@
 # 📝 Gists
 
-> 🗂️ **281 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-07-26 18:17 UTC
+> 🗂️ **281 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-07-27 00:23 UTC
 
 
 ## 📅 2026
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [Enroot, libnvidia-container, and a path to CDI — architecture notes and migration design](https://gist.github.com/dims/9e40f18a6959cb897528c7d966986f4b) | `2026-07-24-enroot-libnvidia-container-cdi.md` | 2026-07-24 | yesterday |
+| [Enroot, libnvidia-container, and a path to CDI — architecture notes and migration design](https://gist.github.com/dims/9e40f18a6959cb897528c7d966986f4b) | `2026-07-24-enroot-libnvidia-container-cdi.md` | 2026-07-24 | 2d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 5d ago |
-| [Kubernetes Dependency Reduction Assessment (Jul 20, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 5d ago |
+| [Kubernetes Dependency Reduction Assessment (Jul 20, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 6d ago |
 | [Kubernetes Dependency Analysis (v1.37.0-alpha / master vs v1.36.2) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 6d ago |
 | [Kubernetes unwanted vendor dependencies status — July 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-07.md` +1 | 2026-04-26 | 6d ago |
 | [Kubernetes dependency security analysis (latest: 2026-07-20) + regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 6d ago |
@@ -72,7 +72,7 @@
 | [claude-review.md](https://gist.github.com/dims/2ff5ed4f2c0e7301b186956dc0f4a4a1) | `claude-review.md` | 2025-11-15 | 8mo ago |
 | [cursor-review.md](https://gist.github.com/dims/dd39826639755a805769294889121b2d) | `cursor-review.md` | 2025-11-15 | 8mo ago |
 | [node-problem-detector plugin architecture guide](https://gist.github.com/dims/6f482d9fe34669c0df8f8f5564474981) | `PLUGIN_ARCHITECTURE_GUIDE.md` | 2025-10-30 | 8mo ago |
-| [get-helm-3](https://gist.github.com/dims/d1f1484e1dbdf13f0d1511917ef9b177) | `get-helm-3` | 2025-10-29 | 8mo ago |
+| [get-helm-3](https://gist.github.com/dims/d1f1484e1dbdf13f0d1511917ef9b177) | `get-helm-3` | 2025-10-29 | 9mo ago |
 | [validate the nginx configuration in k8s.io/apps/k8s-io](https://gist.github.com/dims/80e556414989f30b9a500957460a7855) | `out.log` +1 | 2025-09-21 | 10mo ago |
 | [[DEPRECATED] Python script to compute updates to the Kubernetes go.mod to see how far we are behind latest in vendored repos (please look in artifacts generated in this job - https://testgrid.k8s.io/sig-arch-code-organization#unit-master-dependencies&width=20)](https://gist.github.com/dims/c0857b86441442b15852a4c2355db130) | `differences.md` +2 | 2019-05-20 | 10mo ago |
 | [Extract Endpoint information from audit logs](https://gist.github.com/dims/1fc254d0e4d043ef18bbc84596785de2) | `README.md` +1 | 2025-08-19 | 11mo ago |
@@ -269,7 +269,7 @@
 | [Simple mod_wsgi sample](https://gist.github.com/dims/4dfbac57efabb7631da4) | `001-myweb.conf` +1 | 2015-09-18 | 9y 8mo ago |
 | [go_test_cmd_line.sh](https://gist.github.com/dims/f56feb77c7c0212c0165588a5690b08c) | `go_test_cmd_line.sh` | 2016-11-09 | 9y 8mo ago |
 | [make_with_test.sh](https://gist.github.com/dims/8caefc8f2e5aa5c93cff28f06e642f98) | `make_with_test.sh` | 2016-11-09 | 9y 8mo ago |
-| [gistfile1.txt](https://gist.github.com/dims/6d24d32830921d061a3a85a320705c77) | `gistfile1.txt` | 2016-08-02 | 9y 11mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/6d24d32830921d061a3a85a320705c77) | `gistfile1.txt` | 2016-08-02 | 9y 12mo ago |
 | [print_signals.py](https://gist.github.com/dims/c2b4d6fe80fb29984b480ba14d71fda8) | `print_signals.py` +1 | 2016-07-29 | 9y 12mo ago |
 | [a.go](https://gist.github.com/dims/f0c6bde28e764c049fc891e03b02cf93) | `a.go` | 2016-07-22 | 10y ago |
 | [gistfile1.txt](https://gist.github.com/dims/6f16fb2c65d75c8be5c609c076b67b30) | `gistfile1.txt` | 2016-07-21 | 10y ago |
