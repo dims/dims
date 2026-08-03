@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **282 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-08-03 07:00 UTC
+> 🗂️ **282 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-08-03 12:58 UTC
 
 
 ## 📅 2026
@@ -52,7 +52,7 @@
 | [Prompt: Dependency Update Review (Go/Kubernetes-style)](https://gist.github.com/dims/2e6e0df576710a7cc7985ea6752a973e) | `prompt-dependency-update-review.md` | 2026-02-10 | 5mo ago |
 | [Review: Update go-openapi dependencies (jsonpointer, jsonreference, swag) - k8s PR #136819](https://gist.github.com/dims/31e0b95374981a8adf0d62b4c328d048) | `k8s-go-openapi-dep-update-review.md` | 2026-02-10 | 5mo ago |
 | [verify-unwanted-deps-classification.sh](https://gist.github.com/dims/41e381da9d88158bc0975a6913903ec5) | `verify-unwanted-deps-classification.sh` | 2026-02-05 | 5mo ago |
-| [CNCF_New_Contributors_FAQ.md](https://gist.github.com/dims/d59332d36089040be17834dc2febb67f) | `CNCF_New_Contributors_FAQ.md` | 2025-12-06 | 5mo ago |
+| [CNCF_New_Contributors_FAQ.md](https://gist.github.com/dims/d59332d36089040be17834dc2febb67f) | `CNCF_New_Contributors_FAQ.md` | 2025-12-06 | 6mo ago |
 | [Kubernetes AI Conformance Implementation Analysis](https://gist.github.com/dims/ff683f5db74dd843040c377f2d263606) | `k8s-ai-conformance-analysis.md` | 2026-01-29 | 6mo ago |
 | [CI Jobs Fixed, Created, or Deleted - January 2026](https://gist.github.com/dims/2274c8cb64ab8de1321d280053ea0aca) | `dims-ci-jobs-fixed-jan-2026.md` | 2026-01-29 | 6mo ago |
 | [kops-failure-patterns-analysis.md](https://gist.github.com/dims/361585c46ef0211f375ffa6738f85eb8) | `kops-failure-patterns-analysis.md` | 2026-01-23 | 6mo ago |
@@ -196,7 +196,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/710677270d9cfba747322e1bcc02e43d) | `gistfile1.txt` | 2019-04-04 | 7y 4mo ago |
 | [deps.py](https://gist.github.com/dims/dcd1880aef24db6e85d733f3708af890) | `deps.py` +1 | 2018-10-13 | 7y 5mo ago |
 | [sanitize-import-boss.py](https://gist.github.com/dims/384dea60754042f61d79233603034038) | `sanitize-import-boss.py` | 2019-02-11 | 7y 5mo ago |
-| [[TEMP] Deploy k8s-keystone-auth](https://gist.github.com/dims/072d4a515db614d428d0a544f39d0150) | `k8s-keystone-auth.md` | 2019-02-06 | 7y 5mo ago |
+| [[TEMP] Deploy k8s-keystone-auth](https://gist.github.com/dims/072d4a515db614d428d0a544f39d0150) | `k8s-keystone-auth.md` | 2019-02-06 | 7y 6mo ago |
 | [prune_git_history.sh](https://gist.github.com/dims/bed84653c771446f372c67e836488aa1) | `prune_git_history.sh` | 2019-01-24 | 7y 6mo ago |
 | [filter_git_history.sh](https://gist.github.com/dims/e00c8fa8d6847064db62cbf2780706c5) | `filter_git_history.sh` | 2019-01-24 | 7y 6mo ago |
 | [http_handler_timeout.go](https://gist.github.com/dims/9f01e3d07057c09faf16b6bd6aa5362a) | `http_handler_timeout.go` | 2019-01-10 | 7y 6mo ago |
@@ -291,7 +291,7 @@
 | [Scan the Nova "In Progress" Launchpad bugs for abandoned reviews](https://gist.github.com/dims/2ba347b79da3ccdc882a) | `gistfile1.txt` | 2015-02-12 | 10y 3mo ago |
 | [Bugs marked "In Progress" but no reviews](https://gist.github.com/dims/3de20e400b11af56fff7) | `parked_bugs.py` | 2016-03-04 | 10y 3mo ago |
 | [Kolla - /etc/kolla/globals.yml](https://gist.github.com/dims/04a046e7286f73a87274f2a7af37f752) | `globals.yml` | 2016-03-31 | 10y 4mo ago |
-| [gistfile1.txt](https://gist.github.com/dims/495a7f092fce52693d28) | `gistfile1.txt` | 2016-03-08 | 10y 4mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/495a7f092fce52693d28) | `gistfile1.txt` | 2016-03-08 | 10y 5mo ago |
 ## 📅 2015
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
