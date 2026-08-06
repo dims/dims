@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-08-06 00:19 UTC
+> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-08-06 06:49 UTC
 
 
 ## 📅 2026
@@ -137,7 +137,7 @@
 | [Identify big files locally](https://gist.github.com/dims/0db7bbaabcc2df0d803dcb74dc4ad440) | `Identify big files locally` | 2023-04-29 | 3y 3mo ago |
 | [update-cla-for-k8s.sh](https://gist.github.com/dims/b4337c51e65e6e3e9f27c5aa610ae938) | `update-cla-for-k8s.sh` | 2021-02-19 | 3y 4mo ago |
 | [big query sql](https://gist.github.com/dims/f1fd6d6801e533f520d4d06659d601d4) | `bigquery.sql` | 2023-02-28 | 3y 5mo ago |
-| [local-docker-registry.sh](https://gist.github.com/dims/4d6b7894b1f29f43a25e72f0931c8d6b) | `local-docker-registry.sh` | 2018-09-12 | 3y 5mo ago |
+| [local-docker-registry.sh](https://gist.github.com/dims/4d6b7894b1f29f43a25e72f0931c8d6b) | `local-docker-registry.sh` | 2018-09-12 | 3y 6mo ago |
 ## 📅 2022
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
@@ -200,7 +200,7 @@
 | [[TEMP] Deploy k8s-keystone-auth](https://gist.github.com/dims/072d4a515db614d428d0a544f39d0150) | `k8s-keystone-auth.md` | 2019-02-06 | 7y 6mo ago |
 | [prune_git_history.sh](https://gist.github.com/dims/bed84653c771446f372c67e836488aa1) | `prune_git_history.sh` | 2019-01-24 | 7y 6mo ago |
 | [filter_git_history.sh](https://gist.github.com/dims/e00c8fa8d6847064db62cbf2780706c5) | `filter_git_history.sh` | 2019-01-24 | 7y 6mo ago |
-| [http_handler_timeout.go](https://gist.github.com/dims/9f01e3d07057c09faf16b6bd6aa5362a) | `http_handler_timeout.go` | 2019-01-10 | 7y 6mo ago |
+| [http_handler_timeout.go](https://gist.github.com/dims/9f01e3d07057c09faf16b6bd6aa5362a) | `http_handler_timeout.go` | 2019-01-10 | 7y 7mo ago |
 ## 📅 2018
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
