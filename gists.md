@@ -1,20 +1,20 @@
 # 📝 Gists
 
-> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-08-12 12:13 UTC
+> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-08-12 18:15 UTC
 
 
 ## 📅 2026
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 8d ago |
+| [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 9d ago |
 | [copyconstruct-debugging: Claude Code skill for debugging tricky bugs (diagnosis before remedy, fail-first verification)](https://gist.github.com/dims/57ba15220f27e0ac16d0e2547f3ff3a6) | `README.md` +1 | 2026-07-30 | 12d ago |
 | [Enroot, libnvidia-container, and a path to CDI — architecture notes and migration design](https://gist.github.com/dims/9e40f18a6959cb897528c7d966986f4b) | `2026-07-24-enroot-libnvidia-container-cdi.md` | 2026-07-24 | 18d ago |
-| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 21d ago |
+| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 22d ago |
 | [Kubernetes Dependency Reduction Assessment (Jul 20, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 22d ago |
-| [Kubernetes Dependency Analysis (v1.37.0-alpha / master vs v1.36.2) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 22d ago |
-| [Kubernetes unwanted vendor dependencies status — July 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-07.md` +1 | 2026-04-26 | 22d ago |
-| [Kubernetes dependency security analysis (latest: 2026-07-20) + regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 22d ago |
+| [Kubernetes Dependency Analysis (v1.37.0-alpha / master vs v1.36.2) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 23d ago |
+| [Kubernetes unwanted vendor dependencies status — July 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-07.md` +1 | 2026-04-26 | 23d ago |
+| [Kubernetes dependency security analysis (latest: 2026-07-20) + regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 23d ago |
 | [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 1mo ago |
 | [Agent Substrate — Dataplane Pluggability (design doc, proposed)](https://gist.github.com/dims/458eb6602d239e0909f6db272878c2b4) | `dataplane-pluggability.md` | 2026-06-28 | 1mo ago |
 | [Agent Substrate micro-VM (PR #287) runbook on a kind cluster: counter-microvm + OpenShell helpdesk-microvm demos, validated end-to-end (suspend/resume of cloud-hypervisor VM snapshots).](https://gist.github.com/dims/f0dcaa55d33caac8d538d54ccd5ba02a) | `2026-06-25-microvm-pr287-runbook.md` | 2026-06-25 | 1mo ago |
@@ -84,13 +84,13 @@
 | [SOCI w/ k8s](https://gist.github.com/dims/829e3890282602202e116694ff626de8) | `README.md` +8 | 2024-01-13 | 1y 3mo ago |
 | [Script to skip certain jobs in a PR](https://gist.github.com/dims/01303202e5a71e37e8dfad40eb48e63b) | `skip-job.sh` | 2025-02-06 | 1y 6mo ago |
 | [Deploy deepseek-ai distill models](https://gist.github.com/dims/0ec2a44aeebf744d2175ca2c1428d701) | `README.md` +2 | 2025-02-01 | 1y 6mo ago |
-| [Using pprof to find memory leaks for golang binaries](https://gist.github.com/dims/458b49e11f6790c30a8255f48efb952c) | `README.md` +1 | 2025-01-14 | 1y 6mo ago |
+| [Using pprof to find memory leaks for golang binaries](https://gist.github.com/dims/458b49e11f6790c30a8255f48efb952c) | `README.md` +1 | 2025-01-14 | 1y 7mo ago |
 | [EKS add-on version to Kubernetes version matrix](https://gist.github.com/dims/612e512976a3bcde7185a115a5f73bbf) | `eks-add-on-to-k8s-version.sh` +1 | 2025-01-08 | 1y 7mo ago |
 ## 📅 2024
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [BlueSky \| Unfollow All](https://gist.github.com/dims/be58d270dc5923a67ad5699d6598f2da) | `unfollow.js` | 2024-11-15 | 1y 8mo ago |
+| [BlueSky \| Unfollow All](https://gist.github.com/dims/be58d270dc5923a67ad5699d6598f2da) | `unfollow.js` | 2024-11-15 | 1y 9mo ago |
 | [bluesky-notes.md](https://gist.github.com/dims/ca85222a3d25eb1b3a4df8b7fafa51b5) | `bluesky-notes.md` | 2024-11-13 | 1y 9mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/f71271782f8840cf5c9973d7213a505c) | `gistfile1.txt` | 2024-11-07 | 1y 9mo ago |
 | [get-tag](https://gist.github.com/dims/8abfcc815cddc9148b6d21a982e14267) | `get-tag` +2 | 2024-10-31 | 1y 9mo ago |
@@ -237,7 +237,7 @@
 | [cloud.conf](https://gist.github.com/dims/5a349c93ae075c5947aa64bfbbd4bc91) | `cloud.conf` +3 | 2017-06-15 | 8y 8mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/be96eb8024882098403708eb1f567184) | `gistfile1.txt` | 2017-11-16 | 8y 9mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/68829f0021a0acde846f29708da67d6b) | `gistfile1.txt` | 2017-11-02 | 8y 9mo ago |
-| [gistfile1.txt](https://gist.github.com/dims/8dd5ef221d6a8b72f1e21a77548288ef) | `gistfile1.txt` | 2017-10-18 | 8y 9mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/8dd5ef221d6a8b72f1e21a77548288ef) | `gistfile1.txt` | 2017-10-18 | 8y 10mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/a275bce4f1f7e3a0bdb91a2dfb0a6ff3) | `gistfile1.txt` | 2017-09-22 | 8y 10mo ago |
 | [go2idl filter history](https://gist.github.com/dims/306a60ec02d1af863f4eceec4ac80adc) | `filter_git_history.sh` | 2016-08-29 | 8y 11mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/0d037811e906e335a69be7a70d17351e) | `gistfile1.txt` | 2017-08-31 | 8y 11mo ago |
@@ -277,7 +277,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/6f16fb2c65d75c8be5c609c076b67b30) | `gistfile1.txt` | 2016-07-21 | 10y ago |
 | [gistfile1.txt](https://gist.github.com/dims/16ef3687d78e826c4328d802de1d00b9) | `gistfile1.txt` | 2016-07-20 | 10y ago |
 | [gistfile1.txt](https://gist.github.com/dims/1a2a76ef1279b19a31d24926c0f9e5a7) | `gistfile1.txt` | 2016-07-15 | 10y ago |
-| [regit.sh](https://gist.github.com/dims/a28be63da4650b617be4a346eca271ff) | `regit.sh` | 2016-07-15 | 10y ago |
+| [regit.sh](https://gist.github.com/dims/a28be63da4650b617be4a346eca271ff) | `regit.sh` | 2016-07-15 | 10y 1mo ago |
 | [extract-k8s-client.sh](https://gist.github.com/dims/a4e9e7a5db4058b09c70a305f5b73d6f) | `extract-k8s-client.sh` | 2016-07-12 | 10y 1mo ago |
 | [hello-nginx.sh](https://gist.github.com/dims/3bdd75f49647cf0089155cd331d983a9) | `hello-nginx.sh` | 2016-07-11 | 10y 1mo ago |
 | [test_bot_proposed_constraints.py](https://gist.github.com/dims/094ac0e8d8bd8c4a096b6b391157aef5) | `test_bot_proposed_constraints.py` | 2016-04-09 | 10y 1mo ago |
@@ -298,7 +298,7 @@
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
 | [test.py](https://gist.github.com/dims/226218dd289857f6c933) | `test.py` | 2015-12-22 | 10y 7mo ago |
-| [diff2list](https://gist.github.com/dims/bd4144ab1d0f92f6fa50) | `diff2list` | 2015-10-19 | 10y 9mo ago |
+| [diff2list](https://gist.github.com/dims/bd4144ab1d0f92f6fa50) | `diff2list` | 2015-10-19 | 10y 10mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/1238498) | `gistfile1.txt` | 2011-09-23 | 10y 10mo ago |
 | [x](https://gist.github.com/dims/10869) | `x` | 2008-09-15 | 10y 11mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/10865) | `gistfile1.txt` | 2008-09-15 | 10y 11mo ago |
