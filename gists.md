@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-08-11 18:15 UTC
+> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-08-12 00:12 UTC
 
 
 ## 📅 2026
@@ -8,10 +8,10 @@
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
 | [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 8d ago |
-| [copyconstruct-debugging: Claude Code skill for debugging tricky bugs (diagnosis before remedy, fail-first verification)](https://gist.github.com/dims/57ba15220f27e0ac16d0e2547f3ff3a6) | `README.md` +1 | 2026-07-30 | 11d ago |
-| [Enroot, libnvidia-container, and a path to CDI — architecture notes and migration design](https://gist.github.com/dims/9e40f18a6959cb897528c7d966986f4b) | `2026-07-24-enroot-libnvidia-container-cdi.md` | 2026-07-24 | 17d ago |
+| [copyconstruct-debugging: Claude Code skill for debugging tricky bugs (diagnosis before remedy, fail-first verification)](https://gist.github.com/dims/57ba15220f27e0ac16d0e2547f3ff3a6) | `README.md` +1 | 2026-07-30 | 12d ago |
+| [Enroot, libnvidia-container, and a path to CDI — architecture notes and migration design](https://gist.github.com/dims/9e40f18a6959cb897528c7d966986f4b) | `2026-07-24-enroot-libnvidia-container-cdi.md` | 2026-07-24 | 18d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 21d ago |
-| [Kubernetes Dependency Reduction Assessment (Jul 20, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 21d ago |
+| [Kubernetes Dependency Reduction Assessment (Jul 20, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 22d ago |
 | [Kubernetes Dependency Analysis (v1.37.0-alpha / master vs v1.36.2) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 22d ago |
 | [Kubernetes unwanted vendor dependencies status — July 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-07.md` +1 | 2026-04-26 | 22d ago |
 | [Kubernetes dependency security analysis (latest: 2026-07-20) + regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 22d ago |
@@ -102,7 +102,7 @@
 | [v1.31 API generation](https://gist.github.com/dims/8d26414de71d46d44c8d7f1498eedd69) | `fields.yaml` +2 | 2024-08-17 | 1y 11mo ago |
 | [clean-pods-and-containers.sh](https://gist.github.com/dims/6ff28fb745487453f441f96ced4232d6) | `clean-pods-and-containers.sh` +3 | 2024-08-13 | 1y 12mo ago |
 | [Shows the name of the command running on each port on MacOS](https://gist.github.com/dims/d8069b1c27409f9130f815bc6075ee2d) | `gistfile1.txt` | 2024-08-13 | 1y 12mo ago |
-| [README.md](https://gist.github.com/dims/af1ce191b3d6e420128629061a10e518) | `README.md` +1 | 2024-08-11 | 1y 12mo ago |
+| [README.md](https://gist.github.com/dims/af1ce191b3d6e420128629061a10e518) | `README.md` +1 | 2024-08-11 | 2y ago |
 | [tune-kindnet.yaml](https://gist.github.com/dims/62a2eb5c1cf6e3473d2d7f54d3e33415) | `tune-kindnet.yaml` | 2024-07-22 | 2y ago |
 | [kubetest2-quick.sh](https://gist.github.com/dims/cbbcb80cf2ff21a1c6bea44380cd10f0) | `kubetest2-quick.sh` | 2024-07-18 | 2y ago |
 | [build-and-run-stress-tests.sh](https://gist.github.com/dims/89ef5a75dabd3d36c58cc9d4a1b9e188) | `build-and-run-stress-tests.sh` | 2024-07-05 | 2y 1mo ago |
@@ -160,7 +160,7 @@
 | [Forward Docker unix socket](https://gist.github.com/dims/ca0ac30f7106e1af15a8) | `gistfile1.txt` | 2014-10-15 | 4y 7mo ago |
 | [TCE proposal template](https://gist.github.com/dims/b9cd0c191c785292a8efad34030faf48) | `YYYYMMDD-template.md` | 2021-12-14 | 4y 8mo ago |
 | [devstats yearly contribution to kubernetes](https://gist.github.com/dims/64288b86f443eeb583f35996750b33d3) | `gistfile1.txt` | 2021-11-15 | 4y 9mo ago |
-| [Run local-up-cluster.sh with containerd](https://gist.github.com/dims/1a48ce1eefb6b36bdee73e02f1aac8ed) | `restart-k8s-containerd.sh` | 2021-09-16 | 4y 10mo ago |
+| [Run local-up-cluster.sh with containerd](https://gist.github.com/dims/1a48ce1eefb6b36bdee73e02f1aac8ed) | `restart-k8s-containerd.sh` | 2021-09-16 | 4y 11mo ago |
 | [Run Kubernets conformance tests](https://gist.github.com/dims/ac3909fdef56fdb74193497c4124245a) | `README.md` +1 | 2021-08-11 | 5y ago |
 | [gcp-with-gpu.sh](https://gist.github.com/dims/89eaee983d6955c75ce5334f6c96c390) | `gcp-with-gpu.sh` | 2021-08-03 | 5y ago |
 | [experiment - kubeadm with cloud controller manager](https://gist.github.com/dims/d1d9b0b4108cdf67c4fe45af1865bbf4) | `10-kubeadm.conf` +2 | 2018-01-18 | 5y ago |
@@ -212,7 +212,7 @@
 | [Disable Parental Controls and other services in macOS Sierra (OS X)](https://gist.github.com/dims/36247f8b60d5c4c9e22cc8974174b8a8) | `disable_macOS_parental_controls.sh` | 2017-12-22 | 7y 10mo ago |
 | [nginx-cinder-with-secret-all.yaml](https://gist.github.com/dims/fab4505551fadd9ec06675c5dcd44b28) | `nginx-cinder-with-secret-all.yaml` | 2018-04-18 | 7y 11mo ago |
 | [e2e_manifests.go](https://gist.github.com/dims/067c6723588a585a7a00b22e41b86f34) | `e2e_manifests.go` +1 | 2018-08-05 | 7y 11mo ago |
-| [release-etd3gw.sh](https://gist.github.com/dims/7d6d6717346d96755d08734df0bcf2a5) | `release-etd3gw.sh` | 2017-09-25 | 7y 12mo ago |
+| [release-etd3gw.sh](https://gist.github.com/dims/7d6d6717346d96755d08734df0bcf2a5) | `release-etd3gw.sh` | 2017-09-25 | 8y ago |
 | [minikube-with-kvm2.sh](https://gist.github.com/dims/d0c586b6955d11f9420be0e53e78845f) | `minikube-with-kvm2.sh` | 2018-06-22 | 8y 1mo ago |
 | [repost.md](https://gist.github.com/dims/7b36925f8a86d8151c14ea9863c2d7f9) | `repost.md` | 2018-06-04 | 8y 2mo ago |
 | [busybox-with-secret.yaml](https://gist.github.com/dims/d3be058f90fecec8a48c8f8e295cef71) | `busybox-with-secret.yaml` | 2018-04-18 | 8y 3mo ago |
@@ -242,7 +242,7 @@
 | [go2idl filter history](https://gist.github.com/dims/306a60ec02d1af863f4eceec4ac80adc) | `filter_git_history.sh` | 2016-08-29 | 8y 11mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/0d037811e906e335a69be7a70d17351e) | `gistfile1.txt` | 2017-08-31 | 8y 11mo ago |
 | [restart-k8s.sh](https://gist.github.com/dims/d963e786f7a6c9d6874b76b6d30f3190) | `restart-k8s.sh` | 2017-08-29 | 8y 11mo ago |
-| [docker-vol-test.sh](https://gist.github.com/dims/9c27674a06f794dcd2e1362bc0bc374f) | `docker-vol-test.sh` | 2017-08-18 | 8y 11mo ago |
+| [docker-vol-test.sh](https://gist.github.com/dims/9c27674a06f794dcd2e1362bc0bc374f) | `docker-vol-test.sh` | 2017-08-18 | 8y 12mo ago |
 | [service.py](https://gist.github.com/dims/fb1cfe6b8fd8e9fed87b6cf35aec189b) | `service.py` | 2017-08-08 | 9y ago |
 | [quick_start_vault.txt](https://gist.github.com/dims/47674cf2c3b0a953df69246c2ea1ff78) | `quick_start_vault.txt` | 2017-08-02 | 9y ago |
 | [README.txt](https://gist.github.com/dims/ea6d11d56f42ba88999bfa85bd3ee257) | `README.txt` +2 | 2017-07-25 | 9y ago |
@@ -250,7 +250,7 @@
 | [Kubernetes FlexVolume Driver POC for OpenStack Cinder](https://gist.github.com/dims/ad5afbd657014b0bba17b40228cba32e) | `cinder.sh` +2 | 2017-05-09 | 9y 3mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/0158535b3f7135bcf1b88dc731bef737) | `gistfile1.txt` | 2017-03-24 | 9y 4mo ago |
 | [etcd3.py](https://gist.github.com/dims/19ceaf9472ef54aa3011d7a11e809371) | `etcd3.py` | 2017-03-18 | 9y 4mo ago |
-| [osx-route.sh](https://gist.github.com/dims/ea3c8e5764979005b79dda6e513fefa6) | `osx-route.sh` | 2017-03-16 | 9y 4mo ago |
+| [osx-route.sh](https://gist.github.com/dims/ea3c8e5764979005b79dda6e513fefa6) | `osx-route.sh` | 2017-03-16 | 9y 5mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/158b69323b90c4d8d565cb935a5b2e95) | `gistfile1.txt` | 2017-03-12 | 9y 5mo ago |
 | [Screen Commands for Docker for Mac (prevent garbled text on reconnect)](https://gist.github.com/dims/81b887378b8590e97ecd89be6c9ce8f1) | `screen-docker-for-mac.sh` | 2017-03-07 | 9y 5mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/6df88e8ef163079e335963c1f23eac0e) | `gistfile1.txt` | 2017-02-28 | 9y 5mo ago |
