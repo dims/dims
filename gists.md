@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-08-12 18:15 UTC
+> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-08-13 00:12 UTC
 
 
 ## 📅 2026
@@ -8,10 +8,10 @@
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
 | [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 9d ago |
-| [copyconstruct-debugging: Claude Code skill for debugging tricky bugs (diagnosis before remedy, fail-first verification)](https://gist.github.com/dims/57ba15220f27e0ac16d0e2547f3ff3a6) | `README.md` +1 | 2026-07-30 | 12d ago |
-| [Enroot, libnvidia-container, and a path to CDI — architecture notes and migration design](https://gist.github.com/dims/9e40f18a6959cb897528c7d966986f4b) | `2026-07-24-enroot-libnvidia-container-cdi.md` | 2026-07-24 | 18d ago |
+| [copyconstruct-debugging: Claude Code skill for debugging tricky bugs (diagnosis before remedy, fail-first verification)](https://gist.github.com/dims/57ba15220f27e0ac16d0e2547f3ff3a6) | `README.md` +1 | 2026-07-30 | 13d ago |
+| [Enroot, libnvidia-container, and a path to CDI — architecture notes and migration design](https://gist.github.com/dims/9e40f18a6959cb897528c7d966986f4b) | `2026-07-24-enroot-libnvidia-container-cdi.md` | 2026-07-24 | 19d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 22d ago |
-| [Kubernetes Dependency Reduction Assessment (Jul 20, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 22d ago |
+| [Kubernetes Dependency Reduction Assessment (Jul 20, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 23d ago |
 | [Kubernetes Dependency Analysis (v1.37.0-alpha / master vs v1.36.2) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +11 | 2026-02-08 | 23d ago |
 | [Kubernetes unwanted vendor dependencies status — July 2026](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-07.md` +1 | 2026-04-26 | 23d ago |
 | [Kubernetes dependency security analysis (latest: 2026-07-20) + regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 23d ago |
@@ -71,8 +71,8 @@
 | [Lima based Ubuntu with Containerd startup](https://gist.github.com/dims/a23f4404ad5ab299a5528d6f7969d1f8) | `README.md` +2 | 2025-12-04 | 8mo ago |
 | [kepify.json](https://gist.github.com/dims/97ca19d97d74c5ec697f7d01c5dc1247) | `kepify.json` | 2020-01-19 | 8mo ago |
 | [mongodb-postgresql-unified-guide.md](https://gist.github.com/dims/87c83827c941b3d4202592f78ca37f81) | `mongodb-postgresql-unified-guide.md` | 2025-11-18 | 8mo ago |
-| [claude-review.md](https://gist.github.com/dims/2ff5ed4f2c0e7301b186956dc0f4a4a1) | `claude-review.md` | 2025-11-15 | 8mo ago |
-| [cursor-review.md](https://gist.github.com/dims/dd39826639755a805769294889121b2d) | `cursor-review.md` | 2025-11-15 | 8mo ago |
+| [claude-review.md](https://gist.github.com/dims/2ff5ed4f2c0e7301b186956dc0f4a4a1) | `claude-review.md` | 2025-11-15 | 9mo ago |
+| [cursor-review.md](https://gist.github.com/dims/dd39826639755a805769294889121b2d) | `cursor-review.md` | 2025-11-15 | 9mo ago |
 | [node-problem-detector plugin architecture guide](https://gist.github.com/dims/6f482d9fe34669c0df8f8f5564474981) | `PLUGIN_ARCHITECTURE_GUIDE.md` | 2025-10-30 | 9mo ago |
 | [get-helm-3](https://gist.github.com/dims/d1f1484e1dbdf13f0d1511917ef9b177) | `get-helm-3` | 2025-10-29 | 9mo ago |
 | [validate the nginx configuration in k8s.io/apps/k8s-io](https://gist.github.com/dims/80e556414989f30b9a500957460a7855) | `out.log` +1 | 2025-09-21 | 10mo ago |
@@ -99,7 +99,7 @@
 | [Notes from running kubetest2 ec2 with nvidia](https://gist.github.com/dims/6d3ffbdcdaf2b894e8eb8e7b5c5c3d14) | `nvi.sh` +2 | 2024-03-04 | 1y 10mo ago |
 | [unwanted-dependencies.json](https://gist.github.com/dims/030edac5dbd158eed83bd8b3f906e93d) | `unwanted-dependencies.json` | 2024-09-05 | 1y 11mo ago |
 | [perma-failures.md](https://gist.github.com/dims/466a4dec07a27eae9db41b30301b7fe3) | `perma-failures.md` | 2024-09-04 | 1y 11mo ago |
-| [v1.31 API generation](https://gist.github.com/dims/8d26414de71d46d44c8d7f1498eedd69) | `fields.yaml` +2 | 2024-08-17 | 1y 11mo ago |
+| [v1.31 API generation](https://gist.github.com/dims/8d26414de71d46d44c8d7f1498eedd69) | `fields.yaml` +2 | 2024-08-17 | 1y 12mo ago |
 | [clean-pods-and-containers.sh](https://gist.github.com/dims/6ff28fb745487453f441f96ced4232d6) | `clean-pods-and-containers.sh` +3 | 2024-08-13 | 1y 12mo ago |
 | [Shows the name of the command running on each port on MacOS](https://gist.github.com/dims/d8069b1c27409f9130f815bc6075ee2d) | `gistfile1.txt` | 2024-08-13 | 1y 12mo ago |
 | [README.md](https://gist.github.com/dims/af1ce191b3d6e420128629061a10e518) | `README.md` +1 | 2024-08-11 | 2y ago |
