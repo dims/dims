@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-08-16 06:04 UTC
+> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-08-16 12:02 UTC
 
 
 ## 📅 2026
@@ -157,7 +157,7 @@
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [Forward Docker unix socket](https://gist.github.com/dims/ca0ac30f7106e1af15a8) | `gistfile1.txt` | 2014-10-15 | 4y 7mo ago |
+| [Forward Docker unix socket](https://gist.github.com/dims/ca0ac30f7106e1af15a8) | `gistfile1.txt` | 2014-10-15 | 4y 8mo ago |
 | [TCE proposal template](https://gist.github.com/dims/b9cd0c191c785292a8efad34030faf48) | `YYYYMMDD-template.md` | 2021-12-14 | 4y 8mo ago |
 | [devstats yearly contribution to kubernetes](https://gist.github.com/dims/64288b86f443eeb583f35996750b33d3) | `gistfile1.txt` | 2021-11-15 | 4y 9mo ago |
 | [Run local-up-cluster.sh with containerd](https://gist.github.com/dims/1a48ce1eefb6b36bdee73e02f1aac8ed) | `restart-k8s-containerd.sh` | 2021-09-16 | 4y 11mo ago |
