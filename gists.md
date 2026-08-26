@@ -1,13 +1,13 @@
 # 📝 Gists
 
-> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-08-26 12:05 UTC
+> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-08-26 18:32 UTC
 
 
 ## 📅 2026
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 22d ago |
+| [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 23d ago |
 | [copyconstruct-debugging: Claude Code skill for debugging tricky bugs (diagnosis before remedy, fail-first verification)](https://gist.github.com/dims/57ba15220f27e0ac16d0e2547f3ff3a6) | `README.md` +1 | 2026-07-30 | 26d ago |
 | [Enroot, libnvidia-container, and a path to CDI — architecture notes and migration design](https://gist.github.com/dims/9e40f18a6959cb897528c7d966986f4b) | `2026-07-24-enroot-libnvidia-container-cdi.md` | 2026-07-24 | 1mo ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 1mo ago |
@@ -41,7 +41,7 @@
 | [Running DRA GPU Tests on Lambda Cloud (without Prow) - step by step guide](https://gist.github.com/dims/6e26165d4762a76b58e5cda6acfee388) | `lambda-gpu-testing-guide.md` | 2026-04-11 | 4mo ago |
 | [CNCF TOC Members Timeline](https://gist.github.com/dims/f98a5ab28f2be0c7a0b2c6a3698bc6fb) | `toc-members-timeline.svg` | 2026-04-09 | 4mo ago |
 | [Running Kubernetes GPU e2e Tests on Lambda Cloud](https://gist.github.com/dims/b033e62eab37b0a13807d1ef05304bee) | `k8s-e2e-node-lambda-cloud.md` | 2026-04-02 | 4mo ago |
-| [run-node-e2e-tests-with-containerd.sh](https://gist.github.com/dims/29b734404b94715373759f25c18e555e) | `run-node-e2e-tests-with-containerd.sh` | 2025-04-28 | 4mo ago |
+| [run-node-e2e-tests-with-containerd.sh](https://gist.github.com/dims/29b734404b94715373759f25c18e555e) | `run-node-e2e-tests-with-containerd.sh` | 2025-04-28 | 5mo ago |
 | [CNCF K8s AI Conformance Analysis - 2026-03-16 (SHA: 223d15f)](https://gist.github.com/dims/db188beb19c8b3c2904017e4f269105c) | `2026-03-16-k8s-ai-conformance-analysis.md` +1 | 2026-03-16 | 5mo ago |
 | [Brev CLI: GPU Provisioning — Developer Experience Report](https://gist.github.com/dims/b3b0b73c0b5951b44c749e55cbf61769) | `brev-cli-dx-report.md` | 2026-02-26 | 6mo ago |
 | [Running Qwen3-Coder-Next-FP8 with Claude Code on Brev H100](https://gist.github.com/dims/4aa2fb68ae83bbb81fd21159c51d04c5) | `qwen-claude-setup.md` | 2026-02-26 | 6mo ago |
@@ -73,7 +73,7 @@
 | [mongodb-postgresql-unified-guide.md](https://gist.github.com/dims/87c83827c941b3d4202592f78ca37f81) | `mongodb-postgresql-unified-guide.md` | 2025-11-18 | 9mo ago |
 | [claude-review.md](https://gist.github.com/dims/2ff5ed4f2c0e7301b186956dc0f4a4a1) | `claude-review.md` | 2025-11-15 | 9mo ago |
 | [cursor-review.md](https://gist.github.com/dims/dd39826639755a805769294889121b2d) | `cursor-review.md` | 2025-11-15 | 9mo ago |
-| [node-problem-detector plugin architecture guide](https://gist.github.com/dims/6f482d9fe34669c0df8f8f5564474981) | `PLUGIN_ARCHITECTURE_GUIDE.md` | 2025-10-30 | 9mo ago |
+| [node-problem-detector plugin architecture guide](https://gist.github.com/dims/6f482d9fe34669c0df8f8f5564474981) | `PLUGIN_ARCHITECTURE_GUIDE.md` | 2025-10-30 | 10mo ago |
 | [get-helm-3](https://gist.github.com/dims/d1f1484e1dbdf13f0d1511917ef9b177) | `get-helm-3` | 2025-10-29 | 10mo ago |
 | [validate the nginx configuration in k8s.io/apps/k8s-io](https://gist.github.com/dims/80e556414989f30b9a500957460a7855) | `out.log` +1 | 2025-09-21 | 11mo ago |
 | [[DEPRECATED] Python script to compute updates to the Kubernetes go.mod to see how far we are behind latest in vendored repos (please look in artifacts generated in this job - https://testgrid.k8s.io/sig-arch-code-organization#unit-master-dependencies&width=20)](https://gist.github.com/dims/c0857b86441442b15852a4c2355db130) | `differences.md` +2 | 2019-05-20 | 11mo ago |
@@ -300,40 +300,40 @@
 | [test.py](https://gist.github.com/dims/226218dd289857f6c933) | `test.py` | 2015-12-22 | 10y 8mo ago |
 | [diff2list](https://gist.github.com/dims/bd4144ab1d0f92f6fa50) | `diff2list` | 2015-10-19 | 10y 10mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/1238498) | `gistfile1.txt` | 2011-09-23 | 10y 11mo ago |
-| [x](https://gist.github.com/dims/10869) | `x` | 2008-09-15 | 10y 12mo ago |
-| [gistfile1.txt](https://gist.github.com/dims/10865) | `gistfile1.txt` | 2008-09-15 | 10y 12mo ago |
-| [x](https://gist.github.com/dims/10864) | `x` | 2008-09-15 | 10y 12mo ago |
-| [x](https://gist.github.com/dims/10862) | `x` | 2008-09-15 | 10y 12mo ago |
-| [x](https://gist.github.com/dims/10854) | `x` | 2008-09-15 | 10y 12mo ago |
-| [x](https://gist.github.com/dims/10853) | `x` | 2008-09-15 | 10y 12mo ago |
-| [x](https://gist.github.com/dims/10863) | `x` | 2008-09-15 | 10y 12mo ago |
-| [x](https://gist.github.com/dims/10857) | `x` | 2008-09-15 | 10y 12mo ago |
-| [x](https://gist.github.com/dims/10856) | `x` | 2008-09-15 | 10y 12mo ago |
-| [x](https://gist.github.com/dims/10855) | `x` | 2008-09-15 | 10y 12mo ago |
-| [x](https://gist.github.com/dims/10852) | `x` | 2008-09-15 | 10y 12mo ago |
-| [Fuel 7.0 on Mac OS X 10.10](https://gist.github.com/dims/d9b4829971916aa6e0aa) | `Fuel 7.0 on Mac OS X 10.10` | 2015-08-22 | 10y 12mo ago |
-| [pyampq diff for logging heartbeat (from Dmitry Mescheryakov)](https://gist.github.com/dims/349558ce662265ecddde) | `heartbeat-logging.diff` | 2015-08-04 | 10y 12mo ago |
-| [gistfile1.txt](https://gist.github.com/dims/e44f8805baab0a381f71) | `gistfile1.txt` | 2015-08-03 | 10y 12mo ago |
-| [Dmitry Mescheryakov's script](https://gist.github.com/dims/3a0425d9371380f2e45f) | `restart_all_processes.py` | 2015-07-22 | 10y 12mo ago |
-| [Handy script from Dan Smith](https://gist.github.com/dims/eeb0b882f58e44acf96f) | `test_project_with_oslo_lib` | 2015-07-13 | 10y 12mo ago |
-| [Add new lines to end of the requirements files](https://gist.github.com/dims/6180265768ec20563a4f) | `gistfile1.txt` | 2015-06-26 | 10y 12mo ago |
-| [Send email from release notes](https://gist.github.com/dims/7426fc81b559e4baacec) | `gistfile1.txt` | 2015-06-23 | 10y 12mo ago |
-| [email a file](https://gist.github.com/dims/7d242a1fa8cd7b9ea3fe) | `gistfile1.txt` | 2015-06-23 | 10y 12mo ago |
-| [DevStack + Murano](https://gist.github.com/dims/3761b61593182742173a) | `gistfile1.txt` | 2015-06-19 | 10y 12mo ago |
-| [irc chat log](https://gist.github.com/dims/ec85d46769a092a3ec56) | `gistfile1.txt` | 2015-05-29 | 10y 12mo ago |
-| [moose-color.svg](https://gist.github.com/dims/7134dbcde1509c4b0779) | `moose-color.svg` | 2015-05-06 | 10y 12mo ago |
-| [moose.svg](https://gist.github.com/dims/7842aa1887ca15faeb6a) | `moose.svg` | 2015-05-06 | 10y 12mo ago |
-| [git-track.sh](https://gist.github.com/dims/361e463e989e4f6ff32a) | `git-track.sh` | 2015-04-08 | 10y 12mo ago |
-| [Quick oslo.config example for testing](https://gist.github.com/dims/4a25c81212c1e47ebb62) | `app.conf` +1 | 2015-03-13 | 10y 12mo ago |
-| [oslo.messaging-demo.py](https://gist.github.com/dims/9623463611160c84879b) | `oslo.messaging-demo.py` | 2015-03-11 | 10y 12mo ago |
-| [verbose unix socket redirect using socat](https://gist.github.com/dims/2f56a64f5460b79f0a6c) | `gistfile1.txt` | 2014-12-31 | 10y 12mo ago |
-| [simple docker-py client to stream logs](https://gist.github.com/dims/c3327f633c526847c8e5) | `gistfile1.py` | 2014-12-22 | 10y 12mo ago |
-| [fwd docker unix socket via ssh](https://gist.github.com/dims/f4efd63af8b2216dff0e) | `gistfile1.txt` | 2014-12-22 | 10y 12mo ago |
-| [devices.md](https://gist.github.com/dims/0d1ac1a5598e0b8a72e0) | `devices.md` | 2014-12-03 | 10y 12mo ago |
-| [test-docker-driver.py](https://gist.github.com/dims/50fdda50aab063c579cb) | `test-docker-driver.py` | 2014-10-16 | 10y 12mo ago |
-| [httpd.conf](https://gist.github.com/dims/185ed200b3f0a21952ad) | `httpd.conf` | 2014-10-02 | 10y 12mo ago |
-| [micro_bosh.yml](https://gist.github.com/dims/b789b3e4a3bf63dc8517) | `micro_bosh.yml` | 2014-06-30 | 10y 12mo ago |
-| [cf-173-openstack.yml](https://gist.github.com/dims/588bac454e732f91a640) | `cf-173-openstack.yml` | 2014-06-26 | 10y 12mo ago |
+| [x](https://gist.github.com/dims/10869) | `x` | 2008-09-15 | 11y ago |
+| [gistfile1.txt](https://gist.github.com/dims/10865) | `gistfile1.txt` | 2008-09-15 | 11y ago |
+| [x](https://gist.github.com/dims/10864) | `x` | 2008-09-15 | 11y ago |
+| [x](https://gist.github.com/dims/10862) | `x` | 2008-09-15 | 11y ago |
+| [x](https://gist.github.com/dims/10854) | `x` | 2008-09-15 | 11y ago |
+| [x](https://gist.github.com/dims/10853) | `x` | 2008-09-15 | 11y ago |
+| [x](https://gist.github.com/dims/10863) | `x` | 2008-09-15 | 11y ago |
+| [x](https://gist.github.com/dims/10857) | `x` | 2008-09-15 | 11y ago |
+| [x](https://gist.github.com/dims/10856) | `x` | 2008-09-15 | 11y ago |
+| [x](https://gist.github.com/dims/10855) | `x` | 2008-09-15 | 11y ago |
+| [x](https://gist.github.com/dims/10852) | `x` | 2008-09-15 | 11y ago |
+| [Fuel 7.0 on Mac OS X 10.10](https://gist.github.com/dims/d9b4829971916aa6e0aa) | `Fuel 7.0 on Mac OS X 10.10` | 2015-08-22 | 11y ago |
+| [pyampq diff for logging heartbeat (from Dmitry Mescheryakov)](https://gist.github.com/dims/349558ce662265ecddde) | `heartbeat-logging.diff` | 2015-08-04 | 11y ago |
+| [gistfile1.txt](https://gist.github.com/dims/e44f8805baab0a381f71) | `gistfile1.txt` | 2015-08-03 | 11y ago |
+| [Dmitry Mescheryakov's script](https://gist.github.com/dims/3a0425d9371380f2e45f) | `restart_all_processes.py` | 2015-07-22 | 11y ago |
+| [Handy script from Dan Smith](https://gist.github.com/dims/eeb0b882f58e44acf96f) | `test_project_with_oslo_lib` | 2015-07-13 | 11y ago |
+| [Add new lines to end of the requirements files](https://gist.github.com/dims/6180265768ec20563a4f) | `gistfile1.txt` | 2015-06-26 | 11y ago |
+| [Send email from release notes](https://gist.github.com/dims/7426fc81b559e4baacec) | `gistfile1.txt` | 2015-06-23 | 11y ago |
+| [email a file](https://gist.github.com/dims/7d242a1fa8cd7b9ea3fe) | `gistfile1.txt` | 2015-06-23 | 11y ago |
+| [DevStack + Murano](https://gist.github.com/dims/3761b61593182742173a) | `gistfile1.txt` | 2015-06-19 | 11y ago |
+| [irc chat log](https://gist.github.com/dims/ec85d46769a092a3ec56) | `gistfile1.txt` | 2015-05-29 | 11y ago |
+| [moose-color.svg](https://gist.github.com/dims/7134dbcde1509c4b0779) | `moose-color.svg` | 2015-05-06 | 11y ago |
+| [moose.svg](https://gist.github.com/dims/7842aa1887ca15faeb6a) | `moose.svg` | 2015-05-06 | 11y ago |
+| [git-track.sh](https://gist.github.com/dims/361e463e989e4f6ff32a) | `git-track.sh` | 2015-04-08 | 11y ago |
+| [Quick oslo.config example for testing](https://gist.github.com/dims/4a25c81212c1e47ebb62) | `app.conf` +1 | 2015-03-13 | 11y ago |
+| [oslo.messaging-demo.py](https://gist.github.com/dims/9623463611160c84879b) | `oslo.messaging-demo.py` | 2015-03-11 | 11y ago |
+| [verbose unix socket redirect using socat](https://gist.github.com/dims/2f56a64f5460b79f0a6c) | `gistfile1.txt` | 2014-12-31 | 11y ago |
+| [simple docker-py client to stream logs](https://gist.github.com/dims/c3327f633c526847c8e5) | `gistfile1.py` | 2014-12-22 | 11y ago |
+| [fwd docker unix socket via ssh](https://gist.github.com/dims/f4efd63af8b2216dff0e) | `gistfile1.txt` | 2014-12-22 | 11y ago |
+| [devices.md](https://gist.github.com/dims/0d1ac1a5598e0b8a72e0) | `devices.md` | 2014-12-03 | 11y ago |
+| [test-docker-driver.py](https://gist.github.com/dims/50fdda50aab063c579cb) | `test-docker-driver.py` | 2014-10-16 | 11y ago |
+| [httpd.conf](https://gist.github.com/dims/185ed200b3f0a21952ad) | `httpd.conf` | 2014-10-02 | 11y ago |
+| [micro_bosh.yml](https://gist.github.com/dims/b789b3e4a3bf63dc8517) | `micro_bosh.yml` | 2014-06-30 | 11y ago |
+| [cf-173-openstack.yml](https://gist.github.com/dims/588bac454e732f91a640) | `cf-173-openstack.yml` | 2014-06-26 | 11y ago |
 
 ---
 *🤖 Auto-generated every 6 hours by [update-gists](.github/workflows/update-gists.yml)*
