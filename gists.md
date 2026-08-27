@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-08-27 15:34 UTC
+> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-08-27 21:09 UTC
 
 
 ## 📅 2026
@@ -21,8 +21,8 @@
 | [Agent Substrate (agent-substrate/substrate) — Cross-Vendor Contributor & Affiliation Report (2026-06-03)](https://gist.github.com/dims/dc0c769bd5b94b4ebabecc60dbcd3dc8) | `2026-06-03-substrate-cross-vendor-contributors.md` | 2026-06-04 | 2mo ago |
 | [OpenShell (NVIDIA/OpenShell) — External Contributor & DCO-Hygiene Report (2026-05-26)](https://gist.github.com/dims/babbf3a37068402a1ef9c4d5eddf53d0) | `external-contributor-report.md` | 2026-06-03 | 2mo ago |
 | [aicr (NVIDIA/aicr) — External Contributor & DCO-Hygiene Report (2026-06-03)](https://gist.github.com/dims/2cf425291ca5aff2ebd4ff0e9928250c) | `2026-06-03-aicr-external-contributors.md` | 2026-06-03 | 2mo ago |
-| [Agent Substrate — pluggable ateom backend: Firecracker (microVM). [1] PoC on bigbox, [2] design proposal, [3] implementation log.](https://gist.github.com/dims/4052cec310c68226fe8dc0a2477aa96f) | `1-2026-05-29-firecracker-ateom-poc-bigbox.md` +2 | 2026-05-29 | 2mo ago |
-| [Host-managed IMEX v2 design and operator guide](https://gist.github.com/dims/6a505ea49e5f9cc85fed0992932257d3) | `host-managed-imex-design-v2.md` +1 | 2026-05-28 | 2mo ago |
+| [Agent Substrate — pluggable ateom backend: Firecracker (microVM). [1] PoC on bigbox, [2] design proposal, [3] implementation log.](https://gist.github.com/dims/4052cec310c68226fe8dc0a2477aa96f) | `1-2026-05-29-firecracker-ateom-poc-bigbox.md` +2 | 2026-05-29 | 3mo ago |
+| [Host-managed IMEX v2 design and operator guide](https://gist.github.com/dims/6a505ea49e5f9cc85fed0992932257d3) | `host-managed-imex-design-v2.md` +1 | 2026-05-28 | 3mo ago |
 | [helpdesk-intern-demo.sh](https://gist.github.com/dims/6b2e00d8fd669e0037538d1831a768c2) | `helpdesk-intern-demo.sh` | 2026-05-25 | 3mo ago |
 | [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 3mo ago |
 | [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 3mo ago |
@@ -54,7 +54,7 @@
 | [Review: Update go-openapi dependencies (jsonpointer, jsonreference, swag) - k8s PR #136819](https://gist.github.com/dims/31e0b95374981a8adf0d62b4c328d048) | `k8s-go-openapi-dep-update-review.md` | 2026-02-10 | 6mo ago |
 | [verify-unwanted-deps-classification.sh](https://gist.github.com/dims/41e381da9d88158bc0975a6913903ec5) | `verify-unwanted-deps-classification.sh` | 2026-02-05 | 6mo ago |
 | [CNCF_New_Contributors_FAQ.md](https://gist.github.com/dims/d59332d36089040be17834dc2febb67f) | `CNCF_New_Contributors_FAQ.md` | 2025-12-06 | 6mo ago |
-| [Kubernetes AI Conformance Implementation Analysis](https://gist.github.com/dims/ff683f5db74dd843040c377f2d263606) | `k8s-ai-conformance-analysis.md` | 2026-01-29 | 6mo ago |
+| [Kubernetes AI Conformance Implementation Analysis](https://gist.github.com/dims/ff683f5db74dd843040c377f2d263606) | `k8s-ai-conformance-analysis.md` | 2026-01-29 | 7mo ago |
 | [CI Jobs Fixed, Created, or Deleted - January 2026](https://gist.github.com/dims/2274c8cb64ab8de1321d280053ea0aca) | `dims-ci-jobs-fixed-jan-2026.md` | 2026-01-29 | 7mo ago |
 | [kops-failure-patterns-analysis.md](https://gist.github.com/dims/361585c46ef0211f375ffa6738f85eb8) | `kops-failure-patterns-analysis.md` | 2026-01-23 | 7mo ago |
 | [Kops CI Jobs Failing with KOPS_STATE_STORE Errors](https://gist.github.com/dims/0b018d889a9161e24e1c32d410a64228) | `kops.md` | 2026-01-23 | 7mo ago |
@@ -255,7 +255,7 @@
 | [Screen Commands for Docker for Mac (prevent garbled text on reconnect)](https://gist.github.com/dims/81b887378b8590e97ecd89be6c9ce8f1) | `screen-docker-for-mac.sh` | 2017-03-07 | 9y 5mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/6df88e8ef163079e335963c1f23eac0e) | `gistfile1.txt` | 2017-02-28 | 9y 6mo ago |
 | [RabbitMQ cheat sheet](https://gist.github.com/dims/0bad31d9a0c02e5b1b9d) | `gistfile1.txt` | 2015-06-09 | 9y 6mo ago |
-| [zuulfailures.py](https://gist.github.com/dims/54b391bd5964d3d208113b16766ea85e) | `zuulfailures.py` | 2017-01-31 | 9y 6mo ago |
+| [zuulfailures.py](https://gist.github.com/dims/54b391bd5964d3d208113b16766ea85e) | `zuulfailures.py` | 2017-01-31 | 9y 7mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/05fced10d374a04bb366c0536481dfa5) | `gistfile1.txt` | 2017-01-15 | 9y 7mo ago |
 | [zuulfailures.py](https://gist.github.com/dims/7286bf3db9d6b4c0f73994db46aa3681) | `zuulfailures.py` | 2017-01-12 | 9y 7mo ago |
 ## 📅 2016
