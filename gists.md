@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-08-29 12:02 UTC
+> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-08-29 18:01 UTC
 
 
 ## 📅 2026
@@ -8,7 +8,7 @@
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | yesterday |
-| [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 25d ago |
+| [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 26d ago |
 | [copyconstruct-debugging: Claude Code skill for debugging tricky bugs (diagnosis before remedy, fail-first verification)](https://gist.github.com/dims/57ba15220f27e0ac16d0e2547f3ff3a6) | `README.md` +1 | 2026-07-30 | 29d ago |
 | [Enroot, libnvidia-container, and a path to CDI — architecture notes and migration design](https://gist.github.com/dims/9e40f18a6959cb897528c7d966986f4b) | `2026-07-24-enroot-libnvidia-container-cdi.md` | 2026-07-24 | 1mo ago |
 | [Kubernetes Dependency Reduction Assessment (Jul 20, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 1mo ago |
@@ -77,7 +77,7 @@
 | [get-helm-3](https://gist.github.com/dims/d1f1484e1dbdf13f0d1511917ef9b177) | `get-helm-3` | 2025-10-29 | 10mo ago |
 | [validate the nginx configuration in k8s.io/apps/k8s-io](https://gist.github.com/dims/80e556414989f30b9a500957460a7855) | `out.log` +1 | 2025-09-21 | 11mo ago |
 | [[DEPRECATED] Python script to compute updates to the Kubernetes go.mod to see how far we are behind latest in vendored repos (please look in artifacts generated in this job - https://testgrid.k8s.io/sig-arch-code-organization#unit-master-dependencies&width=20)](https://gist.github.com/dims/c0857b86441442b15852a4c2355db130) | `differences.md` +2 | 2019-05-20 | 11mo ago |
-| [Extract Endpoint information from audit logs](https://gist.github.com/dims/1fc254d0e4d043ef18bbc84596785de2) | `README.md` +1 | 2025-08-19 | 12mo ago |
+| [Extract Endpoint information from audit logs](https://gist.github.com/dims/1fc254d0e4d043ef18bbc84596785de2) | `README.md` +1 | 2025-08-19 | 1y ago |
 | [lima configuration for a local environment to test things on macos](https://gist.github.com/dims/20a824aff15a9ceaa8b7190124ff3d3b) | `README.md` +2 | 2025-07-03 | 1y 1mo ago |
 | [imports analysis](https://gist.github.com/dims/f9adba9ec5f92b72c269c6a4ddcd93d8) | `import_analyzer.go` +1 | 2025-06-19 | 1y 2mo ago |
 | [test-containerd-using-crictl.sh](https://gist.github.com/dims/936f5ddd85e94ea588781f1570860c2d) | `test-containerd-using-crictl.sh` | 2025-05-10 | 1y 3mo ago |
@@ -127,7 +127,7 @@
 | [gh-search-prs.txt](https://gist.github.com/dims/5d2351fe78922f8c84ee410b33ea0b17) | `gh-search-prs.txt` | 2023-10-25 | 2y 10mo ago |
 | [OpenSSF - https://securityscorecards.dev/](https://gist.github.com/dims/63c8290191ebdb7240cfa7f240ffdce4) | `scorecard.txt` | 2023-10-25 | 2y 10mo ago |
 | [Example of a CI job moving from using bootstrap to pod utils](https://gist.github.com/dims/c1296f8ed42238baea0a5fcae45f4cf4) | `after.yaml` +2 | 2019-11-06 | 2y 11mo ago |
-| [from https://github.com/distribution/distribution/pull/4031](https://gist.github.com/dims/1984d35f7a61af608dbf330bd16b2631) | `gistfile1.txt` | 2023-08-30 | 2y 12mo ago |
+| [from https://github.com/distribution/distribution/pull/4031](https://gist.github.com/dims/1984d35f7a61af608dbf330bd16b2631) | `gistfile1.txt` | 2023-08-30 | 3y ago |
 | [testing-kubetest-ec2](https://gist.github.com/dims/5035282fc7eac7cf87bd093791d52253) | `testing-kubetest-ec2` | 2023-08-05 | 3y ago |
 | [testgrid.js](https://gist.github.com/dims/26596fd1b0b0c9351910d5a8fe73b263) | `testgrid.js` | 2023-08-03 | 3y ago |
 | [update-dependencies.sh](https://gist.github.com/dims/bca6889ef2fab9479d6a6b4aa5f3a38b) | `update-dependencies.sh` | 2020-01-15 | 3y 2mo ago |
@@ -210,7 +210,7 @@
 | [kubeadm.txt](https://gist.github.com/dims/3914bdfb0ebde52ea0118a237a4d90b9) | `kubeadm.txt` | 2017-11-29 | 7y 10mo ago |
 | [cloudlab.txt](https://gist.github.com/dims/a5081982e7b6efa273af95593c110cc8) | `cloudlab.txt` | 2017-11-29 | 7y 10mo ago |
 | [Disable Parental Controls and other services in macOS Sierra (OS X)](https://gist.github.com/dims/36247f8b60d5c4c9e22cc8974174b8a8) | `disable_macOS_parental_controls.sh` | 2017-12-22 | 7y 10mo ago |
-| [nginx-cinder-with-secret-all.yaml](https://gist.github.com/dims/fab4505551fadd9ec06675c5dcd44b28) | `nginx-cinder-with-secret-all.yaml` | 2018-04-18 | 7y 12mo ago |
+| [nginx-cinder-with-secret-all.yaml](https://gist.github.com/dims/fab4505551fadd9ec06675c5dcd44b28) | `nginx-cinder-with-secret-all.yaml` | 2018-04-18 | 8y ago |
 | [e2e_manifests.go](https://gist.github.com/dims/067c6723588a585a7a00b22e41b86f34) | `e2e_manifests.go` +1 | 2018-08-05 | 8y ago |
 | [release-etd3gw.sh](https://gist.github.com/dims/7d6d6717346d96755d08734df0bcf2a5) | `release-etd3gw.sh` | 2017-09-25 | 8y ago |
 | [minikube-with-kvm2.sh](https://gist.github.com/dims/d0c586b6955d11f9420be0e53e78845f) | `minikube-with-kvm2.sh` | 2018-06-22 | 8y 2mo ago |
