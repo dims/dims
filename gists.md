@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-09-02 12:02 UTC
+> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-09-02 18:02 UTC
 
 
 ## 📅 2026
@@ -8,7 +8,7 @@
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 5d ago |
-| [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 29d ago |
+| [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 1mo ago |
 | [copyconstruct-debugging: Claude Code skill for debugging tricky bugs (diagnosis before remedy, fail-first verification)](https://gist.github.com/dims/57ba15220f27e0ac16d0e2547f3ff3a6) | `README.md` +1 | 2026-07-30 | 1mo ago |
 | [Enroot, libnvidia-container, and a path to CDI — architecture notes and migration design](https://gist.github.com/dims/9e40f18a6959cb897528c7d966986f4b) | `2026-07-24-enroot-libnvidia-container-cdi.md` | 2026-07-24 | 1mo ago |
 | [Kubernetes Dependency Reduction Assessment (Jul 20, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 1mo ago |
@@ -18,7 +18,7 @@
 | [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 1mo ago |
 | [Agent Substrate — Dataplane Pluggability (design doc, proposed)](https://gist.github.com/dims/458eb6602d239e0909f6db272878c2b4) | `dataplane-pluggability.md` | 2026-06-28 | 2mo ago |
 | [Agent Substrate micro-VM (PR #287) runbook on a kind cluster: counter-microvm + OpenShell helpdesk-microvm demos, validated end-to-end (suspend/resume of cloud-hypervisor VM snapshots).](https://gist.github.com/dims/f0dcaa55d33caac8d538d54ccd5ba02a) | `2026-06-25-microvm-pr287-runbook.md` | 2026-06-25 | 2mo ago |
-| [Agent Substrate (agent-substrate/substrate) — Cross-Vendor Contributor & Affiliation Report (2026-06-03)](https://gist.github.com/dims/dc0c769bd5b94b4ebabecc60dbcd3dc8) | `2026-06-03-substrate-cross-vendor-contributors.md` | 2026-06-04 | 2mo ago |
+| [Agent Substrate (agent-substrate/substrate) — Cross-Vendor Contributor & Affiliation Report (2026-06-03)](https://gist.github.com/dims/dc0c769bd5b94b4ebabecc60dbcd3dc8) | `2026-06-03-substrate-cross-vendor-contributors.md` | 2026-06-04 | 3mo ago |
 | [OpenShell (NVIDIA/OpenShell) — External Contributor & DCO-Hygiene Report (2026-05-26)](https://gist.github.com/dims/babbf3a37068402a1ef9c4d5eddf53d0) | `external-contributor-report.md` | 2026-06-03 | 3mo ago |
 | [aicr (NVIDIA/aicr) — External Contributor & DCO-Hygiene Report (2026-06-03)](https://gist.github.com/dims/2cf425291ca5aff2ebd4ff0e9928250c) | `2026-06-03-aicr-external-contributors.md` | 2026-06-03 | 3mo ago |
 | [Agent Substrate — pluggable ateom backend: Firecracker (microVM). [1] PoC on bigbox, [2] design proposal, [3] implementation log.](https://gist.github.com/dims/4052cec310c68226fe8dc0a2477aa96f) | `1-2026-05-29-firecracker-ateom-poc-bigbox.md` +2 | 2026-05-29 | 3mo ago |
@@ -197,7 +197,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/710677270d9cfba747322e1bcc02e43d) | `gistfile1.txt` | 2019-04-04 | 7y 5mo ago |
 | [deps.py](https://gist.github.com/dims/dcd1880aef24db6e85d733f3708af890) | `deps.py` +1 | 2018-10-13 | 7y 6mo ago |
 | [sanitize-import-boss.py](https://gist.github.com/dims/384dea60754042f61d79233603034038) | `sanitize-import-boss.py` | 2019-02-11 | 7y 6mo ago |
-| [[TEMP] Deploy k8s-keystone-auth](https://gist.github.com/dims/072d4a515db614d428d0a544f39d0150) | `k8s-keystone-auth.md` | 2019-02-06 | 7y 6mo ago |
+| [[TEMP] Deploy k8s-keystone-auth](https://gist.github.com/dims/072d4a515db614d428d0a544f39d0150) | `k8s-keystone-auth.md` | 2019-02-06 | 7y 7mo ago |
 | [prune_git_history.sh](https://gist.github.com/dims/bed84653c771446f372c67e836488aa1) | `prune_git_history.sh` | 2019-01-24 | 7y 7mo ago |
 | [filter_git_history.sh](https://gist.github.com/dims/e00c8fa8d6847064db62cbf2780706c5) | `filter_git_history.sh` | 2019-01-24 | 7y 7mo ago |
 | [http_handler_timeout.go](https://gist.github.com/dims/9f01e3d07057c09faf16b6bd6aa5362a) | `http_handler_timeout.go` | 2019-01-10 | 7y 7mo ago |
@@ -283,7 +283,7 @@
 | [test_bot_proposed_constraints.py](https://gist.github.com/dims/094ac0e8d8bd8c4a096b6b391157aef5) | `test_bot_proposed_constraints.py` | 2016-04-09 | 10y 2mo ago |
 | [echo.yaml](https://gist.github.com/dims/43e8fef096f332b41458ab43150b2214) | `echo.yaml` | 2016-06-10 | 10y 2mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/ffb0faa1614285c3ef4080867af5ade4) | `gistfile1.txt` | 2016-06-07 | 10y 2mo ago |
-| [pod-with-readiness.yml](https://gist.github.com/dims/5c0a67b229f10a5bec7d0c32f27fb81d) | `pod-with-readiness.yml` | 2016-06-06 | 10y 2mo ago |
+| [pod-with-readiness.yml](https://gist.github.com/dims/5c0a67b229f10a5bec7d0c32f27fb81d) | `pod-with-readiness.yml` | 2016-06-06 | 10y 3mo ago |
 | [trystack.sh](https://gist.github.com/dims/f97b04b8c54182624468d4988bb5091e) | `trystack.sh` | 2016-05-06 | 10y 4mo ago |
 | [clean-kolla](https://gist.github.com/dims/f83ae173bcd20be6e172b52f95b17c5f) | `clean-kolla` | 2016-05-03 | 10y 4mo ago |
 | [Quick start Kubernetes in an OpenStack Environment](https://gist.github.com/dims/c39bdd07a471d72bac0abdf6f07409b6) | `kube-init.sh` +1 | 2016-04-21 | 10y 4mo ago |
@@ -292,7 +292,7 @@
 | [Scan the Nova "In Progress" Launchpad bugs for abandoned reviews](https://gist.github.com/dims/2ba347b79da3ccdc882a) | `gistfile1.txt` | 2015-02-12 | 10y 4mo ago |
 | [Bugs marked "In Progress" but no reviews](https://gist.github.com/dims/3de20e400b11af56fff7) | `parked_bugs.py` | 2016-03-04 | 10y 4mo ago |
 | [Kolla - /etc/kolla/globals.yml](https://gist.github.com/dims/04a046e7286f73a87274f2a7af37f752) | `globals.yml` | 2016-03-31 | 10y 5mo ago |
-| [gistfile1.txt](https://gist.github.com/dims/495a7f092fce52693d28) | `gistfile1.txt` | 2016-03-08 | 10y 5mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/495a7f092fce52693d28) | `gistfile1.txt` | 2016-03-08 | 10y 6mo ago |
 ## 📅 2015
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
