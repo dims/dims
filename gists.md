@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-09-08 12:02 UTC
+> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-09-08 18:02 UTC
 
 
 ## 📅 2026
@@ -48,10 +48,10 @@
 | [Containerd Dependency Analysis (v2.2.1) -- depstat](https://gist.github.com/dims/be341508bb077b30cfb38b6e45a7eac9) | `containerd-dep-analysis.md` +8 | 2026-02-08 | 6mo ago |
 | [etcd Dependency Analysis Report (depstat)](https://gist.github.com/dims/20fa8ab4fb1bbeef470d96228753677f) | `etcd-core-graph.svg` +10 | 2026-02-08 | 6mo ago |
 | [Super-Prompt: Comprehensive Dependency Analysis (Any Open Source Project)](https://gist.github.com/dims/e2d48230baea55251c6087ecd75f2986) | `depstat-superprompt.md` | 2026-02-11 | 6mo ago |
-| [PR 136826 dependency update review](https://gist.github.com/dims/ec5fca1afcf58e5cdcad297b19d8d127) | `pr-136826-structured-merge-diff-v6.3.2-review.md` | 2026-02-10 | 6mo ago |
-| [k8s kustomize v5.8.1 dependency update review](https://gist.github.com/dims/4c2aa34fe48e2727474bf2e5afa5d835) | `k8s-kustomize-v5.8.1-dep-review.md` | 2026-02-10 | 6mo ago |
-| [Prompt: Dependency Update Review (Go/Kubernetes-style)](https://gist.github.com/dims/2e6e0df576710a7cc7985ea6752a973e) | `prompt-dependency-update-review.md` | 2026-02-10 | 6mo ago |
-| [Review: Update go-openapi dependencies (jsonpointer, jsonreference, swag) - k8s PR #136819](https://gist.github.com/dims/31e0b95374981a8adf0d62b4c328d048) | `k8s-go-openapi-dep-update-review.md` | 2026-02-10 | 6mo ago |
+| [PR 136826 dependency update review](https://gist.github.com/dims/ec5fca1afcf58e5cdcad297b19d8d127) | `pr-136826-structured-merge-diff-v6.3.2-review.md` | 2026-02-10 | 7mo ago |
+| [k8s kustomize v5.8.1 dependency update review](https://gist.github.com/dims/4c2aa34fe48e2727474bf2e5afa5d835) | `k8s-kustomize-v5.8.1-dep-review.md` | 2026-02-10 | 7mo ago |
+| [Prompt: Dependency Update Review (Go/Kubernetes-style)](https://gist.github.com/dims/2e6e0df576710a7cc7985ea6752a973e) | `prompt-dependency-update-review.md` | 2026-02-10 | 7mo ago |
+| [Review: Update go-openapi dependencies (jsonpointer, jsonreference, swag) - k8s PR #136819](https://gist.github.com/dims/31e0b95374981a8adf0d62b4c328d048) | `k8s-go-openapi-dep-update-review.md` | 2026-02-10 | 7mo ago |
 | [verify-unwanted-deps-classification.sh](https://gist.github.com/dims/41e381da9d88158bc0975a6913903ec5) | `verify-unwanted-deps-classification.sh` | 2026-02-05 | 7mo ago |
 | [CNCF_New_Contributors_FAQ.md](https://gist.github.com/dims/d59332d36089040be17834dc2febb67f) | `CNCF_New_Contributors_FAQ.md` | 2025-12-06 | 7mo ago |
 | [Kubernetes AI Conformance Implementation Analysis](https://gist.github.com/dims/ff683f5db74dd843040c377f2d263606) | `k8s-ai-conformance-analysis.md` | 2026-01-29 | 7mo ago |
