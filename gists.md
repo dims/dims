@@ -1,13 +1,13 @@
 # 📝 Gists
 
-> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-09-18 06:02 UTC
+> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-09-18 12:02 UTC
 
 
 ## 📅 2026
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 20d ago |
+| [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 21d ago |
 | [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 1mo ago |
 | [copyconstruct-debugging: Claude Code skill for debugging tricky bugs (diagnosis before remedy, fail-first verification)](https://gist.github.com/dims/57ba15220f27e0ac16d0e2547f3ff3a6) | `README.md` +1 | 2026-07-30 | 1mo ago |
 | [Enroot, libnvidia-container, and a path to CDI — architecture notes and migration design](https://gist.github.com/dims/9e40f18a6959cb897528c7d966986f4b) | `2026-07-24-enroot-libnvidia-container-cdi.md` | 2026-07-24 | 1mo ago |
@@ -163,7 +163,7 @@
 | [Run local-up-cluster.sh with containerd](https://gist.github.com/dims/1a48ce1eefb6b36bdee73e02f1aac8ed) | `restart-k8s-containerd.sh` | 2021-09-16 | 5y ago |
 | [Run Kubernets conformance tests](https://gist.github.com/dims/ac3909fdef56fdb74193497c4124245a) | `README.md` +1 | 2021-08-11 | 5y 1mo ago |
 | [gcp-with-gpu.sh](https://gist.github.com/dims/89eaee983d6955c75ce5334f6c96c390) | `gcp-with-gpu.sh` | 2021-08-03 | 5y 1mo ago |
-| [experiment - kubeadm with cloud controller manager](https://gist.github.com/dims/d1d9b0b4108cdf67c4fe45af1865bbf4) | `10-kubeadm.conf` +2 | 2018-01-18 | 5y 1mo ago |
+| [experiment - kubeadm with cloud controller manager](https://gist.github.com/dims/d1d9b0b4108cdf67c4fe45af1865bbf4) | `10-kubeadm.conf` +2 | 2018-01-18 | 5y 2mo ago |
 | [jsonpath.md](https://gist.github.com/dims/902d4f4f8f894b40e2971f7696119d2a) | `jsonpath.md` | 2021-05-26 | 5y 3mo ago |
 | [deflaking.md](https://gist.github.com/dims/286caf7b1bdd2f52d5f231561ced5ba6) | `deflaking.md` +1 | 2021-04-30 | 5y 4mo ago |
 | [Test Kubernetes with a local build of containerd and runc](https://gist.github.com/dims/4fac086aee0358c4b3b9c05c7fbf2491) | `README.md` +1 | 2021-04-21 | 5y 5mo ago |
