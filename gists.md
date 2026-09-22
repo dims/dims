@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-09-22 12:02 UTC
+> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-09-22 18:02 UTC
 
 
 ## 📅 2026
@@ -23,13 +23,13 @@
 | [aicr (NVIDIA/aicr) — External Contributor & DCO-Hygiene Report (2026-06-03)](https://gist.github.com/dims/2cf425291ca5aff2ebd4ff0e9928250c) | `2026-06-03-aicr-external-contributors.md` | 2026-06-03 | 3mo ago |
 | [Agent Substrate — pluggable ateom backend: Firecracker (microVM). [1] PoC on bigbox, [2] design proposal, [3] implementation log.](https://gist.github.com/dims/4052cec310c68226fe8dc0a2477aa96f) | `1-2026-05-29-firecracker-ateom-poc-bigbox.md` +2 | 2026-05-29 | 3mo ago |
 | [Host-managed IMEX v2 design and operator guide](https://gist.github.com/dims/6a505ea49e5f9cc85fed0992932257d3) | `host-managed-imex-design-v2.md` +1 | 2026-05-28 | 3mo ago |
-| [helpdesk-intern-demo.sh](https://gist.github.com/dims/6b2e00d8fd669e0037538d1831a768c2) | `helpdesk-intern-demo.sh` | 2026-05-25 | 3mo ago |
+| [helpdesk-intern-demo.sh](https://gist.github.com/dims/6b2e00d8fd669e0037538d1831a768c2) | `helpdesk-intern-demo.sh` | 2026-05-25 | 4mo ago |
 | [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 4mo ago |
 | [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 4mo ago |
 | [K8s CI triage runbook + v3 flakes report + v3 failures report (2026-05-10)](https://gist.github.com/dims/7fe64acadf88530855de24d473e79aa7) | `2026-05-10-k8s-ci-failures-triage-v3.md` +2 | 2026-05-11 | 4mo ago |
 | [Kubernetes Security Findings — May 2026](https://gist.github.com/dims/2a19f6333c925f10c7998d631e7d6d4d) | `2026-05-05-kubernetes-security-findings.md` | 2026-05-05 | 4mo ago |
 | [kube-openapi PR #590 risk analysis: go-openapi/swag v0.23.0→v0.25.4 behavioral deep-dive](https://gist.github.com/dims/ecd681ea7d4748300d3b6203074e7d70) | `kube-openapi-pr590-risk-analysis.md` +1 | 2026-04-27 | 4mo ago |
-| [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | 4mo ago |
+| [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | 5mo ago |
 | [What k8s.io/constants enables — prioritized impact analysis (PR #135896)](https://gist.github.com/dims/b300dab0f65fddd66416b69818a21753) | `2026-04-23-constants-module-impact.md` | 2026-04-23 | 5mo ago |
 | [k8s.io staging module dependency graph (radial, api at center)](https://gist.github.com/dims/bde02986ddcad94b5514e7eb4e9ebff6) | `2026-04-23-k8s-staging-deps-radial.svg` | 2026-04-23 | 5mo ago |
 | [staging-module-dependency-analysis.md](https://gist.github.com/dims/d12d8097a424943de8ff2853330c549a) | `staging-module-dependency-analysis.md` +1 | 2025-12-03 | 5mo ago |
@@ -164,7 +164,7 @@
 | [Run Kubernets conformance tests](https://gist.github.com/dims/ac3909fdef56fdb74193497c4124245a) | `README.md` +1 | 2021-08-11 | 5y 1mo ago |
 | [gcp-with-gpu.sh](https://gist.github.com/dims/89eaee983d6955c75ce5334f6c96c390) | `gcp-with-gpu.sh` | 2021-08-03 | 5y 1mo ago |
 | [experiment - kubeadm with cloud controller manager](https://gist.github.com/dims/d1d9b0b4108cdf67c4fe45af1865bbf4) | `10-kubeadm.conf` +2 | 2018-01-18 | 5y 2mo ago |
-| [jsonpath.md](https://gist.github.com/dims/902d4f4f8f894b40e2971f7696119d2a) | `jsonpath.md` | 2021-05-26 | 5y 3mo ago |
+| [jsonpath.md](https://gist.github.com/dims/902d4f4f8f894b40e2971f7696119d2a) | `jsonpath.md` | 2021-05-26 | 5y 4mo ago |
 | [deflaking.md](https://gist.github.com/dims/286caf7b1bdd2f52d5f231561ced5ba6) | `deflaking.md` +1 | 2021-04-30 | 5y 4mo ago |
 | [Test Kubernetes with a local build of containerd and runc](https://gist.github.com/dims/4fac086aee0358c4b3b9c05c7fbf2491) | `README.md` +1 | 2021-04-21 | 5y 5mo ago |
 ## 📅 2020
@@ -217,7 +217,7 @@
 | [repost.md](https://gist.github.com/dims/7b36925f8a86d8151c14ea9863c2d7f9) | `repost.md` | 2018-06-04 | 8y 3mo ago |
 | [busybox-with-secret.yaml](https://gist.github.com/dims/d3be058f90fecec8a48c8f8e295cef71) | `busybox-with-secret.yaml` | 2018-04-18 | 8y 5mo ago |
 | [hound-app.yaml](https://gist.github.com/dims/2cf8363d91c95535eecd586f57ec0ccf) | `hound-app.yaml` | 2018-04-03 | 8y 5mo ago |
-| [restart-k8s.sh](https://gist.github.com/dims/e50a05a3c4226c10fc16ccacdcff86d8) | `restart-k8s.sh` | 2018-03-09 | 8y 5mo ago |
+| [restart-k8s.sh](https://gist.github.com/dims/e50a05a3c4226c10fc16ccacdcff86d8) | `restart-k8s.sh` | 2018-03-09 | 8y 6mo ago |
 | [kubetest.sh](https://gist.github.com/dims/033cffa467107bcac8df21e7db72d528) | `kubetest.sh` +1 | 2018-02-28 | 8y 6mo ago |
 | [latest-openstack-cinder-in-k8s.sh](https://gist.github.com/dims/d74d0f5d5354cccd67eefb563d756e93) | `latest-openstack-cinder-in-k8s.sh` | 2018-03-21 | 8y 6mo ago |
 | [rebranch-cloud-provider.txt](https://gist.github.com/dims/e6500387db7ac887eb0e57fd4eb2e8a2) | `rebranch-cloud-provider.txt` | 2018-01-13 | 8y 6mo ago |
