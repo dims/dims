@@ -1,17 +1,17 @@
 # 📝 Gists
 
-> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-10-15 00:04 UTC
+> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-10-15 06:02 UTC
 
 
 ## 📅 2026
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | today |
-| [Kubernetes dependency security analysis (latest: 2026-10-12) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | yesterday |
-| [Kubernetes unwanted vendor dependencies status — October 2026 (2026-10-12 edition)](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-10.md` +1 | 2026-04-26 | yesterday |
-| [Kubernetes Dependency Analysis (master 9e1cf9abaca vs v1.37.1, 2026-10-12) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | yesterday |
-| [Kubernetes Dependency Reduction Assessment (Oct 12, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | yesterday |
+| [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | yesterday |
+| [Kubernetes dependency security analysis (latest: 2026-10-12) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 2d ago |
+| [Kubernetes unwanted vendor dependencies status — October 2026 (2026-10-12 edition)](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-10.md` +1 | 2026-04-26 | 2d ago |
+| [Kubernetes Dependency Analysis (master 9e1cf9abaca vs v1.37.1, 2026-10-12) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | 2d ago |
+| [Kubernetes Dependency Reduction Assessment (Oct 12, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 2d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 1mo ago |
 | [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 2mo ago |
 | [copyconstruct-debugging: Claude Code skill for debugging tricky bugs (diagnosis before remedy, fail-first verification)](https://gist.github.com/dims/57ba15220f27e0ac16d0e2547f3ff3a6) | `README.md` +1 | 2026-07-30 | 2mo ago |
@@ -234,7 +234,7 @@
 | [nginx-cinder-all.yaml](https://gist.github.com/dims/ba202b11806d2e99004ac4ddc0c79e04) | `nginx-cinder-all.yaml` | 2017-11-27 | 8y 10mo ago |
 | [kubeadm.sh](https://gist.github.com/dims/3eeef40cb513d363bd84c5a63ce2f9ff) | `kubeadm.sh` | 2017-11-25 | 8y 10mo ago |
 | [new-vm-with-floating-ip.sh](https://gist.github.com/dims/155b8ee5c6e815d0e5d4a7116289f075) | `new-vm-with-floating-ip.sh` | 2017-11-22 | 8y 10mo ago |
-| [cloud.conf](https://gist.github.com/dims/5a349c93ae075c5947aa64bfbbd4bc91) | `cloud.conf` +3 | 2017-06-15 | 8y 10mo ago |
+| [cloud.conf](https://gist.github.com/dims/5a349c93ae075c5947aa64bfbbd4bc91) | `cloud.conf` +3 | 2017-06-15 | 8y 11mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/be96eb8024882098403708eb1f567184) | `gistfile1.txt` | 2017-11-16 | 8y 11mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/68829f0021a0acde846f29708da67d6b) | `gistfile1.txt` | 2017-11-02 | 8y 11mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/8dd5ef221d6a8b72f1e21a77548288ef) | `gistfile1.txt` | 2017-10-18 | 8y 12mo ago |
