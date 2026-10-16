@@ -1,16 +1,16 @@
 # 📝 Gists
 
-> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-10-16 12:02 UTC
+> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-10-16 18:02 UTC
 
 
 ## 📅 2026
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [Kubernetes unwanted vendor dependencies status — October 2026 (2026-10-15 edition)](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-10.md` +1 | 2026-04-26 | today |
-| [Kubernetes dependency security analysis (latest: 2026-10-15) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | today |
-| [Kubernetes Dependency Reduction Assessment (Oct 15, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | today |
-| [Kubernetes Dependency Analysis (master a0357b12119 vs v1.37.1, 2026-10-15) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | today |
+| [Kubernetes unwanted vendor dependencies status — October 2026 (2026-10-15 edition)](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-10.md` +1 | 2026-04-26 | yesterday |
+| [Kubernetes dependency security analysis (latest: 2026-10-15) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | yesterday |
+| [Kubernetes Dependency Reduction Assessment (Oct 15, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | yesterday |
+| [Kubernetes Dependency Analysis (master a0357b12119 vs v1.37.1, 2026-10-15) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | yesterday |
 | [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 2d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 1mo ago |
 | [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 2mo ago |
@@ -104,7 +104,7 @@
 | [Shows the name of the command running on each port on MacOS](https://gist.github.com/dims/d8069b1c27409f9130f815bc6075ee2d) | `gistfile1.txt` | 2024-08-13 | 2y 2mo ago |
 | [README.md](https://gist.github.com/dims/af1ce191b3d6e420128629061a10e518) | `README.md` +1 | 2024-08-11 | 2y 2mo ago |
 | [tune-kindnet.yaml](https://gist.github.com/dims/62a2eb5c1cf6e3473d2d7f54d3e33415) | `tune-kindnet.yaml` | 2024-07-22 | 2y 2mo ago |
-| [kubetest2-quick.sh](https://gist.github.com/dims/cbbcb80cf2ff21a1c6bea44380cd10f0) | `kubetest2-quick.sh` | 2024-07-18 | 2y 2mo ago |
+| [kubetest2-quick.sh](https://gist.github.com/dims/cbbcb80cf2ff21a1c6bea44380cd10f0) | `kubetest2-quick.sh` | 2024-07-18 | 2y 3mo ago |
 | [build-and-run-stress-tests.sh](https://gist.github.com/dims/89ef5a75dabd3d36c58cc9d4a1b9e188) | `build-and-run-stress-tests.sh` | 2024-07-05 | 2y 3mo ago |
 | [Run `eksdemo` / `kubetest2 ec2` and end to end tests](https://gist.github.com/dims/4bba3a390af3c553721b766f736efc07) | `run.sh` | 2024-07-03 | 2y 3mo ago |
 | [skip github action stale build checks](https://gist.github.com/dims/28d4be593eb4727d2089eff80e86a31e) | `skip.sh` | 2024-06-19 | 2y 3mo ago |
@@ -233,11 +233,11 @@
 | [config.json](https://gist.github.com/dims/5b9b8b6a11dbf6a96f787775f40a4746) | `config.json` | 2017-12-12 | 8y 10mo ago |
 | [nginx-cinder-all.yaml](https://gist.github.com/dims/ba202b11806d2e99004ac4ddc0c79e04) | `nginx-cinder-all.yaml` | 2017-11-27 | 8y 10mo ago |
 | [kubeadm.sh](https://gist.github.com/dims/3eeef40cb513d363bd84c5a63ce2f9ff) | `kubeadm.sh` | 2017-11-25 | 8y 10mo ago |
-| [new-vm-with-floating-ip.sh](https://gist.github.com/dims/155b8ee5c6e815d0e5d4a7116289f075) | `new-vm-with-floating-ip.sh` | 2017-11-22 | 8y 10mo ago |
+| [new-vm-with-floating-ip.sh](https://gist.github.com/dims/155b8ee5c6e815d0e5d4a7116289f075) | `new-vm-with-floating-ip.sh` | 2017-11-22 | 8y 11mo ago |
 | [cloud.conf](https://gist.github.com/dims/5a349c93ae075c5947aa64bfbbd4bc91) | `cloud.conf` +3 | 2017-06-15 | 8y 11mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/be96eb8024882098403708eb1f567184) | `gistfile1.txt` | 2017-11-16 | 8y 11mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/68829f0021a0acde846f29708da67d6b) | `gistfile1.txt` | 2017-11-02 | 8y 11mo ago |
-| [gistfile1.txt](https://gist.github.com/dims/8dd5ef221d6a8b72f1e21a77548288ef) | `gistfile1.txt` | 2017-10-18 | 8y 12mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/8dd5ef221d6a8b72f1e21a77548288ef) | `gistfile1.txt` | 2017-10-18 | 9y ago |
 | [gistfile1.txt](https://gist.github.com/dims/a275bce4f1f7e3a0bdb91a2dfb0a6ff3) | `gistfile1.txt` | 2017-09-22 | 9y ago |
 | [go2idl filter history](https://gist.github.com/dims/306a60ec02d1af863f4eceec4ac80adc) | `filter_git_history.sh` | 2016-08-29 | 9y 1mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/0d037811e906e335a69be7a70d17351e) | `gistfile1.txt` | 2017-08-31 | 9y 1mo ago |
@@ -275,7 +275,7 @@
 | [print_signals.py](https://gist.github.com/dims/c2b4d6fe80fb29984b480ba14d71fda8) | `print_signals.py` +1 | 2016-07-29 | 10y 2mo ago |
 | [a.go](https://gist.github.com/dims/f0c6bde28e764c049fc891e03b02cf93) | `a.go` | 2016-07-22 | 10y 2mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/6f16fb2c65d75c8be5c609c076b67b30) | `gistfile1.txt` | 2016-07-21 | 10y 2mo ago |
-| [gistfile1.txt](https://gist.github.com/dims/16ef3687d78e826c4328d802de1d00b9) | `gistfile1.txt` | 2016-07-20 | 10y 2mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/16ef3687d78e826c4328d802de1d00b9) | `gistfile1.txt` | 2016-07-20 | 10y 3mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/1a2a76ef1279b19a31d24926c0f9e5a7) | `gistfile1.txt` | 2016-07-15 | 10y 3mo ago |
 | [regit.sh](https://gist.github.com/dims/a28be63da4650b617be4a346eca271ff) | `regit.sh` | 2016-07-15 | 10y 3mo ago |
 | [extract-k8s-client.sh](https://gist.github.com/dims/a4e9e7a5db4058b09c70a305f5b73d6f) | `extract-k8s-client.sh` | 2016-07-12 | 10y 3mo ago |
@@ -286,7 +286,7 @@
 | [pod-with-readiness.yml](https://gist.github.com/dims/5c0a67b229f10a5bec7d0c32f27fb81d) | `pod-with-readiness.yml` | 2016-06-06 | 10y 4mo ago |
 | [trystack.sh](https://gist.github.com/dims/f97b04b8c54182624468d4988bb5091e) | `trystack.sh` | 2016-05-06 | 10y 5mo ago |
 | [clean-kolla](https://gist.github.com/dims/f83ae173bcd20be6e172b52f95b17c5f) | `clean-kolla` | 2016-05-03 | 10y 5mo ago |
-| [Quick start Kubernetes in an OpenStack Environment](https://gist.github.com/dims/c39bdd07a471d72bac0abdf6f07409b6) | `kube-init.sh` +1 | 2016-04-21 | 10y 5mo ago |
+| [Quick start Kubernetes in an OpenStack Environment](https://gist.github.com/dims/c39bdd07a471d72bac0abdf6f07409b6) | `kube-init.sh` +1 | 2016-04-21 | 10y 6mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/3f0d83cb6d2f0cd6751b9f92896b4fea) | `gistfile1.txt` | 2016-04-11 | 10y 6mo ago |
 | [untriagedbot.py](https://gist.github.com/dims/7289b48e58dadcd81123) | `untriagedbot.py` | 2014-09-20 | 10y 6mo ago |
 | [Scan the Nova "In Progress" Launchpad bugs for abandoned reviews](https://gist.github.com/dims/2ba347b79da3ccdc882a) | `gistfile1.txt` | 2015-02-12 | 10y 6mo ago |
@@ -298,7 +298,7 @@
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
 | [test.py](https://gist.github.com/dims/226218dd289857f6c933) | `test.py` | 2015-12-22 | 10y 10mo ago |
-| [diff2list](https://gist.github.com/dims/bd4144ab1d0f92f6fa50) | `diff2list` | 2015-10-19 | 10y 12mo ago |
+| [diff2list](https://gist.github.com/dims/bd4144ab1d0f92f6fa50) | `diff2list` | 2015-10-19 | 11y ago |
 | [gistfile1.txt](https://gist.github.com/dims/1238498) | `gistfile1.txt` | 2011-09-23 | 11y ago |
 | [x](https://gist.github.com/dims/10869) | `x` | 2008-09-15 | 11y 1mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/10865) | `gistfile1.txt` | 2008-09-15 | 11y 1mo ago |
