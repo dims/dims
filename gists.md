@@ -1,16 +1,16 @@
 # 📝 Gists
 
-> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-10-21 12:02 UTC
+> 🗂️ **283 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-10-21 18:02 UTC
 
 
 ## 📅 2026
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [Kubernetes unwanted vendor dependencies status — October 2026 (2026-10-15 edition)](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-10.md` +1 | 2026-04-26 | 5d ago |
-| [Kubernetes dependency security analysis (latest: 2026-10-15) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 5d ago |
-| [Kubernetes Dependency Reduction Assessment (Oct 15, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 5d ago |
-| [Kubernetes Dependency Analysis (master a0357b12119 vs v1.37.1, 2026-10-15) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | 5d ago |
+| [Kubernetes unwanted vendor dependencies status — October 2026 (2026-10-15 edition)](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-10.md` +1 | 2026-04-26 | 6d ago |
+| [Kubernetes dependency security analysis (latest: 2026-10-15) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 6d ago |
+| [Kubernetes Dependency Reduction Assessment (Oct 15, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 6d ago |
+| [Kubernetes Dependency Analysis (master a0357b12119 vs v1.37.1, 2026-10-15) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | 6d ago |
 | [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 7d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 1mo ago |
 | [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 2mo ago |
@@ -143,7 +143,7 @@
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
 | [Use](https://gist.github.com/dims/9fe24682dc92a9f9f057ec44ec64bfbd) | `migrate-jobs.sh` | 2022-12-06 | 3y 10mo ago |
-| [Map of Dependencies - README.md](https://gist.github.com/dims/7eb66bbed03f349f092b31dabd1bdd47) | `Map of Dependencies - README.md` +1 | 2022-11-26 | 3y 10mo ago |
+| [Map of Dependencies - README.md](https://gist.github.com/dims/7eb66bbed03f349f092b31dabd1bdd47) | `Map of Dependencies - README.md` +1 | 2022-11-26 | 3y 11mo ago |
 | [README.md](https://gist.github.com/dims/3a416e0d83741cf8f31943f99cf1c7ee) | `README.md` +2 | 2021-03-17 | 4y ago |
 | [Fetch info from devstats](https://gist.github.com/dims/37ddc99b5af3ec8e6f93e025cd171607) | `README.md` +1 | 2022-08-10 | 4y 2mo ago |
 | [repro-go-1-19-bug.sh](https://gist.github.com/dims/be878acba64e57a401c4df43b6f87fe7) | `repro-go-1-19-bug.sh` | 2022-07-21 | 4y 3mo ago |
