@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-10-22 00:04 UTC
+> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-10-22 06:03 UTC
 
 
 ## 📅 2026
@@ -12,7 +12,7 @@
 | [Kubernetes dependency security analysis (latest: 2026-10-15) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 6d ago |
 | [Kubernetes Dependency Reduction Assessment (Oct 15, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 6d ago |
 | [Kubernetes Dependency Analysis (master a0357b12119 vs v1.37.1, 2026-10-15) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | 6d ago |
-| [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 7d ago |
+| [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 8d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 1mo ago |
 | [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 2mo ago |
 | [copyconstruct-debugging: Claude Code skill for debugging tricky bugs (diagnosis before remedy, fail-first verification)](https://gist.github.com/dims/57ba15220f27e0ac16d0e2547f3ff3a6) | `README.md` +1 | 2026-07-30 | 2mo ago |
@@ -188,7 +188,7 @@
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [cluster-api-provider-gcp cheat sheet](https://gist.github.com/dims/4c989521f2f0941df42d9f69da93e94a) | `gcp.sh` | 2019-09-17 | 6y 10mo ago |
+| [cluster-api-provider-gcp cheat sheet](https://gist.github.com/dims/4c989521f2f0941df42d9f69da93e94a) | `gcp.sh` | 2019-09-17 | 6y 11mo ago |
 | [restart-aws.sh](https://gist.github.com/dims/1fc2c84c5d1d53237270c56952477b01) | `restart-aws.sh` | 2019-11-01 | 6y 11mo ago |
 | [Mesos-Marathon-Quick-Start.md](https://gist.github.com/dims/7ad86fb2ec12c91a4672) | `Mesos-Marathon-Quick-Start.md` | 2016-03-25 | 7y 4mo ago |
 | [get-goimport.sh](https://gist.github.com/dims/cd418158f4f0e47ab2be527a6d2fbad0) | `get-goimport.sh` +1 | 2019-05-20 | 7y 5mo ago |
