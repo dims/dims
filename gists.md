@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-10-23 00:04 UTC
+> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-10-23 06:02 UTC
 
 
 ## 📅 2026
@@ -12,7 +12,7 @@
 | [Kubernetes dependency security analysis (latest: 2026-10-15) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 7d ago |
 | [Kubernetes Dependency Reduction Assessment (Oct 15, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 7d ago |
 | [Kubernetes Dependency Analysis (master a0357b12119 vs v1.37.1, 2026-10-15) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | 7d ago |
-| [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 8d ago |
+| [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 9d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 1mo ago |
 | [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 2mo ago |
 | [copyconstruct-debugging: Claude Code skill for debugging tricky bugs (diagnosis before remedy, fail-first verification)](https://gist.github.com/dims/57ba15220f27e0ac16d0e2547f3ff3a6) | `README.md` +1 | 2026-07-30 | 2mo ago |
@@ -96,7 +96,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/f71271782f8840cf5c9973d7213a505c) | `gistfile1.txt` | 2024-11-07 | 1y 11mo ago |
 | [get-tag](https://gist.github.com/dims/8abfcc815cddc9148b6d21a982e14267) | `get-tag` +2 | 2024-10-31 | 1y 11mo ago |
 | [cac4k8s-README.md](https://gist.github.com/dims/28f82eb9b9d2394c6aa49e5ac7788721) | `cac4k8s-README.md` | 2024-10-30 | 1y 11mo ago |
-| [kubekins-with-docker.sh](https://gist.github.com/dims/2ce24579c60fd71400696251fda6c6a5) | `kubekins-with-docker.sh` +2 | 2019-08-26 | 2y ago |
+| [kubekins-with-docker.sh](https://gist.github.com/dims/2ce24579c60fd71400696251fda6c6a5) | `kubekins-with-docker.sh` +2 | 2019-08-26 | 2y 1mo ago |
 | [Notes from running kubetest2 ec2 with nvidia](https://gist.github.com/dims/6d3ffbdcdaf2b894e8eb8e7b5c5c3d14) | `nvi.sh` +2 | 2024-03-04 | 2y 1mo ago |
 | [unwanted-dependencies.json](https://gist.github.com/dims/030edac5dbd158eed83bd8b3f906e93d) | `unwanted-dependencies.json` | 2024-09-05 | 2y 1mo ago |
 | [perma-failures.md](https://gist.github.com/dims/466a4dec07a27eae9db41b30301b7fe3) | `perma-failures.md` | 2024-09-04 | 2y 1mo ago |
@@ -182,7 +182,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/ec84055b6354f2b2beea2196e28770d5) | `gistfile1.txt` | 2020-04-09 | 6y 6mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/bab84dfeaf682237c17683f95be006e7) | `gistfile1.txt` | 2020-04-17 | 6y 6mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/2887a832fbbd4f6e0acfdfa2c4453b66) | `gistfile1.txt` | 2020-04-13 | 6y 6mo ago |
-| [Expect script for logging into VPN using Anyconnect client (works on osx and linux)](https://gist.github.com/dims/59be0c075f29e7ec26a8) | `gistfile1.txt` | 2014-06-02 | 6y 8mo ago |
+| [Expect script for logging into VPN using Anyconnect client (works on osx and linux)](https://gist.github.com/dims/59be0c075f29e7ec26a8) | `gistfile1.txt` | 2014-06-02 | 6y 9mo ago |
 | [Find folks who are overloaded](https://gist.github.com/dims/2ca0f0031ee195a0cb750bdeb3b3a710) | `README.txt` +2 | 2020-01-24 | 6y 9mo ago |
 ## 📅 2019
 
@@ -206,7 +206,7 @@
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [oslo.config + oslo.log sample](https://gist.github.com/dims/19cb6ee280c3177fbf52) | `app.py` +1 | 2015-03-17 | 7y 9mo ago |
+| [oslo.config + oslo.log sample](https://gist.github.com/dims/19cb6ee280c3177fbf52) | `app.py` +1 | 2015-03-17 | 7y 10mo ago |
 | [Use existing in-tree cinder provider with openstack external cloud provider](https://gist.github.com/dims/3a9507a5be59a446d2d76c7b9ca84a49) | `external-cloud-provider-cinder-integration.md` | 2018-12-19 | 7y 10mo ago |
 | [kubeadm.txt](https://gist.github.com/dims/3914bdfb0ebde52ea0118a237a4d90b9) | `kubeadm.txt` | 2017-11-29 | 8y ago |
 | [cloudlab.txt](https://gist.github.com/dims/a5081982e7b6efa273af95593c110cc8) | `cloudlab.txt` | 2017-11-29 | 8y ago |
@@ -230,7 +230,7 @@
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [gistfile1.txt](https://gist.github.com/dims/35b249bf106bcabc900e9dfd6d5cfdb2) | `gistfile1.txt` | 2017-12-29 | 8y 9mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/35b249bf106bcabc900e9dfd6d5cfdb2) | `gistfile1.txt` | 2017-12-29 | 8y 10mo ago |
 | [config.json](https://gist.github.com/dims/5b9b8b6a11dbf6a96f787775f40a4746) | `config.json` | 2017-12-12 | 8y 10mo ago |
 | [nginx-cinder-all.yaml](https://gist.github.com/dims/ba202b11806d2e99004ac4ddc0c79e04) | `nginx-cinder-all.yaml` | 2017-11-27 | 8y 11mo ago |
 | [kubeadm.sh](https://gist.github.com/dims/3eeef40cb513d363bd84c5a63ce2f9ff) | `kubeadm.sh` | 2017-11-25 | 8y 11mo ago |
