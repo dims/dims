@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-10-25 00:04 UTC
+> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-10-25 06:02 UTC
 
 
 ## 📅 2026
@@ -12,7 +12,7 @@
 | [Kubernetes dependency security analysis (latest: 2026-10-15) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 9d ago |
 | [Kubernetes Dependency Reduction Assessment (Oct 15, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 9d ago |
 | [Kubernetes Dependency Analysis (master a0357b12119 vs v1.37.1, 2026-10-15) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | 9d ago |
-| [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 10d ago |
+| [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 11d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 1mo ago |
 | [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 2mo ago |
 | [copyconstruct-debugging: Claude Code skill for debugging tricky bugs (diagnosis before remedy, fail-first verification)](https://gist.github.com/dims/57ba15220f27e0ac16d0e2547f3ff3a6) | `README.md` +1 | 2026-07-30 | 2mo ago |
@@ -135,7 +135,7 @@
 | [README.md](https://gist.github.com/dims/9ac9193c5988ecbaa7071e6730162b5a) | `README.md` +2 | 2023-06-09 | 3y 4mo ago |
 | [main.json](https://gist.github.com/dims/2f400d09b8deb931da6f1d498aba8c07) | `R_kgDOHDwlIw.json` +1 | 2023-05-24 | 3y 5mo ago |
 | [run exactly what runs in local-up / presubmit job](https://gist.github.com/dims/3c83730c99f61e36b8dd2d61abe68fe7) | `peel-the-onion.sh` | 2023-05-10 | 3y 5mo ago |
-| [Identify big files locally](https://gist.github.com/dims/0db7bbaabcc2df0d803dcb74dc4ad440) | `Identify big files locally` | 2023-04-29 | 3y 5mo ago |
+| [Identify big files locally](https://gist.github.com/dims/0db7bbaabcc2df0d803dcb74dc4ad440) | `Identify big files locally` | 2023-04-29 | 3y 6mo ago |
 | [update-cla-for-k8s.sh](https://gist.github.com/dims/b4337c51e65e6e3e9f27c5aa610ae938) | `update-cla-for-k8s.sh` | 2021-02-19 | 3y 7mo ago |
 | [big query sql](https://gist.github.com/dims/f1fd6d6801e533f520d4d06659d601d4) | `bigquery.sql` | 2023-02-28 | 3y 7mo ago |
 | [local-docker-registry.sh](https://gist.github.com/dims/4d6b7894b1f29f43a25e72f0931c8d6b) | `local-docker-registry.sh` | 2018-09-12 | 3y 8mo ago |
