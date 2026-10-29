@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-10-29 12:01 UTC
+> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-10-29 18:01 UTC
 
 
 ## 📅 2026
@@ -8,10 +8,10 @@
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
 | [How `k8s.io` and `sigs.k8s.io` Serve Go Vanity Imports](https://gist.github.com/dims/dd78680b549aca38dd60ec0c8a2c6200) | `vanity.md` | 2026-10-21 | 7d ago |
-| [Kubernetes unwanted vendor dependencies status — October 2026 (2026-10-15 edition)](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-10.md` +1 | 2026-04-26 | 13d ago |
-| [Kubernetes dependency security analysis (latest: 2026-10-15) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 13d ago |
-| [Kubernetes Dependency Reduction Assessment (Oct 15, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 13d ago |
-| [Kubernetes Dependency Analysis (master a0357b12119 vs v1.37.1, 2026-10-15) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | 13d ago |
+| [Kubernetes unwanted vendor dependencies status — October 2026 (2026-10-15 edition)](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-10.md` +1 | 2026-04-26 | 14d ago |
+| [Kubernetes dependency security analysis (latest: 2026-10-15) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 14d ago |
+| [Kubernetes Dependency Reduction Assessment (Oct 15, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 14d ago |
+| [Kubernetes Dependency Analysis (master a0357b12119 vs v1.37.1, 2026-10-15) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | 14d ago |
 | [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 15d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 2mo ago |
 | [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 2mo ago |
@@ -195,7 +195,7 @@
 | [keybase.md](https://gist.github.com/dims/a9db787f80d14525cf402cdf6ce44a51) | `keybase.md` | 2019-05-06 | 7y 5mo ago |
 | [release-cloud-provider-openstack.md](https://gist.github.com/dims/cefbdcfbacf867c315c119d7a2491c05) | `release-cloud-provider-openstack.md` | 2018-05-17 | 7y 6mo ago |
 | [Use the Developer Activity Counts by Repository Group dashboard to find stale reviewers and approvers](https://gist.github.com/dims/3261edf075660ad1bf5c338b8794c21b) | `detect-inactive-folks-in-owners-files.sh` | 2019-04-08 | 7y 6mo ago |
-| [gistfile1.txt](https://gist.github.com/dims/710677270d9cfba747322e1bcc02e43d) | `gistfile1.txt` | 2019-04-04 | 7y 6mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/710677270d9cfba747322e1bcc02e43d) | `gistfile1.txt` | 2019-04-04 | 7y 7mo ago |
 | [deps.py](https://gist.github.com/dims/dcd1880aef24db6e85d733f3708af890) | `deps.py` +1 | 2018-10-13 | 7y 8mo ago |
 | [sanitize-import-boss.py](https://gist.github.com/dims/384dea60754042f61d79233603034038) | `sanitize-import-boss.py` | 2019-02-11 | 7y 8mo ago |
 | [[TEMP] Deploy k8s-keystone-auth](https://gist.github.com/dims/072d4a515db614d428d0a544f39d0150) | `k8s-keystone-auth.md` | 2019-02-06 | 7y 8mo ago |
@@ -245,7 +245,7 @@
 | [restart-k8s.sh](https://gist.github.com/dims/d963e786f7a6c9d6874b76b6d30f3190) | `restart-k8s.sh` | 2017-08-29 | 9y 2mo ago |
 | [docker-vol-test.sh](https://gist.github.com/dims/9c27674a06f794dcd2e1362bc0bc374f) | `docker-vol-test.sh` | 2017-08-18 | 9y 2mo ago |
 | [service.py](https://gist.github.com/dims/fb1cfe6b8fd8e9fed87b6cf35aec189b) | `service.py` | 2017-08-08 | 9y 2mo ago |
-| [quick_start_vault.txt](https://gist.github.com/dims/47674cf2c3b0a953df69246c2ea1ff78) | `quick_start_vault.txt` | 2017-08-02 | 9y 2mo ago |
+| [quick_start_vault.txt](https://gist.github.com/dims/47674cf2c3b0a953df69246c2ea1ff78) | `quick_start_vault.txt` | 2017-08-02 | 9y 3mo ago |
 | [README.txt](https://gist.github.com/dims/ea6d11d56f42ba88999bfa85bd3ee257) | `README.txt` +2 | 2017-07-25 | 9y 3mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/73ffb42fc1f24065473ab87829761bb8) | `gistfile1.txt` +1 | 2017-07-11 | 9y 3mo ago |
 | [Kubernetes FlexVolume Driver POC for OpenStack Cinder](https://gist.github.com/dims/ad5afbd657014b0bba17b40228cba32e) | `cinder.sh` +2 | 2017-05-09 | 9y 5mo ago |
@@ -266,7 +266,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/c0c2fb8030f62266a34f2b05318f182a) | `gistfile1.txt` | 2016-12-15 | 9y 10mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/85cf89856beea7a566d21a28357a48eb) | `gistfile1.txt` | 2016-12-15 | 9y 10mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/9492a27046bf3f02c2f3e8b882e69d25) | `gistfile1.txt` | 2016-12-14 | 9y 10mo ago |
-| [gistfile1.txt](https://gist.github.com/dims/067cde4be936b7a9046cd786c6422e51) | `gistfile1.txt` | 2016-12-05 | 9y 10mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/067cde4be936b7a9046cd786c6422e51) | `gistfile1.txt` | 2016-12-05 | 9y 11mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/c70ff295d1f6e4f4e5efee00646e4847) | `gistfile1.txt` | 2016-11-24 | 9y 11mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/47955e16bca1eac1a177d865b5a5646f) | `gistfile1.txt` | 2016-11-19 | 9y 11mo ago |
 | [Simple mod_wsgi sample](https://gist.github.com/dims/4dfbac57efabb7631da4) | `001-myweb.conf` +1 | 2015-09-18 | 9y 11mo ago |
