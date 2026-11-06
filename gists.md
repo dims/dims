@@ -1,16 +1,16 @@
 # 📝 Gists
 
-> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-05 18:01 UTC
+> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-06 00:03 UTC
 
 
 ## 📅 2026
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [Kubernetes unwanted vendor dependencies status — October 2026 (2026-10-31 edition)](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-10.md` +1 | 2026-04-26 | 4d ago |
-| [Kubernetes Dependency Reduction Assessment (Oct 31, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 4d ago |
-| [Kubernetes Dependency Analysis (master 3c690c189e5 vs v1.37.2, 2026-10-31) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | 4d ago |
-| [How `k8s.io` and `sigs.k8s.io` Serve Go Vanity Imports](https://gist.github.com/dims/dd78680b549aca38dd60ec0c8a2c6200) | `vanity.md` | 2026-10-21 | 14d ago |
+| [Kubernetes unwanted vendor dependencies status — October 2026 (2026-10-31 edition)](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-10.md` +1 | 2026-04-26 | 5d ago |
+| [Kubernetes Dependency Reduction Assessment (Oct 31, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 5d ago |
+| [Kubernetes Dependency Analysis (master 3c690c189e5 vs v1.37.2, 2026-10-31) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | 5d ago |
+| [How `k8s.io` and `sigs.k8s.io` Serve Go Vanity Imports](https://gist.github.com/dims/dd78680b549aca38dd60ec0c8a2c6200) | `vanity.md` | 2026-10-21 | 15d ago |
 | [Kubernetes dependency security analysis (latest: 2026-10-15) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 21d ago |
 | [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 22d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 2mo ago |
@@ -151,7 +151,7 @@
 | [Dims' gmail filters](https://gist.github.com/dims/c3f45c3158e883600f988d7a767fe16b) | `mailFilters.xml` | 2022-06-25 | 4y 4mo ago |
 | [gcp-quick-start.md](https://gist.github.com/dims/19fff66f27445c5c1f0e0195e203afef) | `gcp-quick-start.md` | 2021-10-25 | 4y 4mo ago |
 | [Script to help filter out api/ directory to publish to another repo (containerd)](https://gist.github.com/dims/62ad31ba8e48ff0b4bcf63ae4365bd49) | `grab-api-into-new-repo.sh` | 2022-02-16 | 4y 5mo ago |
-| [Experiment with Kubernetes with a custom Docker Image](https://gist.github.com/dims/aafc4b23c6653402f056d5c185fd6cf9) | `Dockerfile` +2 | 2016-04-14 | 4y 5mo ago |
+| [Experiment with Kubernetes with a custom Docker Image](https://gist.github.com/dims/aafc4b23c6653402f056d5c185fd6cf9) | `Dockerfile` +2 | 2016-04-14 | 4y 6mo ago |
 | [verify-licenses.sh](https://gist.github.com/dims/44dde0e640adbb553fd9f5d7fde3181b) | `verify-licenses.sh` | 2022-04-08 | 4y 7mo ago |
 | [Scripts to do a audit for tags created by publishing-bot](https://gist.github.com/dims/c53716ab4272a4b87da99b2f174923f5) | `download.sh` +1 | 2022-03-19 | 4y 7mo ago |
 ## 📅 2021
@@ -231,7 +231,7 @@
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
 | [gistfile1.txt](https://gist.github.com/dims/35b249bf106bcabc900e9dfd6d5cfdb2) | `gistfile1.txt` | 2017-12-29 | 8y 10mo ago |
-| [config.json](https://gist.github.com/dims/5b9b8b6a11dbf6a96f787775f40a4746) | `config.json` | 2017-12-12 | 8y 10mo ago |
+| [config.json](https://gist.github.com/dims/5b9b8b6a11dbf6a96f787775f40a4746) | `config.json` | 2017-12-12 | 8y 11mo ago |
 | [nginx-cinder-all.yaml](https://gist.github.com/dims/ba202b11806d2e99004ac4ddc0c79e04) | `nginx-cinder-all.yaml` | 2017-11-27 | 8y 11mo ago |
 | [kubeadm.sh](https://gist.github.com/dims/3eeef40cb513d363bd84c5a63ce2f9ff) | `kubeadm.sh` | 2017-11-25 | 8y 11mo ago |
 | [new-vm-with-floating-ip.sh](https://gist.github.com/dims/155b8ee5c6e815d0e5d4a7116289f075) | `new-vm-with-floating-ip.sh` | 2017-11-22 | 8y 11mo ago |
