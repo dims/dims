@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-07 00:03 UTC
+> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-07 06:01 UTC
 
 
 ## 📅 2026
@@ -12,7 +12,7 @@
 | [Kubernetes Dependency Analysis (master 3c690c189e5 vs v1.37.2, 2026-10-31) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | 6d ago |
 | [How `k8s.io` and `sigs.k8s.io` Serve Go Vanity Imports](https://gist.github.com/dims/dd78680b549aca38dd60ec0c8a2c6200) | `vanity.md` | 2026-10-21 | 16d ago |
 | [Kubernetes dependency security analysis (latest: 2026-10-15) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 22d ago |
-| [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 23d ago |
+| [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 24d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 2mo ago |
 | [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 3mo ago |
 | [copyconstruct-debugging: Claude Code skill for debugging tricky bugs (diagnosis before remedy, fail-first verification)](https://gist.github.com/dims/57ba15220f27e0ac16d0e2547f3ff3a6) | `README.md` +1 | 2026-07-30 | 3mo ago |
@@ -27,7 +27,7 @@
 | [helpdesk-intern-demo.sh](https://gist.github.com/dims/6b2e00d8fd669e0037538d1831a768c2) | `helpdesk-intern-demo.sh` | 2026-05-25 | 5mo ago |
 | [nvsentinel-external-contributors.md](https://gist.github.com/dims/a220b23ffe5b6fb2a705fa6709f64245) | `nvsentinel-external-contributors.md` +1 | 2026-03-02 | 5mo ago |
 | [dra-driver-nvidia-gpu — External Contributor Report (2026-05-11)](https://gist.github.com/dims/e109efa0c92e6465d90e02155fcb39e3) | `2026-05-11-dra-driver-nvidia-gpu-external-contributors.md` | 2026-05-11 | 5mo ago |
-| [K8s CI triage runbook + v3 flakes report + v3 failures report (2026-05-10)](https://gist.github.com/dims/7fe64acadf88530855de24d473e79aa7) | `2026-05-10-k8s-ci-failures-triage-v3.md` +2 | 2026-05-11 | 5mo ago |
+| [K8s CI triage runbook + v3 flakes report + v3 failures report (2026-05-10)](https://gist.github.com/dims/7fe64acadf88530855de24d473e79aa7) | `2026-05-10-k8s-ci-failures-triage-v3.md` +2 | 2026-05-11 | 6mo ago |
 | [Kubernetes Security Findings — May 2026](https://gist.github.com/dims/2a19f6333c925f10c7998d631e7d6d4d) | `2026-05-05-kubernetes-security-findings.md` | 2026-05-05 | 6mo ago |
 | [kube-openapi PR #590 risk analysis: go-openapi/swag v0.23.0→v0.25.4 behavioral deep-dive](https://gist.github.com/dims/ecd681ea7d4748300d3b6203074e7d70) | `kube-openapi-pr590-risk-analysis.md` +1 | 2026-04-27 | 6mo ago |
 | [Kubernetes thermal masking regression analysis and runc shared-tmpfs fix](https://gist.github.com/dims/bd766118ae32d646ea9f127ac51c3054) | `k8s-thermal-masking-full-analysis.md` | 2026-04-25 | 6mo ago |
@@ -271,7 +271,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/47955e16bca1eac1a177d865b5a5646f) | `gistfile1.txt` | 2016-11-19 | 9y 11mo ago |
 | [Simple mod_wsgi sample](https://gist.github.com/dims/4dfbac57efabb7631da4) | `001-myweb.conf` +1 | 2015-09-18 | 9y 11mo ago |
 | [go_test_cmd_line.sh](https://gist.github.com/dims/f56feb77c7c0212c0165588a5690b08c) | `go_test_cmd_line.sh` | 2016-11-09 | 9y 12mo ago |
-| [make_with_test.sh](https://gist.github.com/dims/8caefc8f2e5aa5c93cff28f06e642f98) | `make_with_test.sh` | 2016-11-09 | 9y 12mo ago |
+| [make_with_test.sh](https://gist.github.com/dims/8caefc8f2e5aa5c93cff28f06e642f98) | `make_with_test.sh` | 2016-11-09 | 10y ago |
 | [gistfile1.txt](https://gist.github.com/dims/6d24d32830921d061a3a85a320705c77) | `gistfile1.txt` | 2016-08-02 | 10y 3mo ago |
 | [print_signals.py](https://gist.github.com/dims/c2b4d6fe80fb29984b480ba14d71fda8) | `print_signals.py` +1 | 2016-07-29 | 10y 3mo ago |
 | [a.go](https://gist.github.com/dims/f0c6bde28e764c049fc891e03b02cf93) | `a.go` | 2016-07-22 | 10y 3mo ago |
