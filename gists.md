@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-09 12:01 UTC
+> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-09 18:01 UTC
 
 
 ## 📅 2026
@@ -11,7 +11,7 @@
 | [Kubernetes Dependency Reduction Assessment (Oct 31, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 8d ago |
 | [Kubernetes Dependency Analysis (master 3c690c189e5 vs v1.37.2, 2026-10-31) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | 8d ago |
 | [How `k8s.io` and `sigs.k8s.io` Serve Go Vanity Imports](https://gist.github.com/dims/dd78680b549aca38dd60ec0c8a2c6200) | `vanity.md` | 2026-10-21 | 18d ago |
-| [Kubernetes dependency security analysis (latest: 2026-10-15) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 24d ago |
+| [Kubernetes dependency security analysis (latest: 2026-10-15) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 25d ago |
 | [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 26d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 2mo ago |
 | [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 3mo ago |
@@ -236,7 +236,7 @@
 | [kubeadm.sh](https://gist.github.com/dims/3eeef40cb513d363bd84c5a63ce2f9ff) | `kubeadm.sh` | 2017-11-25 | 8y 11mo ago |
 | [new-vm-with-floating-ip.sh](https://gist.github.com/dims/155b8ee5c6e815d0e5d4a7116289f075) | `new-vm-with-floating-ip.sh` | 2017-11-22 | 8y 11mo ago |
 | [cloud.conf](https://gist.github.com/dims/5a349c93ae075c5947aa64bfbbd4bc91) | `cloud.conf` +3 | 2017-06-15 | 8y 11mo ago |
-| [gistfile1.txt](https://gist.github.com/dims/be96eb8024882098403708eb1f567184) | `gistfile1.txt` | 2017-11-16 | 8y 11mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/be96eb8024882098403708eb1f567184) | `gistfile1.txt` | 2017-11-16 | 8y 12mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/68829f0021a0acde846f29708da67d6b) | `gistfile1.txt` | 2017-11-02 | 9y ago |
 | [gistfile1.txt](https://gist.github.com/dims/8dd5ef221d6a8b72f1e21a77548288ef) | `gistfile1.txt` | 2017-10-18 | 9y ago |
 | [gistfile1.txt](https://gist.github.com/dims/a275bce4f1f7e3a0bdb91a2dfb0a6ff3) | `gistfile1.txt` | 2017-09-22 | 9y 1mo ago |
@@ -257,7 +257,7 @@
 | [gistfile1.txt](https://gist.github.com/dims/6df88e8ef163079e335963c1f23eac0e) | `gistfile1.txt` | 2017-02-28 | 9y 8mo ago |
 | [RabbitMQ cheat sheet](https://gist.github.com/dims/0bad31d9a0c02e5b1b9d) | `gistfile1.txt` | 2015-06-09 | 9y 8mo ago |
 | [zuulfailures.py](https://gist.github.com/dims/54b391bd5964d3d208113b16766ea85e) | `zuulfailures.py` | 2017-01-31 | 9y 9mo ago |
-| [gistfile1.txt](https://gist.github.com/dims/05fced10d374a04bb366c0536481dfa5) | `gistfile1.txt` | 2017-01-15 | 9y 9mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/05fced10d374a04bb366c0536481dfa5) | `gistfile1.txt` | 2017-01-15 | 9y 10mo ago |
 | [zuulfailures.py](https://gist.github.com/dims/7286bf3db9d6b4c0f73994db46aa3681) | `zuulfailures.py` | 2017-01-12 | 9y 10mo ago |
 ## 📅 2016
 
