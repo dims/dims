@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-11 00:03 UTC
+> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-11 06:01 UTC
 
 
 ## 📅 2026
@@ -12,7 +12,7 @@
 | [Kubernetes Dependency Reduction Assessment (Nov 10, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | today |
 | [Kubernetes Dependency Analysis (master 8f4e62e268d vs v1.37.2, 2026-11-10) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | today |
 | [How `k8s.io` and `sigs.k8s.io` Serve Go Vanity Imports](https://gist.github.com/dims/dd78680b549aca38dd60ec0c8a2c6200) | `vanity.md` | 2026-10-21 | 20d ago |
-| [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 27d ago |
+| [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 28d ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 2mo ago |
 | [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 3mo ago |
 | [copyconstruct-debugging: Claude Code skill for debugging tricky bugs (diagnosis before remedy, fail-first verification)](https://gist.github.com/dims/57ba15220f27e0ac16d0e2547f3ff3a6) | `README.md` +1 | 2026-07-30 | 3mo ago |
@@ -102,7 +102,7 @@
 | [perma-failures.md](https://gist.github.com/dims/466a4dec07a27eae9db41b30301b7fe3) | `perma-failures.md` | 2024-09-04 | 2y 2mo ago |
 | [v1.31 API generation](https://gist.github.com/dims/8d26414de71d46d44c8d7f1498eedd69) | `fields.yaml` +2 | 2024-08-17 | 2y 2mo ago |
 | [clean-pods-and-containers.sh](https://gist.github.com/dims/6ff28fb745487453f441f96ced4232d6) | `clean-pods-and-containers.sh` +3 | 2024-08-13 | 2y 2mo ago |
-| [Shows the name of the command running on each port on MacOS](https://gist.github.com/dims/d8069b1c27409f9130f815bc6075ee2d) | `gistfile1.txt` | 2024-08-13 | 2y 2mo ago |
+| [Shows the name of the command running on each port on MacOS](https://gist.github.com/dims/d8069b1c27409f9130f815bc6075ee2d) | `gistfile1.txt` | 2024-08-13 | 2y 3mo ago |
 | [README.md](https://gist.github.com/dims/af1ce191b3d6e420128629061a10e518) | `README.md` +1 | 2024-08-11 | 2y 3mo ago |
 | [tune-kindnet.yaml](https://gist.github.com/dims/62a2eb5c1cf6e3473d2d7f54d3e33415) | `tune-kindnet.yaml` | 2024-07-22 | 2y 3mo ago |
 | [kubetest2-quick.sh](https://gist.github.com/dims/cbbcb80cf2ff21a1c6bea44380cd10f0) | `kubetest2-quick.sh` | 2024-07-18 | 2y 3mo ago |
@@ -112,7 +112,7 @@
 | [verify-repos.sh](https://gist.github.com/dims/9aeeacb7619865eb4bbb68a86165881d) | `verify-repos.sh` +1 | 2024-04-04 | 2y 7mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/c59aa91dad40b0fa5679d58a1ac523d1) | `gistfile1.txt` | 2019-04-02 | 2y 7mo ago |
 | [try-1.12-rc2.sh](https://gist.github.com/dims/c8af7518fc8ea73d707dac12055d6663) | `try-1.12-rc2.sh` | 2018-09-20 | 2y 7mo ago |
-| [Dockerfile.bash-static](https://gist.github.com/dims/34c53ccaabe81ca65399677645e7a2db) | `Dockerfile.bash-static` +2 | 2020-05-11 | 2y 7mo ago |
+| [Dockerfile.bash-static](https://gist.github.com/dims/34c53ccaabe81ca65399677645e7a2db) | `Dockerfile.bash-static` +2 | 2020-05-11 | 2y 8mo ago |
 | [Drop into the shell inside kubekins-e2e container](https://gist.github.com/dims/ac6153c1c9d07a3d2b597c4b8cb86c35) | `run-kubekins-e2e-shell.sh` | 2024-02-09 | 2y 9mo ago |
 | [go-releaser-README.md](https://gist.github.com/dims/c17535b428c4cc147b311bd37433e57d) | `go-releaser-README.md` | 2023-06-29 | 2y 9mo ago |
 | [Run local-up-cluster.sh on a fresh ubuntu environment](https://gist.github.com/dims/3abadba6b7c6812ec90dd11ef4554f6e) | `run-local-up-cluster-on-fresh-ubuntu-install.sh` | 2023-05-08 | 2y 9mo ago |
@@ -277,7 +277,7 @@
 | [a.go](https://gist.github.com/dims/f0c6bde28e764c049fc891e03b02cf93) | `a.go` | 2016-07-22 | 10y 3mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/6f16fb2c65d75c8be5c609c076b67b30) | `gistfile1.txt` | 2016-07-21 | 10y 3mo ago |
 | [gistfile1.txt](https://gist.github.com/dims/16ef3687d78e826c4328d802de1d00b9) | `gistfile1.txt` | 2016-07-20 | 10y 3mo ago |
-| [gistfile1.txt](https://gist.github.com/dims/1a2a76ef1279b19a31d24926c0f9e5a7) | `gistfile1.txt` | 2016-07-15 | 10y 3mo ago |
+| [gistfile1.txt](https://gist.github.com/dims/1a2a76ef1279b19a31d24926c0f9e5a7) | `gistfile1.txt` | 2016-07-15 | 10y 4mo ago |
 | [regit.sh](https://gist.github.com/dims/a28be63da4650b617be4a346eca271ff) | `regit.sh` | 2016-07-15 | 10y 4mo ago |
 | [extract-k8s-client.sh](https://gist.github.com/dims/a4e9e7a5db4058b09c70a305f5b73d6f) | `extract-k8s-client.sh` | 2016-07-12 | 10y 4mo ago |
 | [hello-nginx.sh](https://gist.github.com/dims/3bdd75f49647cf0089155cd331d983a9) | `hello-nginx.sh` | 2016-07-11 | 10y 4mo ago |
