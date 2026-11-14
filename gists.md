@@ -1,17 +1,17 @@
 # 📝 Gists
 
-> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-13 18:01 UTC
+> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-14 00:03 UTC
 
 
 ## 📅 2026
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [Kubernetes dependency security analysis (latest: 2026-11-10) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 2d ago |
-| [Kubernetes unwanted vendor dependencies status — November 2026 (2026-11-10 edition)](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-11.md` +1 | 2026-04-26 | 2d ago |
-| [Kubernetes Dependency Reduction Assessment (Nov 10, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 2d ago |
-| [Kubernetes Dependency Analysis (master 8f4e62e268d vs v1.37.2, 2026-11-10) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | 2d ago |
-| [How `k8s.io` and `sigs.k8s.io` Serve Go Vanity Imports](https://gist.github.com/dims/dd78680b549aca38dd60ec0c8a2c6200) | `vanity.md` | 2026-10-21 | 22d ago |
+| [Kubernetes dependency security analysis (latest: 2026-11-10) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | 3d ago |
+| [Kubernetes unwanted vendor dependencies status — November 2026 (2026-11-10 edition)](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-11.md` +1 | 2026-04-26 | 3d ago |
+| [Kubernetes Dependency Reduction Assessment (Nov 10, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | 3d ago |
+| [Kubernetes Dependency Analysis (master 8f4e62e268d vs v1.37.2, 2026-11-10) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | 3d ago |
+| [How `k8s.io` and `sigs.k8s.io` Serve Go Vanity Imports](https://gist.github.com/dims/dd78680b549aca38dd60ec0c8a2c6200) | `vanity.md` | 2026-10-21 | 23d ago |
 | [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 1mo ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 2mo ago |
 | [Kubernetes CI: fixed since v1.37 code freeze (2026-07-22 → 2026-08-03) — wins, verification, call to action](https://gist.github.com/dims/f102915bd1ce82db9ca100d0c7574d8c) | `ci-fixes-since-v137-code-freeze-2026-08-03.md` | 2026-08-03 | 3mo ago |
@@ -67,11 +67,11 @@
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [Feature Gates in Kubernetes master branch on Nov 9, 2025](https://gist.github.com/dims/a0ecf5de51235968e12b9d6b62ac3a83) | `features.md` +1 | 2025-01-11 | 10mo ago |
+| [Feature Gates in Kubernetes master branch on Nov 9, 2025](https://gist.github.com/dims/a0ecf5de51235968e12b9d6b62ac3a83) | `features.md` +1 | 2025-01-11 | 11mo ago |
 | [containerd-missing-blobs-analysis.md](https://gist.github.com/dims/527daa6f5cb3a3278362983ab33f56a5) | `containerd-missing-blobs-analysis.md` | 2025-12-08 | 11mo ago |
 | [Lima based Ubuntu with Containerd startup](https://gist.github.com/dims/a23f4404ad5ab299a5528d6f7969d1f8) | `README.md` +2 | 2025-12-04 | 11mo ago |
 | [kepify.json](https://gist.github.com/dims/97ca19d97d74c5ec697f7d01c5dc1247) | `kepify.json` | 2020-01-19 | 11mo ago |
-| [mongodb-postgresql-unified-guide.md](https://gist.github.com/dims/87c83827c941b3d4202592f78ca37f81) | `mongodb-postgresql-unified-guide.md` | 2025-11-18 | 11mo ago |
+| [mongodb-postgresql-unified-guide.md](https://gist.github.com/dims/87c83827c941b3d4202592f78ca37f81) | `mongodb-postgresql-unified-guide.md` | 2025-11-18 | 12mo ago |
 | [claude-review.md](https://gist.github.com/dims/2ff5ed4f2c0e7301b186956dc0f4a4a1) | `claude-review.md` | 2025-11-15 | 12mo ago |
 | [cursor-review.md](https://gist.github.com/dims/dd39826639755a805769294889121b2d) | `cursor-review.md` | 2025-11-15 | 12mo ago |
 | [node-problem-detector plugin architecture guide](https://gist.github.com/dims/6f482d9fe34669c0df8f8f5564474981) | `PLUGIN_ARCHITECTURE_GUIDE.md` | 2025-10-30 | 1y ago |
@@ -92,7 +92,7 @@
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
 | [BlueSky \| Unfollow All](https://gist.github.com/dims/be58d270dc5923a67ad5699d6598f2da) | `unfollow.js` | 2024-11-15 | 1y 12mo ago |
-| [bluesky-notes.md](https://gist.github.com/dims/ca85222a3d25eb1b3a4df8b7fafa51b5) | `bluesky-notes.md` | 2024-11-13 | 1y 12mo ago |
+| [bluesky-notes.md](https://gist.github.com/dims/ca85222a3d25eb1b3a4df8b7fafa51b5) | `bluesky-notes.md` | 2024-11-13 | 2y ago |
 | [gistfile1.txt](https://gist.github.com/dims/f71271782f8840cf5c9973d7213a505c) | `gistfile1.txt` | 2024-11-07 | 2y ago |
 | [get-tag](https://gist.github.com/dims/8abfcc815cddc9148b6d21a982e14267) | `get-tag` +2 | 2024-10-31 | 2y ago |
 | [cac4k8s-README.md](https://gist.github.com/dims/28f82eb9b9d2394c6aa49e5ac7788721) | `cac4k8s-README.md` | 2024-10-30 | 2y ago |
