@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-18 06:01 UTC
+> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-18 12:01 UTC
 
 
 ## 📅 2026
@@ -77,7 +77,7 @@
 | [node-problem-detector plugin architecture guide](https://gist.github.com/dims/6f482d9fe34669c0df8f8f5564474981) | `PLUGIN_ARCHITECTURE_GUIDE.md` | 2025-10-30 | 1y ago |
 | [get-helm-3](https://gist.github.com/dims/d1f1484e1dbdf13f0d1511917ef9b177) | `get-helm-3` | 2025-10-29 | 1y ago |
 | [validate the nginx configuration in k8s.io/apps/k8s-io](https://gist.github.com/dims/80e556414989f30b9a500957460a7855) | `out.log` +1 | 2025-09-21 | 1y 1mo ago |
-| [[DEPRECATED] Python script to compute updates to the Kubernetes go.mod to see how far we are behind latest in vendored repos (please look in artifacts generated in this job - https://testgrid.k8s.io/sig-arch-code-organization#unit-master-dependencies&width=20)](https://gist.github.com/dims/c0857b86441442b15852a4c2355db130) | `differences.md` +2 | 2019-05-20 | 1y 1mo ago |
+| [[DEPRECATED] Python script to compute updates to the Kubernetes go.mod to see how far we are behind latest in vendored repos (please look in artifacts generated in this job - https://testgrid.k8s.io/sig-arch-code-organization#unit-master-dependencies&width=20)](https://gist.github.com/dims/c0857b86441442b15852a4c2355db130) | `differences.md` +2 | 2019-05-20 | 1y 2mo ago |
 | [Extract Endpoint information from audit logs](https://gist.github.com/dims/1fc254d0e4d043ef18bbc84596785de2) | `README.md` +1 | 2025-08-19 | 1y 2mo ago |
 | [lima configuration for a local environment to test things on macos](https://gist.github.com/dims/20a824aff15a9ceaa8b7190124ff3d3b) | `README.md` +2 | 2025-07-03 | 1y 4mo ago |
 | [imports analysis](https://gist.github.com/dims/f9adba9ec5f92b72c269c6a4ddcd93d8) | `import_analyzer.go` +1 | 2025-06-19 | 1y 5mo ago |
@@ -124,7 +124,7 @@
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
 | [build al2023](https://gist.github.com/dims/59330c38174c3c4320ae2f041a5fb444) | `build-and-run-al2023.sh` | 2023-11-23 | 2y 11mo ago |
-| [Running the AWS sig-node tests and conformance tests in provider-aws-test-infra repo](https://gist.github.com/dims/eace914fc47209a9f9f8a2cafed586c9) | `gistfile1.txt` | 2023-11-17 | 2y 12mo ago |
+| [Running the AWS sig-node tests and conformance tests in provider-aws-test-infra repo](https://gist.github.com/dims/eace914fc47209a9f9f8a2cafed586c9) | `gistfile1.txt` | 2023-11-17 | 3y ago |
 | [gh-search-prs.txt](https://gist.github.com/dims/5d2351fe78922f8c84ee410b33ea0b17) | `gh-search-prs.txt` | 2023-10-25 | 3y ago |
 | [OpenSSF - https://securityscorecards.dev/](https://gist.github.com/dims/63c8290191ebdb7240cfa7f240ffdce4) | `scorecard.txt` | 2023-10-25 | 3y ago |
 | [Example of a CI job moving from using bootstrap to pod utils](https://gist.github.com/dims/c1296f8ed42238baea0a5fcae45f4cf4) | `after.yaml` +2 | 2019-11-06 | 3y 1mo ago |
