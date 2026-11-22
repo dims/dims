@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-22 12:01 UTC
+> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-22 18:01 UTC
 
 
 ## 📅 2026
@@ -18,7 +18,7 @@
 | [copyconstruct-debugging: Claude Code skill for debugging tricky bugs (diagnosis before remedy, fail-first verification)](https://gist.github.com/dims/57ba15220f27e0ac16d0e2547f3ff3a6) | `README.md` +1 | 2026-07-30 | 3mo ago |
 | [Enroot, libnvidia-container, and a path to CDI — architecture notes and migration design](https://gist.github.com/dims/9e40f18a6959cb897528c7d966986f4b) | `2026-07-24-enroot-libnvidia-container-cdi.md` | 2026-07-24 | 4mo ago |
 | [Agent Substrate — Dataplane Pluggability (design doc, proposed)](https://gist.github.com/dims/458eb6602d239e0909f6db272878c2b4) | `dataplane-pluggability.md` | 2026-06-28 | 4mo ago |
-| [Agent Substrate micro-VM (PR #287) runbook on a kind cluster: counter-microvm + OpenShell helpdesk-microvm demos, validated end-to-end (suspend/resume of cloud-hypervisor VM snapshots).](https://gist.github.com/dims/f0dcaa55d33caac8d538d54ccd5ba02a) | `2026-06-25-microvm-pr287-runbook.md` | 2026-06-25 | 4mo ago |
+| [Agent Substrate micro-VM (PR #287) runbook on a kind cluster: counter-microvm + OpenShell helpdesk-microvm demos, validated end-to-end (suspend/resume of cloud-hypervisor VM snapshots).](https://gist.github.com/dims/f0dcaa55d33caac8d538d54ccd5ba02a) | `2026-06-25-microvm-pr287-runbook.md` | 2026-06-25 | 5mo ago |
 | [Agent Substrate (agent-substrate/substrate) — Cross-Vendor Contributor & Affiliation Report (2026-06-03)](https://gist.github.com/dims/dc0c769bd5b94b4ebabecc60dbcd3dc8) | `2026-06-03-substrate-cross-vendor-contributors.md` | 2026-06-04 | 5mo ago |
 | [OpenShell (NVIDIA/OpenShell) — External Contributor & DCO-Hygiene Report (2026-05-26)](https://gist.github.com/dims/babbf3a37068402a1ef9c4d5eddf53d0) | `external-contributor-report.md` | 2026-06-03 | 5mo ago |
 | [aicr (NVIDIA/aicr) — External Contributor & DCO-Hygiene Report (2026-06-03)](https://gist.github.com/dims/2cf425291ca5aff2ebd4ff0e9928250c) | `2026-06-03-aicr-external-contributors.md` | 2026-06-03 | 5mo ago |
