@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-23 00:03 UTC
+> 🗂️ **284 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-23 06:02 UTC
 
 
 ## 📅 2026
@@ -126,7 +126,7 @@
 | [build al2023](https://gist.github.com/dims/59330c38174c3c4320ae2f041a5fb444) | `build-and-run-al2023.sh` | 2023-11-23 | 2y 11mo ago |
 | [Running the AWS sig-node tests and conformance tests in provider-aws-test-infra repo](https://gist.github.com/dims/eace914fc47209a9f9f8a2cafed586c9) | `gistfile1.txt` | 2023-11-17 | 3y ago |
 | [gh-search-prs.txt](https://gist.github.com/dims/5d2351fe78922f8c84ee410b33ea0b17) | `gh-search-prs.txt` | 2023-10-25 | 3y ago |
-| [OpenSSF - https://securityscorecards.dev/](https://gist.github.com/dims/63c8290191ebdb7240cfa7f240ffdce4) | `scorecard.txt` | 2023-10-25 | 3y ago |
+| [OpenSSF - https://securityscorecards.dev/](https://gist.github.com/dims/63c8290191ebdb7240cfa7f240ffdce4) | `scorecard.txt` | 2023-10-25 | 3y 1mo ago |
 | [Example of a CI job moving from using bootstrap to pod utils](https://gist.github.com/dims/c1296f8ed42238baea0a5fcae45f4cf4) | `after.yaml` +2 | 2019-11-06 | 3y 2mo ago |
 | [from https://github.com/distribution/distribution/pull/4031](https://gist.github.com/dims/1984d35f7a61af608dbf330bd16b2631) | `gistfile1.txt` | 2023-08-30 | 3y 2mo ago |
 | [testing-kubetest-ec2](https://gist.github.com/dims/5035282fc7eac7cf87bd093791d52253) | `testing-kubetest-ec2` | 2023-08-05 | 3y 3mo ago |
