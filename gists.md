@@ -1,16 +1,16 @@
 # 📝 Gists
 
-> 🗂️ **285 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-26 12:01 UTC
+> 🗂️ **285 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-26 18:01 UTC
 
 
 ## 📅 2026
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
 |--------|---------|-----------|-----------|
-| [Kubernetes dependency security analysis (latest: 2026-11-25) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | today |
-| [Kubernetes unwanted vendor dependencies status — November 2026 (2026-11-25 edition)](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-11.md` +1 | 2026-04-26 | today |
-| [Kubernetes Dependency Analysis (master 12a341541c4 vs v1.37.2, 2026-11-25) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | today |
-| [Kubernetes Dependency Reduction Assessment (Nov 25, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | today |
+| [Kubernetes dependency security analysis (latest: 2026-11-25) and the regeneration prompt](https://gist.github.com/dims/e7e55d375149d0c3b4d38f85c8cea172) | `2026-04-23-dep-security-v2-prompt.md` +1 | 2026-04-24 | yesterday |
+| [Kubernetes unwanted vendor dependencies status — November 2026 (2026-11-25 edition)](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-11.md` +1 | 2026-04-26 | yesterday |
+| [Kubernetes Dependency Analysis (master 12a341541c4 vs v1.37.2, 2026-11-25) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | yesterday |
+| [Kubernetes Dependency Reduction Assessment (Nov 25, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | yesterday |
 | [Go runtime: false sharing between profBlockLock and the block and mutex profile rates](https://gist.github.com/dims/315fa8834b4b49b6f9b5dac03c0d4b1c) | `go-runtime-profile-rate-false-sharing.md` | 2026-11-24 | yesterday |
 | [How `k8s.io` and `sigs.k8s.io` Serve Go Vanity Imports](https://gist.github.com/dims/dd78680b549aca38dd60ec0c8a2c6200) | `vanity.md` | 2026-10-21 | 1mo ago |
 | [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 1mo ago |
