@@ -1,6 +1,6 @@
 # 📝 Gists
 
-> 🗂️ **285 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-26 18:01 UTC
+> 🗂️ **285 public gists** &nbsp;·&nbsp; 🕐 last refreshed 2026-11-27 00:03 UTC
 
 
 ## 📅 2026
@@ -11,7 +11,7 @@
 | [Kubernetes unwanted vendor dependencies status — November 2026 (2026-11-25 edition)](https://gist.github.com/dims/c8dd44ba82ed51dfc242b065a6ff2284) | `k8s-unwanted-deps-2026-11.md` +1 | 2026-04-26 | yesterday |
 | [Kubernetes Dependency Analysis (master 12a341541c4 vs v1.37.2, 2026-11-25) -- depstat](https://gist.github.com/dims/8fdfd022d555525490384eddd6aed611) | `00-kubernetes-dep-analysis.md` +12 | 2026-02-08 | yesterday |
 | [Kubernetes Dependency Reduction Assessment (Nov 25, 2026)](https://gist.github.com/dims/44936292606e746c8ccb032db67007b0) | `kubernetes-dependency-analysis.md` | 2025-12-22 | yesterday |
-| [Go runtime: false sharing between profBlockLock and the block and mutex profile rates](https://gist.github.com/dims/315fa8834b4b49b6f9b5dac03c0d4b1c) | `go-runtime-profile-rate-false-sharing.md` | 2026-11-24 | yesterday |
+| [Go runtime: false sharing between profBlockLock and the block and mutex profile rates](https://gist.github.com/dims/315fa8834b4b49b6f9b5dac03c0d4b1c) | `go-runtime-profile-rate-false-sharing.md` | 2026-11-24 | 2d ago |
 | [How `k8s.io` and `sigs.k8s.io` Serve Go Vanity Imports](https://gist.github.com/dims/dd78680b549aca38dd60ec0c8a2c6200) | `vanity.md` | 2026-10-21 | 1mo ago |
 | [Kata Containers CRIU checkpoint/restore — design + intern test guide (PoC: dims/kata-containers criu-cr-containerd)](https://gist.github.com/dims/57d2f78550d749d6340bc426d1d9dd29) | `criu-checkpoint-restore-design.md` +1 | 2026-06-10 | 1mo ago |
 | [Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6) | `README.md` | 2021-05-09 | 3mo ago |
@@ -71,7 +71,7 @@
 | [Feature Gates in Kubernetes master branch on Nov 9, 2025](https://gist.github.com/dims/a0ecf5de51235968e12b9d6b62ac3a83) | `features.md` +1 | 2025-01-11 | 11mo ago |
 | [containerd-missing-blobs-analysis.md](https://gist.github.com/dims/527daa6f5cb3a3278362983ab33f56a5) | `containerd-missing-blobs-analysis.md` | 2025-12-08 | 11mo ago |
 | [Lima based Ubuntu with Containerd startup](https://gist.github.com/dims/a23f4404ad5ab299a5528d6f7969d1f8) | `README.md` +2 | 2025-12-04 | 11mo ago |
-| [kepify.json](https://gist.github.com/dims/97ca19d97d74c5ec697f7d01c5dc1247) | `kepify.json` | 2020-01-19 | 11mo ago |
+| [kepify.json](https://gist.github.com/dims/97ca19d97d74c5ec697f7d01c5dc1247) | `kepify.json` | 2020-01-19 | 12mo ago |
 | [mongodb-postgresql-unified-guide.md](https://gist.github.com/dims/87c83827c941b3d4202592f78ca37f81) | `mongodb-postgresql-unified-guide.md` | 2025-11-18 | 1y ago |
 | [claude-review.md](https://gist.github.com/dims/2ff5ed4f2c0e7301b186956dc0f4a4a1) | `claude-review.md` | 2025-11-15 | 1y ago |
 | [cursor-review.md](https://gist.github.com/dims/dd39826639755a805769294889121b2d) | `cursor-review.md` | 2025-11-15 | 1y ago |
@@ -226,7 +226,7 @@
 | [run_kubetest.sh](https://gist.github.com/dims/79a8ec3dd26c270940daa56518271e79) | `run_kubetest.sh` | 2018-02-16 | 8y 9mo ago |
 | [local.conf](https://gist.github.com/dims/43488ea7420c4275654d8e364d5bb464) | `local.conf` | 2018-02-07 | 8y 9mo ago |
 | [flush-iptables.sh](https://gist.github.com/dims/1772d4996c2e3935faab2ec70ced0559) | `flush-iptables.sh` | 2018-02-04 | 8y 9mo ago |
-| [cloud-controller-manager.sh](https://gist.github.com/dims/28b78c368eac7b8feff28105584b2129) | `cloud-controller-manager.sh` | 2018-01-02 | 8y 10mo ago |
+| [cloud-controller-manager.sh](https://gist.github.com/dims/28b78c368eac7b8feff28105584b2129) | `cloud-controller-manager.sh` | 2018-01-02 | 8y 11mo ago |
 ## 📅 2017
 
 | 📄 Gist | 🗃️ Files | 🌱 Created | ✏️ Updated |
